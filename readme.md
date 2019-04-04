@@ -11,7 +11,7 @@ sh build.sh
 ```
 
 ## Description
-### [build.sh](./db/scripts/build.sh)
+### [build.sh](./db/build.sh)
 * Drops the $FE_DBNAME database
 * Creates the $FE_DBNAME database
 * Runs shema-def.sql
