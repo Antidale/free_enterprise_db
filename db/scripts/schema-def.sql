@@ -3,13 +3,10 @@ create schema if not exists stats;
 create schema if not exists locations;
 create schema if not exists encounters;
 
-drop table if exists import.import_data cascade;
-drop table if exists stats.bosses cascade;
-drop table if exists locations.boss_fights cascade;
-drop table if exists encounters.boss_fights cascade;
+drop table if exists import.import_data;
 
 create table import.import_data(
-	Battle text
+	 Battle text
 	, battle_location text
 	, Enemy text
 	, Lvl text

@@ -2,12 +2,44 @@
 
 This is a project that will set up the schema, tables, and data for the [FreeEnterprise.Api](https://github.com/Antidale/FreeEnterprise.Api).
 
-Currently, it does not create the database or user, and it does not grant the user the necessary permissions for the schema or tables.
+## Usage
 
-I'm probably forgetting other assumptions, too. This is currently not sufficient for people unfamiliar with setting up a postgres instance to be able to run without additional setup that isn't oulined here.
+```sh
+cd /path/to/db/scripts
 
-Requirements:
-* Make
+sh build.sh
+```
+
+## Description
+### [build.sh](./db/scripts/build.sh)
+* Drops the $FE_DBNAME database
+* Creates the $FE_DBNAME database
+* Runs shema-def.sql
+* copies the boss_scaling_stats.csv to the import table
+* runs normalize-import.sql
+
+### [schema-def.sql](./db/scripts/schema-def.sql)
+* creates the following schemas
+	* import
+	* encounters
+	* locations
+	* stats
+* creates the import.import_data table
+
+### [normalize-import.sql](./db/scripts/normalize-import.sql)
+* creates the following tables
+	* encounters.boss_fights
+	* locations.boss_fights
+	* stats.bosses
+* the *.boss_fights tables are both linked to stats.bosses by a foreign key.
+
+## Requirements
 * postgres
 * psql in your PATH
+* build.sh is marked as executable (`chmod +x build.sql`)
+* A database user with the CREATEDB role. Preferably not the SUPERUSER for the instance
+* the following environment variables:
+	* $FE_DBNAME
+	* $FE_DBUSER
+* a .pg-pass file that supplies the password for the user you're signing in with.
 
