@@ -9,7 +9,7 @@ create table encounters.boss_fights(
 
 insert into encounters.boss_fights(battle)
 select distinct battle
-from import.import_data
+from import.boss_data
 order by battle;
 
 
@@ -23,7 +23,7 @@ create table locations.boss_fights (
 
 insert into locations.boss_fights (battle_location)
 select distinct battle_location
-from import.import_data
+from import.boss_data
 order by battle_location;
 
 -- Rest of insert
@@ -101,8 +101,49 @@ select
 			ScriptValue4],
 		null
 		)
-from import.import_data
+from import.boss_data
 join encounters.boss_fights
-	on import.import_data.battle = encounters.boss_fights.battle
+	on import.boss_data.battle = encounters.boss_fights.battle
 join locations.boss_fights
-	on import.import_data.battle_location = locations.boss_fights.battle_location;
+	on import.boss_data.battle_location = locations.boss_fights.battle_location;
+
+drop table if exists equipment.base;
+drop table if exists equipment.weapons;
+drop table if exists equipment.armor;
+
+create table equipment.base (
+	  id serial primary key
+	, item_name text
+	, equipment_type text
+	, category text
+	, str int not null default 0
+	, agi int not null default 0
+	, vit int not null default 0
+	, wis int not null default 0
+	, wil int not null default 0
+	, strong_vs text
+	, magnetic boolean
+	, can_equip text[]
+);
+
+create table equipment.weapons (
+	  attack int not null default 0
+	, hit int not null default 0
+	, status_influcted text
+	, casts text
+	, throwable boolean
+	, long_range boolean
+	, two_handed boolean
+)
+inherits (equipment.base);
+
+
+create table equipment.armor (
+	  def int not null default 0
+	, evade int not null default 0
+	, magic_def int not null default 0
+	, magic_evade int not null default 0
+	, status_protected text[]
+)
+inherits (equipment.base);
+
