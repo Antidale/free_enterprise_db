@@ -147,3 +147,82 @@ create table equipment.armor (
 )
 inherits (equipment.base);
 
+insert into equipment.weapons(
+	  item_name
+	, equipment_type
+	, category
+	, str
+	, agi
+	, vit
+	, wis
+	, wil
+	, strong_vs
+	, magnetic
+	, can_equip
+	, attack
+	, hit
+	, status_influcted
+	, casts
+	, throwable
+	, long_range
+	, two_handed
+)
+select
+  ItemName
+	, EquipType
+	, Category
+	, STR::int
+	, AGI::int
+	, VIT::int
+	, WIS::int
+	, WIL::int
+	, StrongVs
+	, Magnetic::boolean
+	, string_to_array(CanEquip, ',')
+	, Attack::int
+	, Hit::int
+	, StatusInflicted
+	, Casts
+	, Throwable::boolean
+	, LongRange::boolean
+	, TwoHanded::boolean
+from import.equipment_data
+where EquipType = 'Weapon';
+
+insert into equipment.armor(
+	  item_name
+	, equipment_type
+	, category
+	, str
+	, agi
+	, vit
+	, wis
+	, wil
+	, strong_vs
+	, magnetic
+	, can_equip
+	, def
+	, evade
+	, magic_def
+	, magic_evade
+	, status_protected
+)
+select
+	  ItemName
+	, EquipType
+	, Category
+	, STR::int
+	, AGI::int
+	, VIT::int
+	, WIS::int
+	, WIL::int
+	, StrongVs
+	, Magnetic::boolean
+	, string_to_array(replace(CanEquip, '"', ''), ',')
+	, Def::int
+	, Evade::int
+	, Coalesce(MDef, '0')::int
+	, Coalesce(MEvade, '0')::int
+	, string_to_array(replace(StatusProtected, '"', ''), ',')
+from import.equipment_data
+where EquipType = 'Armor';
