@@ -178,7 +178,7 @@ select
 	, WIL::int
 	, StrongVs
 	, Magnetic::boolean
-	, string_to_array(CanEquip, ',')
+	, string_to_array(replace(CanEquip, ' ', ''), ',')
 	, Attack::int
 	, Hit::int
 	, StatusInflicted
@@ -218,11 +218,11 @@ select
 	, WIL::int
 	, StrongVs
 	, Magnetic::boolean
-	, string_to_array(replace(CanEquip, '"', ''), ',')
+	, string_to_array(replace(CanEquip, ' ', ''), ',')
 	, Def::int
 	, Evade::int
 	, Coalesce(MDef, '0')::int
 	, Coalesce(MEvade, '0')::int
-	, string_to_array(replace(StatusProtected, '"', ''), ',')
+	, string_to_array(replace(StatusProtected, ' ', ''), ',')
 from import.equipment_data
 where EquipType = 'Armor';
