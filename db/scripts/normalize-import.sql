@@ -2,7 +2,6 @@ drop table if exists stats.bosses;
 drop table if exists encounters.boss_fights;
 drop table if exists locations.boss_fights;
 
-
 -- name of boss fight (e.g. "fabul gauntlet", "antlion")
 create table encounters.boss_fights(
 	id serial primary key,
@@ -13,7 +12,6 @@ insert into encounters.boss_fights(battle)
 select distinct battle
 from import.boss_data
 order by battle;
-
 
 -- location of boss fight
 create table locations.boss_fights (
@@ -131,7 +129,7 @@ create table equipment.base (
 create table equipment.weapons (
 	  attack int not null default 0
 	, hit int not null default 0
-	, status_influcted text
+	, status_inflicted text
 	, casts text
 	, throwable boolean
 	, long_range boolean
@@ -163,7 +161,7 @@ insert into equipment.weapons(
 	, can_equip
 	, attack
 	, hit
-	, status_influcted
+	, status_inflicted
 	, casts
 	, throwable
 	, long_range
