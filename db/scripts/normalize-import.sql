@@ -1,7 +1,9 @@
+drop table if exists stats.bosses;
+drop table if exists encounters.boss_fights;
+drop table if exists locations.boss_fights;
+
 
 -- name of boss fight (e.g. "fabul gauntlet", "antlion")
-drop table if exists encounters.boss_fights;
-
 create table encounters.boss_fights(
 	id serial primary key,
 	battle text
@@ -14,8 +16,6 @@ order by battle;
 
 
 -- location of boss fight
-drop table if exists locations.boss_fights;
-
 create table locations.boss_fights (
 	id serial primary key,
 	battle_location text
@@ -107,9 +107,9 @@ join encounters.boss_fights
 join locations.boss_fights
 	on import.boss_data.battle_location = locations.boss_fights.battle_location;
 
-drop table if exists equipment.base;
-drop table if exists equipment.weapons;
 drop table if exists equipment.armor;
+drop table if exists equipment.weapons;
+drop table if exists equipment.base;
 
 create table equipment.base (
 	  id serial primary key
@@ -124,6 +124,8 @@ create table equipment.base (
 	, strong_vs text
 	, magnetic boolean
 	, can_equip text[]
+	, icon text
+	, notes text
 );
 
 create table equipment.weapons (
@@ -166,6 +168,8 @@ insert into equipment.weapons(
 	, throwable
 	, long_range
 	, two_handed
+	, icon
+	, notes
 )
 select
   ItemName
@@ -186,6 +190,8 @@ select
 	, Throwable::boolean
 	, LongRange::boolean
 	, TwoHanded::boolean
+	, Coalesce(icon, '')
+	, Coalesce(notes, '')
 from import.equipment_data
 where EquipType = 'Weapon';
 
@@ -206,6 +212,8 @@ insert into equipment.armor(
 	, magic_def
 	, magic_evade
 	, status_protected
+	, icon
+	, notes
 )
 select
 	  ItemName
@@ -224,5 +232,7 @@ select
 	, Coalesce(MDef, '0')::int
 	, Coalesce(MEvade, '0')::int
 	, string_to_array(replace(StatusProtected, ' ', ''), ',')
+	, Coalesce(Icon, '')
+	, Coalesce(Notes, '')
 from import.equipment_data
 where EquipType = 'Armor';

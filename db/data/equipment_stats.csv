@@ -1,174 +1,174 @@
-Name,EquipType,Category,Attack,Hit,Def,Evade,MDef,MEvade,STR,AGI,VIT,WIS,WIL,StatusInflicted,Casts,StatusProtected,Strong VS,Magnetic,Throwable,Long Range,TwoHanded,CanEqup
-Staff,Weapon,Staff,4,45,0,0,0,0,0,0,0,0,0,,Poisona,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia"
-Cure,Weapon,Staff,8,50,0,0,0,0,0,0,0,0,0,,Cure1,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia"
-Silver,Weapon,Staff,12,55,0,0,0,0,0,0,0,0,3,,Basuna,,Zombie,y,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia"
-Power,Weapon,Staff,30,99,0,0,0,0,10,0,0,0,0,Berserk,,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia"
-Lunar,Weapon,Staff,36,60,0,0,0,0,0,0,0,0,10,,,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia"
-Life,Weapon,Staff,48,65,0,0,0,0,0,0,0,0,15,,Life1,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia"
-Silence,Weapon,Staff,52,60,0,0,0,0,0,0,0,0,10,Mute,Mute,,Mage,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia"
-Rod,Weapon,Rod,3,40,0,0,0,0,0,0,0,0,0,,Missile,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa"
-IceRod,Weapon,Rod,5,45,0,0,0,0,0,0,0,0,0,Ice,Ice1,,Reptile,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa"
-FlameRod,Weapon,Rod,7,45,0,0,0,0,0,0,0,3,0,Fire,Fire1,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa"
-Thunder,Weapon,Rod,10,50,0,0,0,0,0,0,0,3,0,Bolt,Lit1,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa"
-Change,Weapon,Rod,15,50,0,0,0,0,0,0,0,5,0,,Piggy,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa"
-Charm,Weapon,Rod,30,55,0,0,0,0,0,0,0,10,0,,Charm,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa"
-Stardust,Weapon,Rod,45,60,0,0,0,0,0,0,0,15,0,,Comet,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa"
-Lilith,Weapon,Rod,13,10,0,0,0,0,0,0,0,5,0,Absorb,Psych,,Zombie,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa"
-FireClaw,Weapon,Claw,0,80,0,0,0,0,0,0,0,0,0,Fire,,,,n,n,n,n,"Edge, Yang"
-IceClaw,Weapon,Claw,0,80,0,0,0,0,0,0,0,0,0,Ice,,,,n,n,n,n,"Edge, Yang"
-Thunder,Weapon,Claw,0,80,0,0,0,0,0,0,0,0,0,Bolt,,,Robot,n,n,n,n,"Edge, Yang"
-Charm,Weapon,Claw,0,50,0,0,0,0,0,3,0,0,0,Charm,,,Giant,n,n,n,n,"Edge, Yang"
-Poison,Weapon,Claw,0,90,0,0,0,0,3,0,0,0,0,Poison,,,,n,n,n,n,"Edge, Yang"
-CatClaw,Weapon,Claw,0,99,0,0,0,0,5,5,0,0,0,Sleep,,,,n,n,n,n,"Edge, Yang"
-Shadow,Weapon,Sword,10,80,0,0,0,0,0,0,0,0,0,Dark,,,,y,n,n,n,DK_Cecil
-Darkness,Weapon,Sword,20,85,0,0,0,0,0,0,0,0,0,Dark,,,,y,n,n,n,DK_Cecil
-Black,Weapon,Sword,30,90,0,0,0,0,5,5,5,5,-10,"Dark, KO",,,,y,n,n,n,DK_Cecil
-Legend,Weapon,Sword,40,99,0,0,0,0,0,0,0,0,3,Holy,,,,y,n,n,n,Pal_Cecil
-Light,Weapon,Sword,99,99,0,0,0,0,3,0,0,0,3,Holy,,,,y,y,n,n,Pal_Cecil
-Excalibur,Weapon,Sword,160,99,0,0,0,0,10,0,0,0,0,Holy,,,,y,y,n,n,Pal_Cecil
-Crystal,Weapon,Sword,200,99,0,0,0,0,15,0,15,0,15,Holy,,,Zombie,y,n,n,n,Pal_Cecil
-Fire,Weapon,Sword,65,80,0,0,0,0,0,0,0,0,0,Fire,,,,y,n,n,n,"Pal_Cecil, Kain"
-IceBrand,Weapon,Sword,75,80,0,0,0,0,0,0,0,0,0,Ice,,,,y,n,n,n,"Pal_Cecil, Kain"
-Defense,Weapon,Sword,105,90,0,0,0,0,0,0,15,0,0,,,,,y,y,n,n,"Pal_Cecil, Kain"
-Drain,Weapon,Sword,45,50,0,0,0,0,-5,-5,-5,-5,-5,Absorb,,,"Giant, Slime, Zombie",y,y,n,n,"Pal_Cecil, Kain"
-Ancient,Weapon,Sword,35,77,0,0,0,0,0,0,0,0,0,Curse,,,Spirit,y,y,n,n,Pal_Cecil
-Slumber,Weapon,Sword,55,77,0,0,0,0,0,0,0,0,0,Sleep,,,,y,y,n,n,Pal_Cecil
-Medusa (removed from FE),Weapon,Sword,77,66,0,0,0,0,0,0,0,0,0,Calcify 2,,,,y,y,n,n,Pal_Cecil
-Silver,Weapon,Sword,50,80,0,0,0,0,0,0,0,0,0,,,,Spirit,y,n,n,n,Pal_Cecil
-Avenger,Weapon,Sword,80,95,0,0,0,0,10,10,10,-10,-10,,,,,y,y,n,y,"Pal_Cecil, Kain"
-Spear,Weapon,Spear,9,99,0,0,0,0,0,0,0,0,0,Air,,,,y,n,n,n,Kain
-Wind,Weapon,Spear,55,80,0,0,0,0,0,0,0,0,0,Air,,,,y,n,n,n,Kain
-Flame,Weapon,Spear,66,80,0,0,0,0,0,0,0,0,0,"Air, Fire",Fire2,,,y,n,n,n,Kain
-Blizzard,Weapon,Spear,77,80,0,0,0,0,0,0,0,0,0,"Air, Ice",Ice2,,,y,n,n,n,Kain
-Dragoon,Weapon,Spear,99,80,0,0,0,0,0,0,0,0,0,Air,,,Dragon,y,y,n,n,Kain
-White,Weapon,Spear,109,80,0,0,0,0,0,0,0,0,0,"Air, Holy",White,,Spirit,y,y,n,n,Kain
-Drain,Weapon,Spear,88,22,0,0,0,0,-10,-10,-10,-10,-10,Absorb,,,"Giant, Slime, Zombie",y,y,n,n,Kain
-Gungnir,Weapon,Spear,92,80,0,0,0,0,0,0,15,0,0,Air,,,,y,y,n,n,Kain
-Short,Weapon,Katana,25,90,0,0,0,0,0,0,0,0,0,,,,,y,y,n,n,Edge
-Middle,Weapon,Katana,32,90,0,0,0,0,0,0,0,0,0,,,,,y,n,n,n,Edge
-Long,Weapon,Katana,40,90,0,0,0,0,0,0,0,0,0,,,,,y,n,n,n,Edge
-Ninja,Weapon,Katana,48,90,0,0,0,0,5,0,0,0,0,,,,,y,y,n,n,Edge
-Murasame,Weapon,Katana,55,90,0,0,0,0,5,-5,5,5,-5,,,,,y,y,n,n,Edge
-Masamune,Weapon,Katana,65,99,0,0,0,0,0,3,0,0,0,,Fast,,,y,y,n,n,Edge
-Boomerang,Weapon,Boomerang,20,80,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,Edge
-FullMoon,Weapon,Boomerang,40,85,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,Edge
-Assassin,Weapon,Dagger,29,55,0,0,0,0,5,5,5,-10,-10,KO,,,,y,y,n,n,"Edward, Rydia"
-Mute,Weapon,Dagger,35,75,0,0,0,0,0,0,0,5,0,Mute,,,Mage,y,y,n,n,
-Silver,Weapon,Dagger,20,99,0,0,0,0,0,0,0,0,0,,,,Spirit,y,y,n,n,
-Dancing,Weapon,Dagger,28,94,0,0,0,0,0,0,0,0,0,,Dancing,,,y,y,n,n,
-Spoon,Weapon,Dagger,255,99,0,0,0,0,0,0,0,0,0,,,,,y,y,n,n,Edward
-Shuriken,Weapon,Throwable,40,99,0,0,0,0,0,0,0,0,0,Air,,,,y,y,y,n,
-Ninja,Weapon,Throwable,80,99,0,0,0,0,0,0,0,0,0,Air,,,,y,y,y,n,
-Whip,Weapon,Whip,20,50,0,0,0,0,0,0,0,0,0,Stun,,,,n,n,n,n,Rydia
-Chain,Weapon,Whip,30,55,0,0,0,0,0,0,0,0,0,Stun,,,,y,n,n,n,Rydia
-Blitz,Weapon,Whip,40,60,0,0,0,0,0,0,0,0,0,"Stun, Bolt",,,,n,n,n,n,Rydia
-Flame,Weapon,Whip,50,65,0,0,0,0,5,5,5,-5,-5,"Stun, Fire",,,,n,n,n,n,Rydia
-Dragon,Weapon,Whip,55,75,0,0,0,0,5,5,5,-5,-5,Stun,,,Dragon,n,n,n,n,Rydia
-HandAxe,Weapon,Axe,35,50,0,0,0,0,3,0,0,0,0,,,,,y,y,n,n,"Cid, Kain, Pal_Cecil"
-Dwarf,Weapon,Axe,62,69,0,0,0,0,5,-5,5,-5,-5,,,,,y,n,y,n,"Cid, Kain, Pal_Cecil"
-Ogre,Weapon,Axe,80,85,0,0,0,0,0,0,0,0,0,,,,Giant,y,n,n,n,"Cid, Kain, Pal_Cecil"
-Poison,Weapon,Axe,95,60,0,0,0,0,0,0,0,0,0,Poison,Venom,,Giant,y,n,n,n,"Cid, Kain, Pal_Cecil"
-RuneAxe,Weapon,Axe,100,60,0,0,0,0,0,0,0,0,0,,,,Mage,y,n,n,n,"Cid, Kain, Pal_Cecil"
-Silver,Weapon,Hammer,55,75,0,0,0,0,0,0,0,0,0,,,,"Robot, Spirit",y,n,n,n,Cid
-Earth,Weapon,Hammer,65,75,0,0,0,0,5,0,0,0,0,Fire,Quake,,Robot,y,n,n,n,Cid
-Wooden,Weapon,Hammer,45,75,0,0,0,0,0,0,0,0,0,,,,Robot,n,n,n,n,Cid
-Dreamer,Weapon,Harp,8,85,0,0,0,0,0,0,0,0,0,Sleep,,,,n,n,y,n,Edward
-Charm,Weapon,Harp,18,90,0,0,0,0,0,0,0,0,0,Charm,,,,n,n,y,n,Edward
-ShortBow,Weapon,Bow,10,30,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa"
-CrossBow,Weapon,Bow,20,35,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa"
-GreatBow,Weapon,Bow,30,40,0,0,0,0,3,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa"
-Archer,Weapon,Bow,40,50,0,0,0,0,5,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa"
-ElvenBow,Weapon,Bow,50,75,0,0,0,0,0,0,0,5,0,Air,,,Mage,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa"
-Samurai,Weapon,Bow,60,60,0,0,0,0,10,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa"
-Artemis,Weapon,Bow,80,70,0,0,0,0,10,10,10,-10,-10,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa"
-Iron,Weapon,Arrow,5,0,0,0,0,0,0,0,0,0,0,,,,,y,n,y,n,
-White,Weapon,Arrow,10,0,0,0,0,0,0,0,0,0,0,Holy,,,"Spirit, Zombie",n,n,y,n,
-Fire,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Fire,,,,n,n,y,n,
-Ice,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Ice,,,,n,n,y,n,
-Lit,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Bolt,,,Robot,n,n,y,n,
-Darkness,Weapon,Arrow,20,0,0,0,0,0,0,0,0,0,0,Blind,,,,n,n,y,n,
-Poison,Weapon,Arrow,30,0,0,0,0,0,0,0,0,0,0,Poison,,,,n,n,y,n,
-Mute,Weapon,Arrow,35,0,0,0,0,0,0,0,0,0,0,Mute,,,Mage,n,n,y,n,
-Charm,Weapon,Arrow,40,0,0,0,0,0,0,0,0,0,0,Charm,,,Giant,n,n,y,n,
-Samurai,Weapon,Arrow,50,0,0,0,0,0,0,0,0,0,0,,,,,n,n,y,n,
-Medusa,Weapon,Arrow,1,0,0,0,0,0,0,0,0,0,0,Petrify,,,,n,n,y,n,
-Artemis,Weapon,Arrow,75,0,0,0,0,0,0,0,0,0,0,,,,Dragon,n,n,y,n,
-Iron,Armor,Shield,0,0,1,20,0,0,0,0,0,0,0,,,,,Y,n,n,n,
-Shadow,Armor,Shield,0,0,1,22,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil
-Black,Armor,Shield,0,0,2,24,0,1,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil
-Paladin,Armor,Shield,0,0,2,24,1,1,0,0,0,0,3,,,,Zombie,Y,n,n,n,
-Silver,Armor,Shield,0,0,3,26,2,2,0,0,0,0,0,,,,Spirit,Y,n,n,n,
-Fire,Armor,Shield,0,0,3,28,2,2,0,0,0,0,0,,,Ice,,Y,n,n,n,
-Ice,Armor,Shield,0,0,3,30,2,2,0,0,0,0,0,,,Fire,Reptile,Y,n,n,n,
-Diamond,Armor,Shield,0,0,4,32,2,3,0,0,0,0,0,,,Bolt,,n,n,n,n,
-Aegis,Armor,Shield,0,0,4,34,5,4,0,0,0,3,0,,,"Petrify, Calcify1, Calcify2",Mage,Y,n,n,n,
-Samurai,Armor,Shield,0,0,5,36,3,4,0,0,0,0,0,,,,,Y,n,n,n,
-Dragoon,Armor,Shield,0,0,6,38,3,5,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,
-Crystal,Armor,Shield,0,0,7,40,4,6,0,0,0,0,3,,,,Zombie,n,n,n,n,
-Iron,Armor,Helm,0,0,3,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,
-Shadow,Armor,Helm,0,0,4,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil
-Darkness,Armor,Helm,0,0,5,0,1,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil
-Black,Armor,Helm,0,0,6,0,1,1,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil
-Paladin,Armor,Helm,0,0,7,0,2,1,0,0,0,0,3,,,,Zombie,Y,n,n,n,"Cid, Kain, Pal_Cecil"
-Silver,Armor,Helm,0,0,8,0,2,2,0,0,0,0,0,,,,Spirit,Y,n,n,n,"Cid, Kain, Pal_Cecil"
-Diamond,Armor,Helm,0,0,9,0,2,2,0,0,0,0,0,,,Bolt,,n,n,n,n,"Cid, Kain, Pal_Cecil"
-Samurai,Armor,Helm,0,0,10,0,6,3,0,0,0,0,0,,,,,n,n,n,n,"Cid, Kain, Pal_Cecil"
-Dragoon,Armor,Helm,0,0,11,0,7,4,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,"Cid, Kain, Pal_Cecil"
-Crystal,Armor,Helm,0,0,12,0,8,5,0,0,0,0,3,,,"Fire, Ice, Bolt",Zombie,n,n,n,n,Pal_Cecil
-Cap,Armor,Helm,0,0,1,5,1,1,0,0,0,0,0,,,,,n,n,n,n,
-Leather,Armor,Helm,0,0,2,6,3,3,0,0,0,0,0,,,,,n,n,n,n,
-Gaea,Armor,Helm,0,0,3,7,5,5,0,0,0,3,3,,,,,n,n,n,n,
-Wizard,Armor,Helm,0,0,5,8,7,7,0,0,0,0,5,,,,Zombie,n,n,n,n,
-Tiara,Armor,Helm,0,0,7,10,10,9,0,0,0,10,0,,,Bolt,Dragon,Y,n,n,n,"Rosa, Porom, Rydia"
-Ribbon,Armor,Helm,0,0,9,12,12,12,0,0,0,0,0,,,"Poison, Blind, Mute, Pig, Mini, Frog, Petrify, KO, Calcify 1&2, Curse",Mage,n,n,n,n,
-Headband,Armor,Helm,0,0,1,10,1,1,5,0,0,0,0,,,Charm,,n,n,n,n,
-Bandanna,Armor,Helm,0,0,3,12,1,1,5,0,5,0,0,,,,,n,n,n,n,
-Ninja,Armor,Helm,0,0,5,14,1,1,3,3,3,0,0,,,Sleep,,n,n,n,n,
-Glass,Armor,Helm,0,0,30,0,0,0,0,0,0,0,0,,,Immune,,n,n,n,n,
-Iron,Armor,Armor,0,0,4,0,1,0,0,0,0,0,0,,,,,Y,n,n,n,
-Shadow,Armor,Armor,0,0,5,0,1,0,0,0,0,0,0,,,,,Y,n,n,n,
-Darkness,Armor,Armor,0,0,7,0,2,0,0,0,0,0,0,,,,,Y,n,n,n,
-Black,Armor,Armor,0,0,9,0,3,0,0,0,0,0,0,,,,,Y,n,n,n,
-Paladin,Armor,Armor,0,0,11,0,3,1,0,0,0,0,3,,,,Zombie,Y,n,n,n,
-Silver,Armor,Armor,0,0,13,0,4,2,0,0,0,0,0,,,,Spirit,Y,n,n,n,
-Fire,Armor,Armor,0,0,15,0,4,2,0,0,0,0,0,,,Ice,,Y,n,n,n,
-Ice,Armor,Armor,0,0,17,0,4,2,0,0,0,0,0,,,Fire,,Y,n,n,n,
-Diamond,Armor,Armor,0,0,19,0,4,2,0,0,0,0,0,,,Bolt,,n,n,n,n,
-Samurai,Armor,Armor,0,0,21,0,7,4,0,0,0,0,0,,,,,n,n,n,n,
-Dragoon,Armor,Armor,0,0,23,0,8,5,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,
-Crystal,Armor,Armor,0,0,25,0,10,6,0,0,0,0,3,,,"Blind, Mute, Pig, Mini, Frog, Berserk",Zombie,n,n,n,n,
-Adamant,Armor,Armor,0,0,100,10,20,12,15,15,15,15,15,,,"ALL EXCEPT Dark, Holy, Air, Absorb, Berserk",,n,n,n,n,
-Cloth,Armor,Armor,0,0,1,10,0,0,0,0,0,0,0,,,,,n,n,n,n,
-Leather,Armor,Armor,0,0,2,10,1,1,0,0,0,0,0,,,,,n,n,n,n,
-Gaea,Armor,Armor,0,0,3,10,3,3,0,0,0,0,0,,,Calcify 1&2,,n,n,n,n,
-Wizard,Armor,Armor,0,0,5,10,5,5,0,0,0,0,5,,,,,n,n,n,n,
-Black,Armor,Armor,0,0,8,10,7,7,0,0,0,0,5,,,,,n,n,n,n,
-Sorcerer,Armor,Armor,0,0,12,10,9,9,0,0,0,5,5,,,Bolt,Zombie,n,n,n,n,
-White,Armor,Armor,0,0,18,10,10,6,0,0,0,0,15,,,Blind,"Spirit, Zombie",n,n,n,n,
-Power,Armor,Armor,0,0,15,10,0,0,15,0,0,0,0,,,,,n,n,n,n,
-Heroine,Armor,Armor,0,0,20,40,5,5,15,15,15,-15,-15,,,Stun,,n,n,n,n,
-Prisoner,Armor,Armor,0,0,1,10,1,0,0,0,0,0,0,,,Sleep,,n,n,n,n,
-Bard,Armor,Armor,0,0,2,10,1,0,0,0,0,0,0,,,Mute,,n,n,n,n,
-Karate,Armor,Armor,0,0,5,20,2,1,3,0,0,0,0,,,,,n,n,n,n,
-Bl.Belt,Armor,Armor,0,0,10,30,3,2,5,0,5,0,0,,,,,n,n,n,n,
-Ninja,Armor,Armor,0,0,24,70,15,8,0,3,0,0,0,,,,,n,n,n,n,
-Iron Gauntlet,Armor,Hand,0,0,2,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,
-Shadow,Armor,Hand,0,0,2,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil
-Darkness,Armor,Hand,0,0,3,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil
-Black,Armor,Hand,0,0,4,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil
-Paladin,Armor,Hand,0,0,5,0,1,1,0,0,0,0,3,,,,Zombie,Y,n,n,n,
-Silver Gauntlet,Armor,Hand,0,0,6,0,2,2,0,0,0,0,0,,,,Spirit,Y,n,n,n,
-Diamond Gauntlet,Armor,Hand,0,0,7,0,3,3,0,0,0,0,0,,,Bolt,,n,n,n,n,
-Zeus,Armor,Hand,0,0,10,0,0,0,10,0,10,0,0,,,Mini,Giant,n,n,n,n,
-Samurai,Armor,Hand,0,0,8,0,5,3,0,0,0,0,0,,,,,n,n,n,n,
-Dragoon,Armor,Hand,0,0,9,0,6,3,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,
-Crystal Gauntlet,Armor,Hand,0,0,10,0,7,4,0,0,0,0,3,,,,Zombie,n,n,n,n,
-Iron Ring,Armor,Hand,0,0,2,10,2,1,0,0,0,0,0,,,,,Y,n,n,n,
-Ruby Ring,Armor,Hand,0,0,0,10,3,2,0,0,0,0,0,,,Pig,,n,n,n,n,
-Silver Ring,Armor,Hand,0,0,4,10,4,4,0,0,0,0,0,,,,Spirit,Y,n,n,n,
-Strength,Armor,Hand,0,0,2,10,2,2,5,0,0,0,0,,,,,Y,n,n,n,
-Rune,Armor,Hand,0,0,5,10,8,8,0,0,0,3,3,,,Mute,Mage,n,n,n,n,
-Crystal Ring,Armor,Hand,0,0,20,15,12,10,0,5,0,0,0,,,"Charm, Sleep, Stun",Dragon,n,n,n,n,
-Diamond Ring,Armor,Hand,0,0,6,10,8,6,0,0,0,0,0,,,Bolt,,n,n,n,n,
-Protect,Armor,Hand,0,0,10,15,12,10,0,0,15,0,0,,,"Fire, Ice, Bolt",,n,n,n,n,
-Cursed,Armor,Hand,0,0,0,0,0,0,-15,-15,-15,-15,-15,,,Absorb,,n,n,n,n,
+Name,EquipType,Category,Attack,Hit,Def,Evade,MDef,MEvade,STR,AGI,VIT,WIS,WIL,StatusInflicted,Casts,StatusProtected,Strong VS,Magnetic,Throwable,Long Range,TwoHanded,CanEqup,Icon,Notes
+Staff,Weapon,Staff,4,45,0,0,0,0,0,0,0,0,0,,Poisona,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,
+Cure,Weapon,Staff,8,50,0,0,0,0,0,0,0,0,0,,Cure1,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,
+Silver,Weapon,Staff,12,55,0,0,0,0,0,0,0,0,3,,Basuna,,Zombie,y,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,
+Power,Weapon,Staff,30,99,0,0,0,0,10,0,0,0,0,Berserk,,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,
+Lunar,Weapon,Staff,36,60,0,0,0,0,0,0,0,0,10,,,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,
+Life,Weapon,Staff,48,65,0,0,0,0,0,0,0,0,15,,Life1,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,
+Silence,Weapon,Staff,52,60,0,0,0,0,0,0,0,0,10,Mute,Mute,,Mage,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,
+Rod,Weapon,Rod,3,40,0,0,0,0,0,0,0,0,0,,Missile,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa",rod,
+IceRod,Weapon,Rod,5,45,0,0,0,0,0,0,0,0,0,Ice,Ice1,,Reptile,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa",rod,
+FlameRod,Weapon,Rod,7,45,0,0,0,0,0,0,0,3,0,Fire,Fire1,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa",rod,
+Thunder,Weapon,Rod,10,50,0,0,0,0,0,0,0,3,0,Bolt,Lit1,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa",rod,
+Change,Weapon,Rod,15,50,0,0,0,0,0,0,0,5,0,,Piggy,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa",rod,
+Charm,Weapon,Rod,30,55,0,0,0,0,0,0,0,10,0,,Charm,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa",rod,
+Stardust,Weapon,Rod,45,60,0,0,0,0,0,0,0,15,0,,Comet,,,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa",rod,
+Lilith,Weapon,Rod,13,10,0,0,0,0,0,0,0,5,0,Absorb,Psych,,Zombie,n,n,n,n,"Tellah, Palom, Rydia, FoSoYa",rod,
+FireClaw,Weapon,Claw,0,80,0,0,0,0,0,0,0,0,0,Fire,,,,n,n,n,n,"Edge, Yang",claw,
+IceClaw,Weapon,Claw,0,80,0,0,0,0,0,0,0,0,0,Ice,,,,n,n,n,n,"Edge, Yang",claw,
+Thunder,Weapon,Claw,0,80,0,0,0,0,0,0,0,0,0,Bolt,,,Robot,n,n,n,n,"Edge, Yang",claw,
+Charm,Weapon,Claw,0,50,0,0,0,0,0,3,0,0,0,Charm,,,Giant,n,n,n,n,"Edge, Yang",claw,
+Poison,Weapon,Claw,0,90,0,0,0,0,3,0,0,0,0,Poison,,,,n,n,n,n,"Edge, Yang",claw,
+CatClaw,Weapon,Claw,0,99,0,0,0,0,5,5,0,0,0,Sleep,,,,n,n,n,n,"Edge, Yang",claw,
+Shadow,Weapon,Sword,10,80,0,0,0,0,0,0,0,0,0,Dark,,,,y,n,n,n,DK_Cecil,dark_sword,
+Darkness,Weapon,Sword,20,85,0,0,0,0,0,0,0,0,0,Dark,,,,y,n,n,n,DK_Cecil,dark_sword,
+Black,Weapon,Sword,30,90,0,0,0,0,5,5,5,5,-10,"Dark, KO",,,,y,n,n,n,DK_Cecil,dark_sword,
+Legend,Weapon,Sword,40,99,0,0,0,0,0,0,0,0,3,Holy,,,,y,n,n,n,Pal_Cecil,holy_sword,
+Light,Weapon,Sword,99,99,0,0,0,0,3,0,0,0,3,Holy,,,,y,y,n,n,Pal_Cecil,holy_sword,
+Excalibur,Weapon,Sword,160,99,0,0,0,0,10,0,0,0,0,Holy,,,,y,y,n,n,Pal_Cecil,holy_sword,
+Crystal,Weapon,Sword,200,99,0,0,0,0,15,0,15,0,15,Holy,,,Zombie,y,n,n,n,Pal_Cecil,holy_sword,
+Fire,Weapon,Sword,65,80,0,0,0,0,0,0,0,0,0,Fire,,,,y,n,n,n,"Pal_Cecil, Kain",knight_sword,
+IceBrand,Weapon,Sword,75,80,0,0,0,0,0,0,0,0,0,Ice,,,,y,n,n,n,"Pal_Cecil, Kain",knight_sword,
+Defense,Weapon,Sword,105,90,0,0,0,0,0,0,15,0,0,,,,,y,y,n,n,"Pal_Cecil, Kain",knight_sword,
+Drain,Weapon,Sword,45,50,0,0,0,0,-5,-5,-5,-5,-5,Absorb,,,"Giant, Slime, Zombie",y,y,n,n,"Pal_Cecil, Kain",knight_sword,
+Ancient,Weapon,Sword,35,77,0,0,0,0,0,0,0,0,0,Curse,,,Spirit,y,y,n,n,Pal_Cecil,knight_sword,
+Slumber,Weapon,Sword,55,77,0,0,0,0,0,0,0,0,0,Sleep,,,,y,y,n,n,Pal_Cecil,knight_sword,
+Medusa (removed from FE),Weapon,Sword,77,66,0,0,0,0,0,0,0,0,0,Calcify 2,,,,y,y,n,n,Pal_Cecil,knight_sword,
+Silver,Weapon,Sword,50,80,0,0,0,0,0,0,0,0,0,,,,Spirit,y,n,n,n,Pal_Cecil,knight_sword,
+Avenger,Weapon,Sword,80,95,0,0,0,0,10,10,10,-10,-10,,,,,y,y,n,y,"Pal_Cecil, Kain",knight_sword,Overrides Crystal armor's beserk protection
+Spear,Weapon,Spear,9,99,0,0,0,0,0,0,0,0,0,Air,,,,y,n,n,n,Kain,spear,
+Wind,Weapon,Spear,55,80,0,0,0,0,0,0,0,0,0,Air,,,,y,n,n,n,Kain,spear,
+Flame,Weapon,Spear,66,80,0,0,0,0,0,0,0,0,0,"Air, Fire",Fire2,,,y,n,n,n,Kain,spear,
+Blizzard,Weapon,Spear,77,80,0,0,0,0,0,0,0,0,0,"Air, Ice",Ice2,,,y,n,n,n,Kain,spear,
+Dragoon,Weapon,Spear,99,80,0,0,0,0,0,0,0,0,0,Air,,,Dragon,y,y,n,n,Kain,spear,
+White,Weapon,Spear,109,80,0,0,0,0,0,0,0,0,0,"Air, Holy",White,,Spirit,y,y,n,n,Kain,spear,
+Drain,Weapon,Spear,88,22,0,0,0,0,-10,-10,-10,-10,-10,Absorb,,,"Giant, Slime, Zombie",y,y,n,n,Kain,spear,
+Gungnir,Weapon,Spear,92,80,0,0,0,0,0,0,15,0,0,Air,,,,y,y,n,n,Kain,spear,
+Short,Weapon,Katana,25,90,0,0,0,0,0,0,0,0,0,,,,,y,y,n,n,Edge,ninja_sword,
+Middle,Weapon,Katana,32,90,0,0,0,0,0,0,0,0,0,,,,,y,n,n,n,Edge,ninja_sword,
+Long,Weapon,Katana,40,90,0,0,0,0,0,0,0,0,0,,,,,y,n,n,n,Edge,ninja_sword,
+Ninja,Weapon,Katana,48,90,0,0,0,0,5,0,0,0,0,,,,,y,y,n,n,Edge,ninja_sword,
+Murasame,Weapon,Katana,55,90,0,0,0,0,5,-5,5,5,-5,,,,,y,y,n,n,Edge,ninja_sword,
+Masamune,Weapon,Katana,65,99,0,0,0,0,0,3,0,0,0,,Fast,,,y,y,n,n,Edge,ninja_sword,
+Boomerang,Weapon,Boomerang,20,80,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,Edge,boomerang,
+FullMoon,Weapon,Boomerang,40,85,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,Edge,boomerang,
+Assassin,Weapon,Dagger,29,55,0,0,0,0,5,5,5,-10,-10,KO,,,,y,y,n,n,"Edward, Rydia",dagger,
+Mute,Weapon,Dagger,35,75,0,0,0,0,0,0,0,5,0,Mute,,,Mage,y,y,n,n,,dagger,
+Silver,Weapon,Dagger,20,99,0,0,0,0,0,0,0,0,0,,,,Spirit,y,y,n,n,,dagger,
+Dancing,Weapon,Dagger,28,94,0,0,0,0,0,0,0,0,0,,Dancing,,,y,y,n,n,,dagger,
+Spoon,Weapon,Dagger,255,99,0,0,0,0,0,0,0,0,0,,,,,y,y,n,n,Edward,dagger,
+Shuriken,Weapon,Throwable,40,99,0,0,0,0,0,0,0,0,0,Air,,,,y,y,y,n,,shuriken,
+Ninja,Weapon,Throwable,80,99,0,0,0,0,0,0,0,0,0,Air,,,,y,y,y,n,,shuriken,
+Whip,Weapon,Whip,20,50,0,0,0,0,0,0,0,0,0,Stun,,,,n,n,n,n,Rydia,whip,
+Chain,Weapon,Whip,30,55,0,0,0,0,0,0,0,0,0,Stun,,,,y,n,n,n,Rydia,whip,
+Blitz,Weapon,Whip,40,60,0,0,0,0,0,0,0,0,0,"Stun, Bolt",,,,n,n,n,n,Rydia,whip,
+Flame,Weapon,Whip,50,65,0,0,0,0,5,5,5,-5,-5,"Stun, Fire",,,,n,n,n,n,Rydia,whip,
+Dragon,Weapon,Whip,55,75,0,0,0,0,5,5,5,-5,-5,Stun,,,Dragon,n,n,n,n,Rydia,whip,
+HandAxe,Weapon,Axe,35,50,0,0,0,0,3,0,0,0,0,,,,,y,y,n,n,"Cid, Kain, Pal_Cecil",axe,
+Dwarf,Weapon,Axe,62,69,0,0,0,0,5,-5,5,-5,-5,,,,,y,n,y,n,"Cid, Kain, Pal_Cecil",axe,
+Ogre,Weapon,Axe,80,85,0,0,0,0,0,0,0,0,0,,,,Giant,y,n,n,n,"Cid, Kain, Pal_Cecil",axe,
+Poison,Weapon,Axe,95,60,0,0,0,0,0,0,0,0,0,Poison,Venom,,Giant,y,n,n,n,"Cid, Kain, Pal_Cecil",axe,
+RuneAxe,Weapon,Axe,100,60,0,0,0,0,0,0,0,0,0,,,,Mage,y,n,n,n,"Cid, Kain, Pal_Cecil",axe,
+Silver,Weapon,Wrench,55,75,0,0,0,0,0,0,0,0,0,,,,"Robot, Spirit",y,n,n,n,Cid,wrench,
+Earth,Weapon,Wrench,65,75,0,0,0,0,5,0,0,0,0,Fire,Quake,,Robot,y,n,n,n,Cid,wrench,
+Wooden,Weapon,Wrench,45,75,0,0,0,0,0,0,0,0,0,,,,Robot,n,n,n,n,Cid,wrench,
+Dreamer,Weapon,Harp,8,85,0,0,0,0,0,0,0,0,0,Sleep,,,,n,n,y,n,Edward,harp,
+Charm,Weapon,Harp,18,90,0,0,0,0,0,0,0,0,0,Charm,,,,n,n,y,n,Edward,harp,
+ShortBow,Weapon,Bow,10,30,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,
+CrossBow,Weapon,Bow,20,35,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,
+GreatBow,Weapon,Bow,30,40,0,0,0,0,3,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,
+Archer,Weapon,Bow,40,50,0,0,0,0,5,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,
+ElvenBow,Weapon,Bow,50,75,0,0,0,0,0,0,0,5,0,Air,,,Mage,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,
+Samurai,Weapon,Bow,60,60,0,0,0,0,10,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,
+Artemis,Weapon,Bow,80,70,0,0,0,0,10,10,10,-10,-10,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,
+Iron,Weapon,Arrow,5,0,0,0,0,0,0,0,0,0,0,,,,,y,n,y,n,,arrow,
+White,Weapon,Arrow,10,0,0,0,0,0,0,0,0,0,0,Holy,,,"Spirit, Zombie",n,n,y,n,,arrow,
+Fire,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Fire,,,,n,n,y,n,,arrow,
+Ice,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Ice,,,,n,n,y,n,,arrow,
+Lit,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Bolt,,,Robot,n,n,y,n,,arrow,
+Darkness,Weapon,Arrow,20,0,0,0,0,0,0,0,0,0,0,Blind,,,,n,n,y,n,,arrow,
+Poison,Weapon,Arrow,30,0,0,0,0,0,0,0,0,0,0,Poison,,,,n,n,y,n,,arrow,
+Mute,Weapon,Arrow,35,0,0,0,0,0,0,0,0,0,0,Mute,,,Mage,n,n,y,n,,arrow,
+Charm,Weapon,Arrow,40,0,0,0,0,0,0,0,0,0,0,Charm,,,Giant,n,n,y,n,,arrow,
+Samurai,Weapon,Arrow,50,0,0,0,0,0,0,0,0,0,0,,,,,n,n,y,n,,arrow,
+Medusa,Weapon,Arrow,1,0,0,0,0,0,0,0,0,0,0,Petrify,,,,n,n,y,n,,arrow,
+Artemis,Weapon,Arrow,75,0,0,0,0,0,0,0,0,0,0,,,,Dragon,n,n,y,n,,arrow,
+Iron,Armor,Shield,0,0,1,20,0,0,0,0,0,0,0,,,,,Y,n,n,n,,shield,
+Shadow,Armor,Shield,0,0,1,22,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,shield,
+Black,Armor,Shield,0,0,2,24,0,1,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,shield,
+Paladin,Armor,Shield,0,0,2,24,1,1,0,0,0,0,3,,,,Zombie,Y,n,n,n,,shield,
+Silver,Armor,Shield,0,0,3,26,2,2,0,0,0,0,0,,,,Spirit,Y,n,n,n,,shield,
+Fire,Armor,Shield,0,0,3,28,2,2,0,0,0,0,0,,,Ice,,Y,n,n,n,,shield,
+Ice,Armor,Shield,0,0,3,30,2,2,0,0,0,0,0,,,Fire,Reptile,Y,n,n,n,,shield,
+Diamond,Armor,Shield,0,0,4,32,2,3,0,0,0,0,0,,,Bolt,,n,n,n,n,,shield,
+Aegis,Armor,Shield,0,0,4,34,5,4,0,0,0,3,0,,,"Petrify, Calcify1, Calcify2",Mage,Y,n,n,n,,shield,
+Samurai,Armor,Shield,0,0,5,36,3,4,0,0,0,0,0,,,,,Y,n,n,n,,shield,
+Dragoon,Armor,Shield,0,0,6,38,3,5,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,,shield,
+Crystal,Armor,Shield,0,0,7,40,4,6,0,0,0,0,3,,,,Zombie,n,n,n,n,,shield,
+Iron,Armor,Helm,0,0,3,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,,helmet,
+Shadow,Armor,Helm,0,0,4,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,helmet,
+Darkness,Armor,Helm,0,0,5,0,1,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,helmet,
+Black,Armor,Helm,0,0,6,0,1,1,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,helmet,
+Paladin,Armor,Helm,0,0,7,0,2,1,0,0,0,0,3,,,,Zombie,Y,n,n,n,"Cid, Kain, Pal_Cecil",helmet,
+Silver,Armor,Helm,0,0,8,0,2,2,0,0,0,0,0,,,,Spirit,Y,n,n,n,"Cid, Kain, Pal_Cecil",helmet,
+Diamond,Armor,Helm,0,0,9,0,2,2,0,0,0,0,0,,,Bolt,,n,n,n,n,"Cid, Kain, Pal_Cecil",helmet,
+Samurai,Armor,Helm,0,0,10,0,6,3,0,0,0,0,0,,,,,n,n,n,n,"Cid, Kain, Pal_Cecil",helmet,
+Dragoon,Armor,Helm,0,0,11,0,7,4,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,"Cid, Kain, Pal_Cecil",helmet,
+Crystal,Armor,Helm,0,0,12,0,8,5,0,0,0,0,3,,,"Fire, Ice, Bolt",Zombie,n,n,n,n,Pal_Cecil,helmet,
+Cap,Armor,Helm,0,0,1,5,1,1,0,0,0,0,0,,,,,n,n,n,n,,helmet,
+Leather,Armor,Helm,0,0,2,6,3,3,0,0,0,0,0,,,,,n,n,n,n,,helmet,
+Gaea,Armor,Helm,0,0,3,7,5,5,0,0,0,3,3,,,,,n,n,n,n,,helmet,
+Wizard,Armor,Helm,0,0,5,8,7,7,0,0,0,0,5,,,,Zombie,n,n,n,n,,helmet,
+Tiara,Armor,Helm,0,0,7,10,10,9,0,0,0,10,0,,,Bolt,Dragon,Y,n,n,n,"Rosa, Porom, Rydia",helmet,
+Ribbon,Armor,Helm,0,0,9,12,12,12,0,0,0,0,0,,,"Poison, Blind, Mute, Pig, Mini, Frog, Petrify, KO, Calcify 1&2, Curse",Mage,n,n,n,n,,helmet,
+Headband,Armor,Helm,0,0,1,10,1,1,5,0,0,0,0,,,Charm,,n,n,n,n,,helmet,
+Bandanna,Armor,Helm,0,0,3,12,1,1,5,0,5,0,0,,,,,n,n,n,n,,helmet,
+Ninja,Armor,Helm,0,0,5,14,1,1,3,3,3,0,0,,,Sleep,,n,n,n,n,,helmet,
+Glass,Armor,Helm,0,0,30,0,0,0,0,0,0,0,0,,,Immune,,n,n,n,n,,helmet,
+Iron,Armor,Armor,0,0,4,0,1,0,0,0,0,0,0,,,,,Y,n,n,n,,helmet,
+Shadow,Armor,Armor,0,0,5,0,1,0,0,0,0,0,0,,,,,Y,n,n,n,,armor,
+Darkness,Armor,Armor,0,0,7,0,2,0,0,0,0,0,0,,,,,Y,n,n,n,,armor,
+Black,Armor,Armor,0,0,9,0,3,0,0,0,0,0,0,,,,,Y,n,n,n,,armor,
+Paladin,Armor,Armor,0,0,11,0,3,1,0,0,0,0,3,,,,Zombie,Y,n,n,n,,armor,
+Silver,Armor,Armor,0,0,13,0,4,2,0,0,0,0,0,,,,Spirit,Y,n,n,n,,armor,
+Fire,Armor,Armor,0,0,15,0,4,2,0,0,0,0,0,,,Ice,,Y,n,n,n,,armor,
+Ice,Armor,Armor,0,0,17,0,4,2,0,0,0,0,0,,,Fire,,Y,n,n,n,,armor,
+Diamond,Armor,Armor,0,0,19,0,4,2,0,0,0,0,0,,,Bolt,,n,n,n,n,,armor,
+Samurai,Armor,Armor,0,0,21,0,7,4,0,0,0,0,0,,,,,n,n,n,n,,armor,
+Dragoon,Armor,Armor,0,0,23,0,8,5,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,,armor,
+Crystal,Armor,Armor,0,0,25,0,10,6,0,0,0,0,3,,,"Blind, Mute, Pig, Mini, Frog, Berserk",Zombie,n,n,n,n,,armor,
+Adamant,Armor,Armor,0,0,100,10,20,12,15,15,15,15,15,,,"ALL EXCEPT Dark, Holy, Air, Absorb, Berserk",,n,n,n,n,,armor,
+Cloth,Armor,Armor,0,0,1,10,,,0,0,0,0,0,,,,,n,n,n,n,,clothes,
+Leather,Armor,Armor,0,0,2,10,1,1,0,0,0,0,0,,,,,n,n,n,n,,clothes,
+Gaea,Armor,Armor,0,0,3,10,3,3,0,0,0,0,0,,,Calcify 1&2,,n,n,n,n,,clothes,
+Wizard,Armor,Armor,0,0,5,10,5,5,0,0,0,0,5,,,,,n,n,n,n,,clothes,
+Black,Armor,Armor,0,0,8,10,7,7,0,0,0,0,5,,,,,n,n,n,n,,clothes,
+Sorcerer,Armor,Armor,0,0,12,10,9,9,0,0,0,5,5,,,Bolt,Zombie,n,n,n,n,,clothes,
+White,Armor,Armor,0,0,18,10,10,6,0,0,0,0,15,,,Blind,"Spirit, Zombie",n,n,n,n,,clothes,
+Power,Armor,Armor,0,0,15,10,0,0,15,0,0,0,0,,,,,n,n,n,n,,clothes,
+Heroine,Armor,Armor,0,0,20,40,5,5,15,15,15,-15,-15,,,Stun,,n,n,n,n,,clothes,
+Prisoner,Armor,Armor,0,0,1,10,1,0,0,0,0,0,0,,,Sleep,,n,n,n,n,,clothes,
+Bard,Armor,Armor,0,0,2,10,1,0,0,0,0,0,0,,,Mute,,n,n,n,n,,clothes,
+Karate,Armor,Armor,0,0,5,20,2,1,3,0,0,0,0,,,,,n,n,n,n,,clothes,
+Bl.Belt,Armor,Armor,0,0,10,30,3,2,5,0,5,0,0,,,,,n,n,n,n,,clothes,
+Ninja,Armor,Armor,0,0,24,70,15,8,0,3,0,0,0,,,,,n,n,n,n,,clothes,
+Iron Gauntlet,Armor,Hand,0,0,2,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,,gauntlet,
+Shadow,Armor,Hand,0,0,2,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,gauntlet,
+Darkness,Armor,Hand,0,0,3,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,gauntlet,
+Black,Armor,Hand,0,0,4,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,gauntlet,
+Paladin,Armor,Hand,0,0,5,0,1,1,0,0,0,0,3,,,,Zombie,Y,n,n,n,,gauntlet,
+Silver Gauntlet,Armor,Hand,0,0,6,0,2,2,0,0,0,0,0,,,,Spirit,Y,n,n,n,,gauntlet,
+Diamond Gauntlet,Armor,Hand,0,0,7,0,3,3,0,0,0,0,0,,,Bolt,,n,n,n,n,,gauntlet,
+Zeus,Armor,Hand,0,0,10,0,0,0,10,0,10,0,0,,,Mini,Giant,n,n,n,n,,gauntlet,
+Samurai,Armor,Hand,0,0,8,0,5,3,0,0,0,0,0,,,,,n,n,n,n,,gauntlet,
+Dragoon,Armor,Hand,0,0,9,0,6,3,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,,gauntlet,
+Crystal Gauntlet,Armor,Hand,0,0,10,0,7,4,0,0,0,0,3,,,,Zombie,n,n,n,n,,gauntlet,
+Iron Ring,Armor,Hand,0,0,2,10,2,1,0,0,0,0,0,,,,,Y,n,n,n,,ring,
+Ruby Ring,Armor,Hand,0,0,0,10,3,2,0,0,0,0,0,,,Pig,,n,n,n,n,,ring,
+Silver Ring,Armor,Hand,0,0,4,10,4,4,0,0,0,0,0,,,,Spirit,Y,n,n,n,,ring,
+Strength,Armor,Hand,0,0,2,10,2,2,5,0,0,0,0,,,,,Y,n,n,n,,ring,
+Rune,Armor,Hand,0,0,5,10,8,8,0,0,0,3,3,,,Mute,Mage,n,n,n,n,,ring,
+Crystal Ring,Armor,Hand,0,0,20,15,12,10,0,5,0,0,0,,,"Charm, Sleep, Stun",Dragon,n,n,n,n,,ring,
+Diamond Ring,Armor,Hand,0,0,6,10,8,6,0,0,0,0,0,,,Bolt,,n,n,n,n,,ring,
+Protect,Armor,Hand,0,0,10,15,12,10,0,0,15,0,0,,,"Fire, Ice, Bolt",,n,n,n,n,,ring,
+Cursed,Armor,Hand,0,0,0,0,0,0,-15,-15,-15,-15,-15,,,Absorb,,n,n,n,n,,ring,
