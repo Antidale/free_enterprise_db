@@ -58,4 +58,6 @@ create table import.equipment_data (
 	, LongRange text
 	, TwoHanded text
 	, CanEquip text
+	, Icon text
+	, Notes text
 )
