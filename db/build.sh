@@ -1,4 +1,3 @@
-#!usr/bin/bash
 
 psql -d postgres -h $FE_PGHOST -U $FE_PGUSER -c "drop database if exists $FE_PGDATABASE"
 
