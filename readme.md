@@ -51,3 +51,5 @@ sh build.sh
 * a .pg-pass file that supplies the password for the user you're signing in with.
 * the port is currently assumed to be the standad port of postgres
 
+### Additional Help with postgres
+* After your first connection as the super user, create the slightly more limted user with this (with your own good password, of course): `Create user free_enterprise with login createdb password 'Your Good Password';`

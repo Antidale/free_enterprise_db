@@ -26,10 +26,7 @@ create table import.boss_data(
 	, MinSpd text
 	, MaxSpd text
 	, SpellPower text
-	, ScriptValue1 text
-	, ScriptValue2 text
-	, ScriptValue3 text
-	, ScriptValue4 text
+	, Notes text 
 );
 
 drop table if exists import.equipment_data;
@@ -60,4 +57,6 @@ create table import.equipment_data (
 	, CanEquip text
 	, Icon text
 	, Notes text
+	, Tier text
+	, Price text
 )
