@@ -1,8 +1,13 @@
 #!usr/bin/bash
 
-psql -d postgres -h $FE_PGHOST -U $FE_PGUSER -c "drop database if exists $FE_PGDATABASE"
+# psql -d postgres -h $FE_PGHOST -U $FE_PGUSER -c "drop database if exists $FE_PGDATABASE"
 
-createdb $FE_PGDATABASE -U $FE_PGUSER -h $FE_PGHOST
+if psql -d ${DB_NAME} -h $FE_PGHOST -U $FE_PGUSER -c '\q' 2>&1; 
+then
+   echo "database ${DB_NAME} exists. skipping create"
+else
+    createdb $FE_PGDATABASE -U $FE_PGUSER -h $FE_PGHOST    
+fi
 
 psql -h $FE_PGHOST  -d $FE_PGDATABASE -U $FE_PGUSER -f ./scripts/schema-def.sql
 
