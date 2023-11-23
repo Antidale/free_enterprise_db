@@ -46,7 +46,7 @@ create table stats.bosses(
 	min_speed int not null default 0,
 	max_speed int not null default 0,
 	spell_power int not null default 0,
-	script_values text[]
+	notes text
 );
 
 insert into stats.bosses(
@@ -69,7 +69,7 @@ insert into stats.bosses(
 	min_speed,
 	max_speed,
 	spell_power,
-	script_values
+	notes
 )
 select
 	locations.boss_fights.id,
@@ -91,14 +91,7 @@ select
 	MinSpd::int,
 	MaxSpd::int,
 	NullIf(SpellPower, '')::int,
-	array_remove(
-		Array[
-			ScriptValue1,
-			ScriptValue2,
-			ScriptValue3,
-			ScriptValue4],
-		null
-		)
+	NullIf(Notes, '')
 from import.boss_data
 join encounters.boss_fights
 	on import.boss_data.battle = encounters.boss_fights.battle
@@ -124,6 +117,8 @@ create table equipment.base (
 	, can_equip text[]
 	, icon text
 	, notes text
+	, tier text
+	, price int not null default 1
 );
 
 create table equipment.weapons (
@@ -168,6 +163,8 @@ insert into equipment.weapons(
 	, two_handed
 	, icon
 	, notes
+	, tier
+	, price
 )
 select
   ItemName
@@ -190,6 +187,8 @@ select
 	, TwoHanded::boolean
 	, Coalesce(icon, '')
 	, Coalesce(notes, '')
+	, Tier
+	, Price::int
 from import.equipment_data
 where EquipType = 'Weapon';
 
@@ -212,6 +211,8 @@ insert into equipment.armor(
 	, status_protected
 	, icon
 	, notes
+	, tier
+	, price
 )
 select
 	  ItemName
@@ -232,5 +233,7 @@ select
 	, string_to_array(replace(StatusProtected, ' ', ''), ',')
 	, Coalesce(Icon, '')
 	, Coalesce(Notes, '')
+	, Tier::int
+	, Price::int
 from import.equipment_data
 where EquipType = 'Armor';
