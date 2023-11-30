@@ -1,8 +1,8 @@
 #!usr/bin/bash
 
-if psql -d ${DB_NAME} -h $FE_PGHOST -U $FE_PGUSER -c '\q' 2>&1; 
+if psql -d ${FE_PGDATABASE} -h $FE_PGHOST -U $FE_PGUSER -c '\q' 2>&1;
 then
-   echo "database ${DB_NAME} exists. skipping create"
+   echo "database ${FE_PGDATABASE} exists. skipping create"
 else
     createdb $FE_PGDATABASE -U $FE_PGUSER -h $FE_PGHOST    
 fi
