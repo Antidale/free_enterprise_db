@@ -12,24 +12,23 @@ sh build.sh
 
 ## Description
 ### [build.sh](./db/build.sh)
-* Drops the $FE_DBNAME database
-* Creates the $FE_DBNAME database
-* Runs shema-def.sql
+* Creates the $FE_PGDATABASE if it doesn't exist
+* runs create-schema.sql
+* runs create-tables.sql
 * copies the boss_scaling_stats.csv to the import.boss_stats table
 * copies the equipment_stats.csv to the import.equipment_stats table
-* runs normalize-import.sql
+* runs normalize-import-data.sql
+* runs tournament-schema.sql
 
-### [schema-def.sql](./db/scripts/schema-def.sql)
+### [create-schema.sql](./db/scripts/create-schema.sql)
 * creates the following schemas
 	* encounters
 	* locations
 	* stats
 	* import
 	* equipment
-* creates the import.boss_data table
-* creates the import.equipment_stats table
 
-### [normalize-import.sql](./db/scripts/normalize-import.sql)
+### [create-tables.sql](./db/scripts/create-tables.sql)
 * creates the following tables
 	* encounters.boss_fights
 	* locations.boss_fights
@@ -37,7 +36,16 @@ sh build.sh
 	* equipment.base
 	* equipment.weapons
 	* equipment.armor
+
+### [normalize-import.sql](./db/scripts/normalize-import.sql)
+* inserts distinct boss fight name (battle) from import.bossdata into encounters.boss_fights
+* inserts distinct boss locations (battle_location) from import.bossdata into encounters_
+* inserts into stats.bosses the remaining unimported columns from import.boss_data
 * the *.boss_fights tables are both linked to stats.bosses by a foreign key.
+
+### [tourament-schem.sql](./db/scripts/tournament-schema.sql)
+* creates tournament schema if it doesn't exist
+* creates tournaments, entrants, and registrations tables if they don't exist
 
 ## Requirements
 * postgres
