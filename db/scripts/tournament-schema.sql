@@ -28,8 +28,10 @@ create table if not exists tournament.registrations(
 );
 
 CREATE OR REPLACE VIEW tournament.tournament_registrations AS
-    Select
+    Select 
           r.tournament_id -- tournaments.id
+        , t.guild_name
+        , t.guild_id  
         , t.tournament_name
         , t.registration_start
         , t.registration_end
