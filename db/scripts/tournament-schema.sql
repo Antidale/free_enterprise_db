@@ -26,3 +26,18 @@ create table if not exists tournament.registrations(
     user_name_alias text,
     registered_on timestamp DEFAULT now()
 );
+
+CREATE OR REPLACE VIEW tournament.tournament_registrations AS
+    Select
+          r.tournament_id -- tournaments.id
+        , t.tournament_name
+        , t.registration_start
+        , t.registration_end
+        , r.entrant_id -- entrants.id
+        , e.pronouns
+        , e.user_id
+        , r.user_name_alias as user_name
+        , r.registered_on
+    from tournament.tournaments t
+    left join tournament.registrations r on t.id = r.tournament_id
+    left join tournament.entrants e on r.entrant_id = e.id;
