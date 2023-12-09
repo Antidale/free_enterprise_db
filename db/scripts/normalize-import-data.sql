@@ -50,7 +50,7 @@ select
 	MinSpd::int,
 	MaxSpd::int,
 	NullIf(SpellPower, '')::int,
-	NullIf(Notes, '')
+	string_to_array(Notes, '^^')
 from import.boss_data
 join encounters.boss_fights
 	on import.boss_data.battle = encounters.boss_fights.battle
