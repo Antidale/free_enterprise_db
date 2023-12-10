@@ -49,7 +49,7 @@ create table import.equipment_data (
 	, Notes text
 	, Tier text
 	, Price text
-)
+);
 
 -- name of boss fight (e.g. "fabul gauntlet", "antlion")
 create table encounters.boss_fights(
