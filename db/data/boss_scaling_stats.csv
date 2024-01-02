@@ -407,74 +407,74 @@ cpu,Valvalis (Zot 2),Defender,36,500,3167,0,4,80,46,0,0,0,2,45,3,53,53,24,
 cpu,Wyvern (Lunar Sub),CPU,99,20834,21434,0,12,90,160,4,80,5,10,50,52,43,46,8,
 cpu,Wyvern (Lunar Sub),Attacker,99,2084,21434,0,8,90,106,5,30,6,4,60,15,35,38,3,
 cpu,Wyvern (Lunar Sub),Defender,99,2084,21434,0,8,90,106,5,30,6,4,60,15,111,111,3,
-darkelf,Antlion Cave,Dark Elf,2,20400,215,356,1,65,2,0,0,0,2,60,8,4,4,1,
-darkelf,Antlion Cave,Dark Elf,2,600,1286,445,2,85,11,0,0,2,2,60,8,5,5,2,
-darkelf,Asura (Feymarch),Dark Elf,50,29200,2858,0,4,80,44,0,0,0,8,80,37,53,53,5,
-darkelf,Asura (Feymarch),Dark Elf,63,13800,17143,0,10,99,134,0,0,0,8,80,37,66,66,69,
-darkelf,Cave Bahamut,Dark Elf,38,34800,5000,0,5,70,58,0,0,0,1,60,8,20,23,2,
-darkelf,Cave Bahamut,Dark Elf,47,22200,30000,0,13,99,174,0,0,1,1,60,8,27,27,17,
-darkelf,Baigan (Baron Castle 1),Dark Elf,8,21680,689,1334,1,75,18,0,0,0,3,60,11,7,7,1,
-darkelf,Baigan (Baron Castle 1),Dark Elf,9,2520,4132,1667,4,99,52,0,0,0,3,60,11,8,8,9,
-darkelf,Calbrena (Dwarf Castle 1),Dark Elf,38,23410,3000,3556,3,85,32,0,0,0,6,60,25,9,9,3,
-darkelf,Calbrena (Dwarf Castle 1),Dark Elf,47,5115,18000,4445,7,99,96,0,0,2,6,60,25,11,11,41,
-darkelf,CPU (Giant 2),Dark Elf,38,29600,21429,4593,5,70,58,0,0,0,8,50,38,31,31,9,
-darkelf,CPU (Giant 2),Dark Elf,48,14400,128572,5741,13,99,174,0,0,4,8,50,38,38,38,127,
-darkelf,Cave Magnes,Dark Elf,15,22000,1000,4000,1,75,18,0,0,0,99,99,254,9,9,1,
-darkelf,Cave Magnes,Dark Elf,19,3000,6000,5000,4,99,54,0,0,3,99,99,254,11,11,15,
-darkelf,Dark Imp (Tower Key),Dark Elf,13,20239,832,60,1,75,19,0,0,0,0,0,0,14,17,1,
-darkelf,Dark Imp (Tower Key),Dark Elf,16,359,4989,75,5,70,56,0,0,0,0,0,0,18,21,13,
-darkelf,D Lunar (Lunar Sub),Dark Elf,79,36800,14286,0,4,90,48,0,0,0,10,80,54,22,25,3,
-darkelf,D Lunar (Lunar Sub),Dark Elf,99,25200,85715,0,11,85,144,0,0,4,10,80,54,30,30,36,
-darkelf,Mist Cave,Dark Elf,8,20186,100,89,1,60,6,0,0,0,7,80,31,4,4,1,
-darkelf,Mist Cave,Dark Elf,10,279,600,112,2,90,16,0,0,5,7,80,31,5,5,10,
-darkelf,Elements (Giant 1),Dark Elf,63,61600,14643,8889,4,70,42,0,0,0,3,60,4,69,69,1,
-darkelf,Elements (Giant 1),Dark Elf,79,62400,87858,11112,10,80,128,0,0,3,3,60,4,89,89,15,
-darkelf,Sealed Cave,Dark Elf,30,27600,3286,3556,3,80,28,0,0,0,7,80,29,53,53,6,
-darkelf,Sealed Cave,Dark Elf,37,11400,19715,4445,6,90,84,0,0,2,7,80,29,66,66,79,
-darkelf,Fabul Defense,Dark Elf,12,20752,799,634,2,60,12,0,0,0,3,60,11,5,8,1,
-darkelf,Fabul Defense,Dark Elf,15,1128,4792,792,3,90,36,0,0,2,3,60,11,6,9,12,
-darkelf,Golbez (Dwarf Castle 2),Dark Elf,25,21201,2858,4889,1,80,21,0,0,0,0,0,0,20,23,1,
-darkelf,Golbez (Dwarf Castle 2),Dark Elf,31,1802,17143,6112,5,99,68,0,0,0,0,0,0,27,27,1,
-darkelf,Baron Guards (Baron Inn 1),Dark Elf,15,20160,206,445,1,75,18,0,0,0,3,40,14,9,12,2,
-darkelf,Baron Guards (Baron Inn 1),Dark Elf,18,240,1235,556,3,99,46,0,0,1,3,40,14,11,14,26,
-darkelf,Baron Throne Room,Dark Elf,13,21600,786,1778,2,90,15,0,0,0,10,50,48,11,11,2,
-darkelf,Baron Throne Room,Dark Elf,16,2400,4715,2223,3,99,44,0,0,2,10,50,48,15,15,29,
-darkelf,Karate (Baron Inn 2),Dark Elf,25,21600,0,0,3,80,28,0,0,0,0,0,0,3,6,2,
-darkelf,Karate (Baron Inn 2),Dark Elf,31,2400,0,0,6,99,86,0,0,0,0,0,0,4,7,25,
-darkelf,Eblan Royalty (Upper Babil 1),Dark Elf,12,22400,0,0,4,70,40,0,0,0,0,0,0,41,44,1,
-darkelf,Eblan Royalty (Upper Babil 1),Dark Elf,15,3600,0,0,9,85,116,0,0,0,0,0,0,53,53,12,
-darkelf,Leviatan (Feymarch),Dark Elf,63,34000,4000,0,5,70,58,0,0,0,10,80,47,41,44,3,
-darkelf,Leviatan (Feymarch),Dark Elf,79,21000,24000,0,13,99,174,0,0,5,10,80,47,53,53,34,
-darkelf,Dr Lugae (Lower Babil - Top),Dark Elf,20,27578,3718,4889,3,80,28,0,0,0,0,0,0,20,23,1,
-darkelf,Dr Lugae (Lower Babil - Top),Dark Elf,25,11366,22303,6112,6,99,86,0,0,1,0,0,0,27,27,7,
-darkelf,Magus Sisters (Zot 1),Dark Elf,13,23600,1286,4000,1,80,20,0,0,0,3,60,11,5,5,1,
-darkelf,Magus Sisters (Zot 1),Dark Elf,16,5400,7715,5000,5,80,60,0,0,2,3,60,11,7,7,11,
-darkelf,Milon (Ordeals 1),Dark Elf,12,21112,543,1467,1,60,6,0,0,0,0,0,0,7,7,1,
-darkelf,Milon (Ordeals 1),Dark Elf,15,1668,3258,1834,1,75,19,0,0,2,0,0,0,8,8,14,
-darkelf,Milon Z (Ordeals 2),Dark Elf,12,21200,572,1334,2,90,15,0,0,0,6,40,22,7,7,3,
-darkelf,Milon Z (Ordeals 2),Dark Elf,15,1800,3429,1667,3,99,44,0,0,1,6,40,22,9,9,32,
-darkelf,Dark Knight Cecil (Ordeals 3),Dark Elf,14,20400,0,0,1,75,18,0,0,0,3,60,11,4,4,1,
-darkelf,Dark Knight Cecil (Ordeals 3),Dark Elf,17,600,0,0,3,99,46,0,0,0,3,60,11,5,5,14,
-darkelf,Mt Hobs,Dark Elf,12,20500,623,780,1,60,10,0,0,0,1,40,9,5,5,1,
-darkelf,Mt Hobs,Dark Elf,15,750,3738,975,3,80,30,0,0,0,1,40,9,7,7,5,
-darkelf,Watery Passage,Dark Elf,8,20940,172,223,1,60,8,0,0,0,6,60,25,23,26,1,
-darkelf,Watery Passage,Dark Elf,10,1410,1029,278,2,99,22,0,0,0,6,60,25,31,31,8,
-darkelf,Odin (Baron Castle Basement),Dark Elf,42,28200,2572,0,4,70,40,0,0,0,7,50,32,35,38,7,
-darkelf,Odin (Baron Castle Basement),Dark Elf,53,12300,15429,0,9,85,116,0,0,3,7,50,32,43,46,95,
-darkelf,Kaipo Inn,Dark Elf,9,20121,126,109,1,60,8,0,0,0,2,60,12,1,3,1,
-darkelf,Kaipo Inn,Dark Elf,11,182,755,137,3,75,26,0,0,2,2,60,12,2,4,9,
-darkelf,Ogopogo (Lunar Core),Dark Elf,49,34800,8729,0,4,90,50,0,0,0,9,50,40,31,31,9,
-darkelf,Ogopogo (Lunar Core),Dark Elf,62,22200,52372,0,11,99,150,0,0,4,9,50,40,38,38,127,
-darkelf,Pale Dim (Lunar Sub),Dark Elf,78,30920,8429,0,4,90,48,0,0,0,10,50,48,32,35,3,
-darkelf,Pale Dim (Lunar Sub),Dark Elf,98,16380,50572,0,11,85,144,0,0,5,10,50,48,40,43,32,
-darkelf,Plague (Lunar Sub),Dark Elf,76,31200,4458,245,4,90,48,0,0,0,7,50,32,23,26,6,
-darkelf,Plague (Lunar Sub),Dark Elf,96,16800,26743,306,11,90,146,0,0,5,7,50,32,29,32,76,
-darkelf,Rubicant (Upper Babil 2),Dark Elf,40,30080,3572,3112,3,80,30,0,0,0,8,80,37,31,31,2,
-darkelf,Rubicant (Upper Babil 2),Dark Elf,50,15120,21429,3889,7,80,88,0,0,1,8,80,37,38,38,16,
-darkelf,Valvalis (Zot 2),Dark Elf,29,22400,1358,2445,3,75,24,0,0,0,3,40,12,15,15,5,
-darkelf,Valvalis (Zot 2),Dark Elf,36,3600,8143,3056,5,99,70,0,0,0,3,40,12,18,18,63,
-darkelf,Wyvern (Lunar Sub),Dark Elf,79,30000,9186,0,4,99,54,0,0,0,10,50,52,35,38,1,
-darkelf,Wyvern (Lunar Sub),Dark Elf,99,15000,55115,0,12,90,160,0,0,5,10,50,52,43,46,8,
+darkelf,Antlion Cave,Dark Elf,2,20400,215,356,1,65,2,0,0,0,2,60,8,4,4,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Antlion Cave,Dark Elf (Dragon),2,600,1286,445,2,85,11,0,0,2,2,60,8,5,5,2,
+darkelf,Asura (Feymarch),Dark Elf,50,29200,2858,0,4,80,44,0,0,0,8,80,37,53,53,5,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Asura (Feymarch),Dark Elf (Dragon),63,13800,17143,0,10,99,134,0,0,0,8,80,37,66,66,69,
+darkelf,Cave Bahamut,Dark Elf,38,34800,5000,0,5,70,58,0,0,0,1,60,8,20,23,2,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Cave Bahamut,Dark Elf (Dragon),47,22200,30000,0,13,99,174,0,0,1,1,60,8,27,27,17,
+darkelf,Baigan (Baron Castle 1),Dark Elf,8,21680,689,1334,1,75,18,0,0,0,3,60,11,7,7,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Baigan (Baron Castle 1),Dark Elf (Dragon),9,2520,4132,1667,4,99,52,0,0,0,3,60,11,8,8,9,
+darkelf,Calbrena (Dwarf Castle 1),Dark Elf,38,23410,3000,3556,3,85,32,0,0,0,6,60,25,9,9,3,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Calbrena (Dwarf Castle 1),Dark Elf (Dragon),47,5115,18000,4445,7,99,96,0,0,2,6,60,25,11,11,41,
+darkelf,CPU (Giant 2),Dark Elf,38,29600,21429,4593,5,70,58,0,0,0,8,50,38,31,31,9,"Transform when at/below 20,000 HP and takes damage"
+darkelf,CPU (Giant 2),Dark Elf (Dragon),48,14400,128572,5741,13,99,174,0,0,4,8,50,38,38,38,127,
+darkelf,Cave Magnes,Dark Elf,15,22000,1000,4000,1,75,18,0,0,0,99,99,254,9,9,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Cave Magnes,Dark Elf (Dragon),19,3000,6000,5000,4,99,54,0,0,3,99,99,254,11,11,15,
+darkelf,Dark Imp (Tower Key),Dark Elf,13,20239,832,60,1,75,19,0,0,0,0,0,0,14,17,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Dark Imp (Tower Key),Dark Elf (Dragon),16,359,4989,75,5,70,56,0,0,0,0,0,0,18,21,13,
+darkelf,D Lunar (Lunar Sub),Dark Elf,79,36800,14286,0,4,90,48,0,0,0,10,80,54,22,25,3,"Transform when at/below 20,000 HP and takes damage"
+darkelf,D Lunar (Lunar Sub),Dark Elf (Dragon),99,25200,85715,0,11,85,144,0,0,4,10,80,54,30,30,36,
+darkelf,Mist Cave,Dark Elf,8,20186,100,89,1,60,6,0,0,0,7,80,31,4,4,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Mist Cave,Dark Elf (Dragon),10,279,600,112,2,90,16,0,0,5,7,80,31,5,5,10,
+darkelf,Elements (Giant 1),Dark Elf,63,61600,14643,8889,4,70,42,0,0,0,3,60,4,69,69,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Elements (Giant 1),Dark Elf (Dragon),79,62400,87858,11112,10,80,128,0,0,3,3,60,4,89,89,15,
+darkelf,Sealed Cave,Dark Elf,30,27600,3286,3556,3,80,28,0,0,0,7,80,29,53,53,6,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Sealed Cave,Dark Elf (Dragon),37,11400,19715,4445,6,90,84,0,0,2,7,80,29,66,66,79,
+darkelf,Fabul Defense,Dark Elf,12,20752,799,634,2,60,12,0,0,0,3,60,11,5,8,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Fabul Defense,Dark Elf (Dragon),15,1128,4792,792,3,90,36,0,0,2,3,60,11,6,9,12,
+darkelf,Golbez (Dwarf Castle 2),Dark Elf,25,21201,2858,4889,1,80,21,0,0,0,0,0,0,20,23,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Golbez (Dwarf Castle 2),Dark Elf (Dragon),31,1802,17143,6112,5,99,68,0,0,0,0,0,0,27,27,1,
+darkelf,Baron Guards (Baron Inn 1),Dark Elf,15,20160,206,445,1,75,18,0,0,0,3,40,14,9,12,2,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Baron Guards (Baron Inn 1),Dark Elf (Dragon),18,240,1235,556,3,99,46,0,0,1,3,40,14,11,14,26,
+darkelf,Baron Throne Room,Dark Elf,13,21600,786,1778,2,90,15,0,0,0,10,50,48,11,11,2,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Baron Throne Room,Dark Elf (Dragon),16,2400,4715,2223,3,99,44,0,0,2,10,50,48,15,15,29,
+darkelf,Karate (Baron Inn 2),Dark Elf,25,21600,0,0,3,80,28,0,0,0,0,0,0,3,6,2,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Karate (Baron Inn 2),Dark Elf (Dragon),31,2400,0,0,6,99,86,0,0,0,0,0,0,4,7,25,
+darkelf,Eblan Royalty (Upper Babil 1),Dark Elf,12,22400,0,0,4,70,40,0,0,0,0,0,0,41,44,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Eblan Royalty (Upper Babil 1),Dark Elf (Dragon),15,3600,0,0,9,85,116,0,0,0,0,0,0,53,53,12,
+darkelf,Leviatan (Feymarch),Dark Elf,63,34000,4000,0,5,70,58,0,0,0,10,80,47,41,44,3,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Leviatan (Feymarch),Dark Elf (Dragon),79,21000,24000,0,13,99,174,0,0,5,10,80,47,53,53,34,
+darkelf,Dr Lugae (Lower Babil - Top),Dark Elf,20,27578,3718,4889,3,80,28,0,0,0,0,0,0,20,23,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Dr Lugae (Lower Babil - Top),Dark Elf (Dragon),25,11366,22303,6112,6,99,86,0,0,1,0,0,0,27,27,7,
+darkelf,Magus Sisters (Zot 1),Dark Elf,13,23600,1286,4000,1,80,20,0,0,0,3,60,11,5,5,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Magus Sisters (Zot 1),Dark Elf (Dragon),16,5400,7715,5000,5,80,60,0,0,2,3,60,11,7,7,11,
+darkelf,Milon (Ordeals 1),Dark Elf,12,21112,543,1467,1,60,6,0,0,0,0,0,0,7,7,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Milon (Ordeals 1),Dark Elf (Dragon),15,1668,3258,1834,1,75,19,0,0,2,0,0,0,8,8,14,
+darkelf,Milon Z (Ordeals 2),Dark Elf,12,21200,572,1334,2,90,15,0,0,0,6,40,22,7,7,3,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Milon Z (Ordeals 2),Dark Elf (Dragon),15,1800,3429,1667,3,99,44,0,0,1,6,40,22,9,9,32,
+darkelf,Dark Knight Cecil (Ordeals 3),Dark Elf,14,20400,0,0,1,75,18,0,0,0,3,60,11,4,4,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Dark Knight Cecil (Ordeals 3),Dark Elf (Dragon),17,600,0,0,3,99,46,0,0,0,3,60,11,5,5,14,
+darkelf,Mt Hobs,Dark Elf,12,20500,623,780,1,60,10,0,0,0,1,40,9,5,5,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Mt Hobs,Dark Elf (Dragon),15,750,3738,975,3,80,30,0,0,0,1,40,9,7,7,5,
+darkelf,Watery Passage,Dark Elf,8,20940,172,223,1,60,8,0,0,0,6,60,25,23,26,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Watery Passage,Dark Elf (Dragon),10,1410,1029,278,2,99,22,0,0,0,6,60,25,31,31,8,
+darkelf,Odin (Baron Castle Basement),Dark Elf,42,28200,2572,0,4,70,40,0,0,0,7,50,32,35,38,7,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Odin (Baron Castle Basement),Dark Elf (Dragon),53,12300,15429,0,9,85,116,0,0,3,7,50,32,43,46,95,
+darkelf,Kaipo Inn,Dark Elf,9,20121,126,109,1,60,8,0,0,0,2,60,12,1,3,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Kaipo Inn,Dark Elf (Dragon),11,182,755,137,3,75,26,0,0,2,2,60,12,2,4,9,
+darkelf,Ogopogo (Lunar Core),Dark Elf,49,34800,8729,0,4,90,50,0,0,0,9,50,40,31,31,9,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Ogopogo (Lunar Core),Dark Elf (Dragon),62,22200,52372,0,11,99,150,0,0,4,9,50,40,38,38,127,
+darkelf,Pale Dim (Lunar Sub),Dark Elf,78,30920,8429,0,4,90,48,0,0,0,10,50,48,32,35,3,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Pale Dim (Lunar Sub),Dark Elf (Dragon),98,16380,50572,0,11,85,144,0,0,5,10,50,48,40,43,32,
+darkelf,Plague (Lunar Sub),Dark Elf,76,31200,4458,245,4,90,48,0,0,0,7,50,32,23,26,6,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Plague (Lunar Sub),Dark Elf (Dragon),96,16800,26743,306,11,90,146,0,0,5,7,50,32,29,32,76,
+darkelf,Rubicant (Upper Babil 2),Dark Elf,40,30080,3572,3112,3,80,30,0,0,0,8,80,37,31,31,2,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Rubicant (Upper Babil 2),Dark Elf (Dragon),50,15120,21429,3889,7,80,88,0,0,1,8,80,37,38,38,16,
+darkelf,Valvalis (Zot 2),Dark Elf,29,22400,1358,2445,3,75,24,0,0,0,3,40,12,15,15,5,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Valvalis (Zot 2),Dark Elf (Dragon),36,3600,8143,3056,5,99,70,0,0,0,3,40,12,18,18,63,
+darkelf,Wyvern (Lunar Sub),Dark Elf,79,30000,9186,0,4,99,54,0,0,0,10,50,52,35,38,1,"Transform when at/below 20,000 HP and takes damage"
+darkelf,Wyvern (Lunar Sub),Dark Elf (Dragon),99,15000,55115,0,12,90,160,0,0,5,10,50,52,43,46,8,
 darkimp,Antlion Cave,Dark Imp,2,334,500,267,2,85,11,0,0,2,2,60,8,5,5,0,
 darkimp,Asura (Feymarch),Dark Imp,63,7667,6667,0,10,99,134,0,0,0,8,80,37,66,66,0,
 darkimp,Cave Bahamut,Dark Imp,47,12334,11667,0,13,99,174,0,0,1,1,60,8,27,27,0,
@@ -577,73 +577,73 @@ dmist,Plague (Lunar Sub),D.Mist,96,28000,31200,550,11,90,146,0,0,5,7,50,32,29,32
 dmist,Rubicant (Upper Babil 2),D.Mist,50,25200,25000,7000,7,80,88,0,0,1,8,80,37,38,38,16,
 dmist,Valvalis (Zot 2),D.Mist,36,6000,9500,5500,5,99,70,0,0,0,3,40,12,18,18,63,
 dmist,Wyvern (Lunar Sub),D.Mist,99,25000,64300,0,12,90,160,0,0,5,10,50,52,43,46,8,
-elements,Antlion Cave,Elements (Milon/Rubicant),2,549,586,400,2,85,11,0,0,2,2,60,8,5,5,1,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 386\r\nRubicant => Kainazzo/Valvalis threshold: 106
+elements,Antlion Cave,Elements (Milon/Rubicant),2,549,586,400,2,85,11,0,0,2,2,60,8,5,5,1,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 386^^Rubicant => Kainazzo/Valvalis threshold: 106
 elements,Antlion Cave,Elements (Kainazzo/Valvalis),2,452,915,400,2,85,11,0,0,1,0,0,5,5,5,1,Kainazzo => Valvalis threshold: 260
-elements,Asura (Feymarch),Elements (Milon/Rubicant),63,12606,7805,0,10,99,134,0,0,0,8,80,37,66,66,69,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 2433\r\nRubicant => Kainazzo/Valvalis threshold: 8847
+elements,Asura (Feymarch),Elements (Milon/Rubicant),63,12606,7805,0,10,99,134,0,0,0,8,80,37,66,66,69,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 2433^^Rubicant => Kainazzo/Valvalis threshold: 8847
 elements,Asura (Feymarch),Elements (Kainazzo/Valvalis),63,10395,12196,0,10,99,138,0,0,0,3,80,28,66,66,143,Kainazzo => Valvalis threshold: 5972
-elements,Cave Bahamut,Elements (Milon/Rubicant),47,20279,13659,0,13,99,174,0,0,1,1,60,8,27,27,17,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 14231\r\nRubicant => Kainazzo/Valvalis: 3914
+elements,Cave Bahamut,Elements (Milon/Rubicant),47,20279,13659,0,13,99,174,0,0,1,1,60,8,27,27,17,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 14231^^Rubicant => Kainazzo/Valvalis: 3914
 elements,Cave Bahamut,Elements (Kainazzo/Valvalis),47,16722,21342,0,13,99,174,0,0,1,0,0,5,27,27,36,Kainazzo => Valvalis threshold: 9607
-elements,Baigan (Baron Castle 1),Elements (Milon/Rubicant),9,2302,1881,1500,4,99,52,0,0,0,3,60,11,8,8,9,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 1616\r\nRubicant => Kainazzo/Valvalis threshold: 445
+elements,Baigan (Baron Castle 1),Elements (Milon/Rubicant),9,2302,1881,1500,4,99,52,0,0,0,3,60,11,8,8,9,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 1616^^Rubicant => Kainazzo/Valvalis threshold: 445
 elements,Baigan (Baron Castle 1),Elements (Kainazzo/Valvalis),9,1899,2940,1500,4,99,54,0,0,0,0,0,5,8,8,19,Kainazzo => Valvalis threshold: 1091
-elements,Calbrena (Dwarf Castle 1),Elements (Milon/Rubicant),47,4672,8196,4000,7,99,96,1,80,2,6,60,25,11,11,41,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 3279\r\nRubicant => Kainazzo/Valvalis threshold: 902
+elements,Calbrena (Dwarf Castle 1),Elements (Milon/Rubicant),47,4672,8196,4000,7,99,96,1,80,2,6,60,25,11,11,41,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 3279^^Rubicant => Kainazzo/Valvalis threshold: 902
 elements,Calbrena (Dwarf Castle 1),Elements (Kainazzo/Valvalis),47,3853,12805,4000,7,99,98,1,90,1,1,75,19,11,11,85,Kainazzo => Valvalis threshold: 2214
-elements,CPU (Giant 2),Elements (Milon/Rubicant),48,13154,58537,5167,13,99,174,4,45,4,8,50,38,38,38,127,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 9231\r\nRubicant => Kainazzo/Valvalis threshold: 2539
+elements,CPU (Giant 2),Elements (Milon/Rubicant),48,13154,58537,5167,13,99,174,4,45,4,8,50,38,38,38,127,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 9231^^Rubicant => Kainazzo/Valvalis threshold: 2539
 elements,CPU (Giant 2),Elements (Kainazzo/Valvalis),48,10847,91464,5167,13,99,174,2,55,3,3,80,28,38,38,255,Kainazzo => Valvalis threshold: 6232
-elements,Cave Magnes,Elements (Milon/Rubicant),19,2741,2732,4500,4,99,54,0,0,3,99,99,254,11,11,15,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 1924\r\nRubicant => Kainazzo/Valvalis threshold: 529
+elements,Cave Magnes,Elements (Milon/Rubicant),19,2741,2732,4500,4,99,54,0,0,3,99,99,254,11,11,15,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 1924^^Rubicant => Kainazzo/Valvalis threshold: 529
 elements,Cave Magnes,Elements (Kainazzo/Valvalis),19,2260,4269,4500,4,99,54,0,0,2,13,99,174,11,11,31,Kainazzo => Valvalis threshold: 1299
-elements,Dark Imp (Tower Key),Elements (Milon/Rubicant),16,328,2272,68,5,70,56,0,0,0,0,0,0,18,21,4,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 231\r\nRubicant => Kainazzo/Valvalis threshold: 64
+elements,Dark Imp (Tower Key),Elements (Milon/Rubicant),16,328,2272,68,5,70,56,0,0,0,0,0,0,18,21,4,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 231^^Rubicant => Kainazzo/Valvalis threshold: 64
 elements,Dark Imp (Tower Key),Elements (Kainazzo/Valvalis),16,270,3549,68,5,70,58,0,0,0,0,0,0,18,21,7,Kainazzo => Valvalis threshold: 156
-elements,D Lunar (Lunar Sub),Elements (Milon/Rubicant),99,23020,39025,0,11,85,144,3,30,4,10,80,54,30,30,36,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 16155\r\nRubicant => Kainazzo/Valvalis threshold: 4443
+elements,D Lunar (Lunar Sub),Elements (Milon/Rubicant),99,23020,39025,0,11,85,144,3,30,4,10,80,54,30,30,36,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 16155^^Rubicant => Kainazzo/Valvalis threshold: 4443
 elements,D Lunar (Lunar Sub),Elements (Kainazzo/Valvalis),99,18981,60976,0,11,95,148,2,35,3,4,70,40,30,30,75,Kainazzo => Valvalis threshold: 10904
-elements,Mist Cave,Elements (Milon/Rubicant),10,255,274,100,2,90,16,0,0,5,7,80,31,5,5,10,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 179\r\nRubicant => Kainazzo/Valvalis threshold: 50
+elements,Mist Cave,Elements (Milon/Rubicant),10,255,274,100,2,90,16,0,0,5,7,80,31,5,5,10,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 179^^Rubicant => Kainazzo/Valvalis threshold: 50
 elements,Mist Cave,Elements (Kainazzo/Valvalis),10,211,427,100,2,90,16,0,0,3,6,40,24,5,5,21,Kainazzo => Valvalis threshold: 122
-elements,Elements (Giant 1),Elements (Milon/Rubicant),79,57001,40000,10000,10,80,128,2,35,3,3,60,4,89,89,15,Milon => Rubicant threshold: 40001\r\nRubicant => Kainazzo/Valvalis threshold: 11001
+elements,Elements (Giant 1),Elements (Milon/Rubicant),79,57001,40000,10000,10,80,128,2,35,3,3,60,4,89,89,15,Milon => Rubicant threshold: 40001^^Rubicant => Kainazzo/Valvalis threshold: 11001
 elements,Elements (Giant 1),Elements (Kainazzo/Valvalis),79,47000,62500,10000,10,90,132,1,45,2,0,0,3,89,89,31,Kainazzo => Valvalis threshold: 27001
-elements,Sealed Cave,Elements (Milon/Rubicant),37,10414,8976,4000,6,90,84,1,35,2,7,80,29,66,66,79,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 7309\r\nRubicant => Kainazzo/Valvalis threshold: 2010
+elements,Sealed Cave,Elements (Milon/Rubicant),37,10414,8976,4000,6,90,84,1,35,2,7,80,29,66,66,79,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 7309^^Rubicant => Kainazzo/Valvalis threshold: 2010
 elements,Sealed Cave,Elements (Kainazzo/Valvalis),37,8587,14025,4000,6,99,86,1,45,2,1,80,21,66,66,164,Kainazzo => Valvalis threshold: 4933
-elements,Fabul Defense,Elements (Milon/Rubicant),15,1031,2182,713,3,90,36,2,20,2,3,60,11,6,9,3,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 724\r\nRubicant => Kainazzo/Valvalis threshold: 199
+elements,Fabul Defense,Elements (Milon/Rubicant),15,1031,2182,713,3,90,36,2,20,2,3,60,11,6,9,3,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 724^^Rubicant => Kainazzo/Valvalis threshold: 199
 elements,Fabul Defense,Elements (Kainazzo/Valvalis),15,850,3409,713,3,90,38,1,25,2,0,0,5,6,9,6,Kainazzo => Valvalis threshold: 489
-elements,Golbez (Dwarf Castle 2),Elements (Milon/Rubicant),31,1646,7805,5500,5,99,68,0,0,0,0,0,0,27,27,1,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 1156\r\nRubicant => Kainazzo/Valvalis threshold: 318
+elements,Golbez (Dwarf Castle 2),Elements (Milon/Rubicant),31,1646,7805,5500,5,99,68,0,0,0,0,0,0,27,27,1,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 1156^^Rubicant => Kainazzo/Valvalis threshold: 318
 elements,Golbez (Dwarf Castle 2),Elements (Kainazzo/Valvalis),31,1357,12196,5500,5,99,70,0,0,0,0,0,0,27,27,3,Kainazzo => Valvalis threshold: 780
-elements,Baron Guards (Baron Inn 1),Elements (Milon/Rubicant),18,220,562,500,3,99,46,1,90,1,3,40,14,11,14,26,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 155\r\nRubicant => Kainazzo/Valvalis threshold: 43
+elements,Baron Guards (Baron Inn 1),Elements (Milon/Rubicant),18,220,562,500,3,99,46,1,90,1,3,40,14,11,14,26,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 155^^Rubicant => Kainazzo/Valvalis threshold: 43
 elements,Baron Guards (Baron Inn 1),Elements (Kainazzo/Valvalis),18,181,879,500,3,99,46,1,90,1,0,0,5,11,14,54,Kainazzo => Valvalis threshold: 104
-elements,Baron Throne Room,Elements (Milon/Rubicant),16,2193,2147,2000,3,99,44,2,50,2,10,50,48,15,15,29,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 1539\r\nRubicant => Kainazzo/Valvalis threshold: 424
+elements,Baron Throne Room,Elements (Milon/Rubicant),16,2193,2147,2000,3,99,44,2,50,2,10,50,48,15,15,29,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 1539^^Rubicant => Kainazzo/Valvalis threshold: 424
 elements,Baron Throne Room,Elements (Kainazzo/Valvalis),16,1808,3354,2000,3,99,46,1,65,2,3,90,36,15,15,60,Kainazzo => Valvalis threshold: 1039
-elements,Karate (Baron Inn 2),Elements (Milon/Rubicant),31,2193,0,0,6,99,86,0,0,0,0,0,0,4,7,6,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 1539\r\nRubicant => Kainazzo/Valvalis threshold: 424
+elements,Karate (Baron Inn 2),Elements (Milon/Rubicant),31,2193,0,0,6,99,86,0,0,0,0,0,0,4,7,6,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 1539^^Rubicant => Kainazzo/Valvalis threshold: 424
 elements,Karate (Baron Inn 2),Elements (Kainazzo/Valvalis),31,1808,0,0,6,99,86,0,0,0,0,0,0,4,7,13,Kainazzo => Valvalis threshold: 1039
-elements,Eblan Royalty (Upper Babil 1),Elements (Milon/Rubicant),15,3289,0,0,9,85,116,0,0,0,0,0,0,53,53,3,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 2309\r\nRubicant => Kainazzo/Valvalis threshold: 635
+elements,Eblan Royalty (Upper Babil 1),Elements (Milon/Rubicant),15,3289,0,0,9,85,116,0,0,0,0,0,0,53,53,3,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 2309^^Rubicant => Kainazzo/Valvalis threshold: 635
 elements,Eblan Royalty (Upper Babil 1),Elements (Kainazzo/Valvalis),15,2712,0,0,9,95,120,0,0,0,0,0,0,53,53,6,Kainazzo => Valvalis threshold: 1558
-elements,Leviatan (Feymarch),Elements (Milon/Rubicant),79,19183,10927,0,13,99,174,0,0,5,10,80,47,53,53,34,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 13462\r\nRubicant => Kainazzo/Valvalis threshold: 3702
+elements,Leviatan (Feymarch),Elements (Milon/Rubicant),79,19183,10927,0,13,99,174,0,0,5,10,80,47,53,53,34,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 13462^^Rubicant => Kainazzo/Valvalis threshold: 3702
 elements,Leviatan (Feymarch),Elements (Kainazzo/Valvalis),79,15818,17074,0,13,99,174,0,0,3,3,85,34,53,53,71,Kainazzo => Valvalis threshold: 9087
-elements,Dr Lugae (Lower Babil - Top),Elements (Milon/Rubicant),25,10383,10155,5500,6,99,86,1,50,1,0,0,0,27,27,7,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 7287\r\nRubicant => Kainazzo/Valvalis threshold: 2004
+elements,Dr Lugae (Lower Babil - Top),Elements (Milon/Rubicant),25,10383,10155,5500,6,99,86,1,50,1,0,0,0,27,27,7,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 7287^^Rubicant => Kainazzo/Valvalis threshold: 2004
 elements,Dr Lugae (Lower Babil - Top),Elements (Kainazzo/Valvalis),25,8561,15866,5500,6,99,86,1,60,1,0,0,0,27,27,15,Kainazzo => Valvalis threshold: 4919
-elements,Magus Sisters (Zot 1),Elements (Milon/Rubicant),16,4933,3513,4500,5,80,60,1,45,2,3,60,11,7,7,11,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 3462\r\nRubicant => Kainazzo/Valvalis threshold: 952
+elements,Magus Sisters (Zot 1),Elements (Milon/Rubicant),16,4933,3513,4500,5,80,60,1,45,2,3,60,11,7,7,11,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 3462^^Rubicant => Kainazzo/Valvalis threshold: 952
 elements,Magus Sisters (Zot 1),Elements (Kainazzo/Valvalis),16,4068,5488,4500,5,80,62,1,60,1,0,0,5,7,7,23,Kainazzo => Valvalis threshold: 2337
-elements,Milon (Ordeals 1),Elements (Milon/Rubicant),15,1524,1483,1650,1,75,19,1,35,2,0,0,0,8,8,14,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 1070\r\nRubicant => Kainazzo/Valvalis threshold: 295
+elements,Milon (Ordeals 1),Elements (Milon/Rubicant),15,1524,1483,1650,1,75,19,1,35,2,0,0,0,8,8,14,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 1070^^Rubicant => Kainazzo/Valvalis threshold: 295
 elements,Milon (Ordeals 1),Elements (Kainazzo/Valvalis),15,1257,2318,1650,1,80,20,1,45,2,0,0,0,8,8,29,Kainazzo => Valvalis threshold: 723
-elements,Milon Z (Ordeals 2),Elements (Milon/Rubicant),15,1645,1561,1500,3,99,44,1,60,1,6,40,22,9,9,32,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 1155\r\nRubicant => Kainazzo/Valvalis threshold: 318
+elements,Milon Z (Ordeals 2),Elements (Milon/Rubicant),15,1645,1561,1500,3,99,44,1,60,1,6,40,22,9,9,32,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 1155^^Rubicant => Kainazzo/Valvalis threshold: 318
 elements,Milon Z (Ordeals 2),Elements (Kainazzo/Valvalis),15,1356,2440,1500,3,99,46,1,70,1,4,40,16,9,9,65,Kainazzo => Valvalis threshold: 779
-elements,Dark Knight Cecil (Ordeals 3),Elements (Milon/Rubicant),17,549,0,0,3,99,46,0,0,0,3,60,11,5,5,4,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 386\r\nRubicant => Kainazzo/Valvalis threshold: 106
+elements,Dark Knight Cecil (Ordeals 3),Elements (Milon/Rubicant),17,549,0,0,3,99,46,0,0,0,3,60,11,5,5,4,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 386^^Rubicant => Kainazzo/Valvalis threshold: 106
 elements,Dark Knight Cecil (Ordeals 3),Elements (Kainazzo/Valvalis),17,452,0,0,3,99,46,0,0,0,0,0,5,5,5,7,Kainazzo => Valvalis threshold: 260
-elements,Mt Hobs,Elements (Milon/Rubicant),15,686,1702,878,3,80,30,0,0,0,1,40,9,7,7,5,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 482\r\nRubicant => Kainazzo/Valvalis threshold: 133
+elements,Mt Hobs,Elements (Milon/Rubicant),15,686,1702,878,3,80,30,0,0,0,1,40,9,7,7,5,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 482^^Rubicant => Kainazzo/Valvalis threshold: 133
 elements,Mt Hobs,Elements (Kainazzo/Valvalis),15,565,2659,878,3,85,32,0,0,0,0,0,5,7,7,11,Kainazzo => Valvalis threshold: 325
-elements,Watery Passage,Elements (Milon/Rubicant),10,1288,469,250,2,99,22,0,0,0,6,60,25,31,31,2,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 904\r\nRubicant => Kainazzo/Valvalis threshold: 249
+elements,Watery Passage,Elements (Milon/Rubicant),10,1288,469,250,2,99,22,0,0,0,6,60,25,31,31,2,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 904^^Rubicant => Kainazzo/Valvalis threshold: 249
 elements,Watery Passage,Elements (Kainazzo/Valvalis),10,1063,732,250,2,99,22,0,0,0,1,75,19,31,31,4,Kainazzo => Valvalis threshold: 611
-elements,Odin (Baron Castle Basement),Elements (Milon/Rubicant),53,11236,7025,0,9,85,116,2,90,3,7,50,32,43,46,95,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 7885\r\nRubicant => Kainazzo/Valvalis threshold: 2169
+elements,Odin (Baron Castle Basement),Elements (Milon/Rubicant),53,11236,7025,0,9,85,116,2,90,3,7,50,32,43,46,95,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 7885^^Rubicant => Kainazzo/Valvalis threshold: 2169
 elements,Odin (Baron Castle Basement),Elements (Kainazzo/Valvalis),53,9265,10976,0,9,95,120,1,80,2,6,40,24,43,46,197,Kainazzo => Valvalis threshold: 5323
-elements,Kaipo Inn,Elements (Milon/Rubicant),11,166,344,123,3,75,26,1,65,2,2,60,12,2,4,3,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 117\r\nRubicant => Kainazzo/Valvalis threshold: 33
+elements,Kaipo Inn,Elements (Milon/Rubicant),11,166,344,123,3,75,26,1,65,2,2,60,12,2,4,3,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 117^^Rubicant => Kainazzo/Valvalis threshold: 33
 elements,Kaipo Inn,Elements (Kainazzo/Valvalis),11,137,537,123,3,80,28,1,90,1,0,0,5,2,4,5,Kainazzo => Valvalis threshold: 79
-elements,Ogopogo (Lunar Core),Elements (Milon/Rubicant),62,20279,23844,0,11,99,150,4,55,4,9,50,40,38,38,127,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 14231\r\nRubicant => Kainazzo/Valvalis threshold: 3914
+elements,Ogopogo (Lunar Core),Elements (Milon/Rubicant),62,20279,23844,0,11,99,150,4,55,4,9,50,40,38,38,127,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 14231^^Rubicant => Kainazzo/Valvalis threshold: 3914
 elements,Ogopogo (Lunar Core),Elements (Kainazzo/Valvalis),62,16722,37257,0,11,99,152,2,70,3,3,80,30,38,38,255,Kainazzo => Valvalis threshold: 9607
-elements,Pale Dim (Lunar Sub),Elements (Milon/Rubicant),98,14963,23025,0,11,85,144,5,40,5,10,50,48,40,43,32,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 10501\r\nRubicant => Kainazzo/Valvalis threshold: 2888
+elements,Pale Dim (Lunar Sub),Elements (Milon/Rubicant),98,14963,23025,0,11,85,144,5,40,5,10,50,48,40,43,32,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 10501^^Rubicant => Kainazzo/Valvalis threshold: 2888
 elements,Pale Dim (Lunar Sub),Elements (Kainazzo/Valvalis),98,12338,35976,0,11,95,148,2,55,3,3,90,36,40,43,65,Kainazzo => Valvalis threshold: 7088
-elements,Plague (Lunar Sub),Elements (Milon/Rubicant),96,15347,12176,275,11,90,146,4,50,5,7,50,32,29,32,19,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 10770\r\nRubicant => Kainazzo/Valvalis threshold: 2962
+elements,Plague (Lunar Sub),Elements (Milon/Rubicant),96,15347,12176,275,11,90,146,4,50,5,7,50,32,29,32,19,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 10770^^Rubicant => Kainazzo/Valvalis threshold: 2962
 elements,Plague (Lunar Sub),Elements (Kainazzo/Valvalis),96,12654,19025,275,11,99,150,2,70,3,6,40,24,29,32,38,Kainazzo => Valvalis threshold: 7270
-elements,Rubicant (Upper Babil 2),Elements (Milon/Rubicant),50,13812,9757,3500,7,80,88,1,90,1,8,80,37,38,38,16,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 9693\r\nRubicant => Kainazzo/Valvalis threshold: 2666
+elements,Rubicant (Upper Babil 2),Elements (Milon/Rubicant),50,13812,9757,3500,7,80,88,1,90,1,8,80,37,38,38,16,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 9693^^Rubicant => Kainazzo/Valvalis threshold: 2666
 elements,Rubicant (Upper Babil 2),Elements (Kainazzo/Valvalis),50,11389,15244,3500,7,90,92,1,90,1,3,80,28,38,38,34,Kainazzo => Valvalis threshold: 6543
-elements,Valvalis (Zot 2),Elements (Milon/Rubicant),36,3289,3708,2750,5,99,70,0,0,0,3,40,12,18,18,63,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 2309\r\nRubicant => Kainazzo/Valvalis threshold: 635
+elements,Valvalis (Zot 2),Elements (Milon/Rubicant),36,3289,3708,2750,5,99,70,0,0,0,3,40,12,18,18,63,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 2309^^Rubicant => Kainazzo/Valvalis threshold: 635
 elements,Valvalis (Zot 2),Elements (Kainazzo/Valvalis),36,2712,5793,2750,5,99,70,0,0,0,0,0,5,18,18,131,Kainazzo => Valvalis threshold: 1558
-elements,Wyvern (Lunar Sub),Elements (Milon/Rubicant),99,13702,25093,0,12,90,160,4,80,5,10,50,52,43,46,8,Transforms happen when the enemy is at or below an HP threshold and they take damage\r\nMilon => Rubicant threshold: 9616\r\nRubicant => Kainazzo/Valvalis threshold: 2645
+elements,Wyvern (Lunar Sub),Elements (Milon/Rubicant),99,13702,25093,0,12,90,160,4,80,5,10,50,52,43,46,8,Transforms happen when the enemy is at or below an HP threshold and they take damage^^Milon => Rubicant threshold: 9616^^Rubicant => Kainazzo/Valvalis threshold: 2645
 elements,Wyvern (Lunar Sub),Elements (Kainazzo/Valvalis),99,11299,39208,0,12,99,164,2,90,3,4,70,40,43,46,17,Kainazzo => Valvalis threshold: 6491
 evilwall,Antlion Cave,EvilWall,2,1000,1500,800,2,85,11,0,0,2,2,60,8,5,5,5,
 evilwall,Asura (Feymarch),EvilWall,63,23000,20000,0,10,99,134,0,0,0,8,80,37,66,66,69,
@@ -985,40 +985,40 @@ guard,Plague (Lunar Sub),Guard,96,14000,15600,275,11,90,146,4,50,5,7,50,32,29,32
 guard,Rubicant (Upper Babil 2),Guard,50,12600,12500,3500,7,80,88,1,90,1,8,80,37,38,38,16,
 guard,Valvalis (Zot 2),Guard,36,3000,4750,2750,5,99,70,0,0,0,3,40,12,18,18,63,
 guard,Wyvern (Lunar Sub),Guard,99,12500,32150,0,12,90,160,4,80,5,10,50,52,43,46,8,
-kainazzo,Antlion Cave,Kainazzo,2,1000,1500,800,2,85,11,0,0,2,2,60,8,5,5,4,Hiding trigger: takes damage when at/below 175HP\r\nWhen hiding and hit set Defense to 3
-kainazzo,Asura (Feymarch),Kainazzo,63,23000,20000,0,10,99,134,0,0,0,8,80,37,66,66,69,Hiding trigger: takes damage when at/below 4025HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,Cave Bahamut,Kainazzo,47,37000,35000,0,13,99,174,0,0,1,1,60,8,27,27,17,Hiding trigger: takes damage when at/below 6475HP\r\n When hiding and hit set Defense to 1
-kainazzo,Baigan (Baron Castle 1),Kainazzo,9,4200,4820,3000,4,99,52,0,0,0,3,60,11,8,8,9,Hiding trigger: takes damage when at/below 735HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,Calbrena (Dwarf Castle 1),Kainazzo,47,8524,21000,8000,7,99,96,1,80,2,6,60,25,11,11,41,Hiding trigger: takes damage when at/below 1492HP\r\n When hiding and hit set Evade to 90 with two multipliers and Defense to 3
-kainazzo,CPU (Giant 2),Kainazzo,48,24000,150000,10333,13,99,174,4,45,4,8,50,38,38,38,127,Hiding trigger: takes damage when at/below 4200HP\r\n When hiding and hit set Evade to 60 with 4 multipliers and Defense to 5
-kainazzo,Cave Magnes,Kainazzo,19,5000,7000,9000,4,99,54,0,0,3,99,99,254,11,11,16,Hiding trigger: takes damage when at/below 875HP\r\n When hiding and hit set Defense to 5
-kainazzo,Dark Imp (Tower Key),Kainazzo,16,597,5820,135,5,70,56,0,0,0,0,0,0,18,21,29,Hiding trigger: takes damage when at/below 105HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,D Lunar (Lunar Sub),Kainazzo,99,42000,100000,0,11,85,144,3,30,4,10,80,54,30,30,36,Hiding trigger: takes damage when at/below 7350HP\r\n When hiding and hit set Evade to 40 with 3 multipliers and Defense to 4
-kainazzo,Mist Cave,Kainazzo,10,465,700,200,2,90,16,0,0,5,7,80,31,5,5,10,Hiding trigger: takes damage when at/below 82HP\r\n When hiding and hit set Defense to 5
-kainazzo,Elements (Giant 1),Kainazzo,79,65000,102500,20000,10,80,128,2,35,3,3,60,4,89,89,16,Hiding trigger: takes damage when at/below 11375HP\r\n When hiding and hit set Evade to 50 with 3 multipliers and Defense to 4
-kainazzo,Sealed Cave,Kainazzo,37,19000,23000,8000,6,90,84,1,35,2,7,80,29,66,66,79,Hiding trigger: takes damage when at/below 3325HP\r\n When hiding and hit set Evade to 45 with 1 multiplier and Defense to 2
-kainazzo,Fabul Defense,Kainazzo,15,1880,5590,1425,3,90,36,2,20,2,3,60,11,6,9,28,Hiding trigger: takes damage when at/below 329HP\r\n When hiding and hit set Evade to 25 with 2 multipliers and Defense to 3
-kainazzo,Golbez (Dwarf Castle 2),Kainazzo,31,3002,20000,11000,5,99,68,0,0,0,0,0,0,27,27,1,Hiding trigger: takes damage when at/below 526HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,Baron Guards (Baron Inn 1),Kainazzo,18,400,1440,1000,3,99,46,1,90,1,3,40,14,11,14,26,Hiding trigger: takes damage when at/below 70HP\r\n When hiding and hit set Evade to 90 with 1 multiplier and Defense to 1
-kainazzo,Baron Throne Room,Kainazzo,16,4000,5500,4000,3,99,44,2,50,2,10,50,48,15,15,29,Hiding trigger: takes damage when at/below 700HP\r\n When hiding and hit set Evade to 70 with 2 multipliers and Defense to 3
-kainazzo,Karate (Baron Inn 2),Kainazzo,31,4000,0,0,6,99,86,0,0,0,0,0,0,4,7,57,Hiding trigger: takes damage when at/below 700HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,Eblan Royalty (Upper Babil 1),Kainazzo,15,6000,0,0,9,85,116,0,0,0,0,0,0,53,53,28,Hiding trigger: takes damage when at/below 1050HP\r\n When hiding and hit set physical defenses to 0
-kainazzo,Leviatan (Feymarch),Kainazzo,79,35000,28000,0,13,99,174,0,0,5,10,80,47,53,53,34,Hiding trigger: takes damage when at/below 6125HP\r\n When hiding and hit set Defense to 5
-kainazzo,Dr Lugae (Lower Babil - Top),Kainazzo,25,18943,26020,11000,6,99,86,1,50,1,0,0,0,27,27,7,Hiding trigger: takes damage when at/below 3316HP\r\n When hiding and hit set Evade to 70 with 1 multiplier and Defense to 1
-kainazzo,Magus Sisters (Zot 1),Kainazzo,16,9000,9000,9000,5,80,60,1,45,2,3,60,11,7,7,11,Hiding trigger: takes damage when at/below 1575HP\r\n When hiding and hit set Evade to 65 with 1 multiplier and Defense to 2
-kainazzo,Milon (Ordeals 1),Kainazzo,15,2780,3800,3300,1,75,19,1,35,2,0,0,0,8,8,14,Hiding trigger: takes damage when at/below 487HP\r\n When hiding and hit set Evade to 45 with 1 multiplier and Defense to 2
-kainazzo,Milon Z (Ordeals 2),Kainazzo,15,3000,4000,3000,3,99,44,1,60,1,6,40,22,9,9,31,Hiding trigger: takes damage when at/below 525HP\r\n When hiding and hit set Evade to 80 with 1 multiplier and Defnse to 2
-kainazzo,Dark Knight Cecil (Ordeals 3),Kainazzo,17,1000,0,0,3,99,46,0,0,0,3,60,11,5,5,31,Hiding trigger: takes damage when at/below 175HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,Mt Hobs,Kainazzo,15,1250,4360,1755,3,80,30,0,0,0,1,40,9,7,7,5,Hiding trigger: takes damage when at/below 219HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,Watery Passage,Kainazzo,10,2350,1200,500,2,99,22,0,0,0,6,60,25,31,31,19,Hiding trigger: takes damage when at/below 412HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,Odin (Baron Castle Basement),Kainazzo,53,20500,18000,0,9,85,116,2,90,3,7,50,32,43,46,95,Hiding trigger: takes damage when at/below 3588HP\r\n When hiding and hit set Evade to 90 with 2 multipliers and Defense to 3
-kainazzo,Kaipo Inn,Kainazzo,11,302,880,245,3,75,26,1,65,2,2,60,12,2,4,20,Hiding trigger: takes damage when at/below 53HP\r\n When hiding and hit set Evade to 90 with 2 multipliers and Defense to 3
-kainazzo,Ogopogo (Lunar Core),Kainazzo,62,37000,61100,0,11,99,150,4,55,4,9,50,40,38,38,127,Hiding trigger: takes damage when at/below 6475HP\r\n When hiding and hit set Evade to 80 with 4 multipliers and Defense to 5
-kainazzo,Pale Dim (Lunar Sub),Kainazzo,98,27300,59000,0,11,85,144,5,40,5,10,50,48,40,43,31,Hiding trigger: takes damage when at/below 4778HP\r\n When hiding and hit set Evade to 50 with 5 multipliers and Defense to 6
-kainazzo,Plague (Lunar Sub),Kainazzo,96,28000,31200,550,11,90,146,4,50,5,7,50,32,29,32,174,Hiding trigger: takes damage when at/below 4900HP\r\n When hiding and hit set Evade to 70 with 5 multipliers and Defense to 6
-kainazzo,Rubicant (Upper Babil 2),Kainazzo,50,25200,25000,7000,7,80,88,1,90,1,8,80,37,38,38,16,Hiding trigger: takes damage when at/below 4410HP\r\n When hiding and hit set Evade to 90 with 1 multiplier and Defense to 1
-kainazzo,Valvalis (Zot 2),Kainazzo,36,6000,9500,5500,5,99,70,0,0,0,3,40,12,18,18,63,Hiding trigger: takes damage when at/below 1050HP\r\n When hiding and hit set all physical defenses to 0
-kainazzo,Wyvern (Lunar Sub),Kainazzo,99,25000,64300,0,12,90,160,4,80,5,10,50,52,43,46,8,Hiding trigger: takes damage when at/below 4375HP\r\n When hiding and hit set Evade to 80 with 4 multipliers and Defense to 5
+kainazzo,Antlion Cave,Kainazzo,2,1000,1500,800,2,85,11,0,0,2,2,60,8,5,5,4,Hiding trigger: takes damage when at/below 175HP^^When hiding and hit set Defense to 3
+kainazzo,Asura (Feymarch),Kainazzo,63,23000,20000,0,10,99,134,0,0,0,8,80,37,66,66,69,Hiding trigger: takes damage when at/below 4025HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,Cave Bahamut,Kainazzo,47,37000,35000,0,13,99,174,0,0,1,1,60,8,27,27,17,Hiding trigger: takes damage when at/below 6475HP^^ When hiding and hit set Defense to 1
+kainazzo,Baigan (Baron Castle 1),Kainazzo,9,4200,4820,3000,4,99,52,0,0,0,3,60,11,8,8,9,Hiding trigger: takes damage when at/below 735HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,Calbrena (Dwarf Castle 1),Kainazzo,47,8524,21000,8000,7,99,96,1,80,2,6,60,25,11,11,41,Hiding trigger: takes damage when at/below 1492HP^^ When hiding and hit set Evade to 90 with two multipliers and Defense to 3
+kainazzo,CPU (Giant 2),Kainazzo,48,24000,150000,10333,13,99,174,4,45,4,8,50,38,38,38,127,Hiding trigger: takes damage when at/below 4200HP^^ When hiding and hit set Evade to 60 with 4 multipliers and Defense to 5
+kainazzo,Cave Magnes,Kainazzo,19,5000,7000,9000,4,99,54,0,0,3,99,99,254,11,11,16,Hiding trigger: takes damage when at/below 875HP^^ When hiding and hit set Defense to 5
+kainazzo,Dark Imp (Tower Key),Kainazzo,16,597,5820,135,5,70,56,0,0,0,0,0,0,18,21,29,Hiding trigger: takes damage when at/below 105HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,D Lunar (Lunar Sub),Kainazzo,99,42000,100000,0,11,85,144,3,30,4,10,80,54,30,30,36,Hiding trigger: takes damage when at/below 7350HP^^ When hiding and hit set Evade to 40 with 3 multipliers and Defense to 4
+kainazzo,Mist Cave,Kainazzo,10,465,700,200,2,90,16,0,0,5,7,80,31,5,5,10,Hiding trigger: takes damage when at/below 82HP^^ When hiding and hit set Defense to 5
+kainazzo,Elements (Giant 1),Kainazzo,79,65000,102500,20000,10,80,128,2,35,3,3,60,4,89,89,16,Hiding trigger: takes damage when at/below 11375HP^^ When hiding and hit set Evade to 50 with 3 multipliers and Defense to 4
+kainazzo,Sealed Cave,Kainazzo,37,19000,23000,8000,6,90,84,1,35,2,7,80,29,66,66,79,Hiding trigger: takes damage when at/below 3325HP^^ When hiding and hit set Evade to 45 with 1 multiplier and Defense to 2
+kainazzo,Fabul Defense,Kainazzo,15,1880,5590,1425,3,90,36,2,20,2,3,60,11,6,9,28,Hiding trigger: takes damage when at/below 329HP^^ When hiding and hit set Evade to 25 with 2 multipliers and Defense to 3
+kainazzo,Golbez (Dwarf Castle 2),Kainazzo,31,3002,20000,11000,5,99,68,0,0,0,0,0,0,27,27,1,Hiding trigger: takes damage when at/below 526HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,Baron Guards (Baron Inn 1),Kainazzo,18,400,1440,1000,3,99,46,1,90,1,3,40,14,11,14,26,Hiding trigger: takes damage when at/below 70HP^^ When hiding and hit set Evade to 90 with 1 multiplier and Defense to 1
+kainazzo,Baron Throne Room,Kainazzo,16,4000,5500,4000,3,99,44,2,50,2,10,50,48,15,15,29,Hiding trigger: takes damage when at/below 700HP^^ When hiding and hit set Evade to 70 with 2 multipliers and Defense to 3
+kainazzo,Karate (Baron Inn 2),Kainazzo,31,4000,0,0,6,99,86,0,0,0,0,0,0,4,7,57,Hiding trigger: takes damage when at/below 700HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,Eblan Royalty (Upper Babil 1),Kainazzo,15,6000,0,0,9,85,116,0,0,0,0,0,0,53,53,28,Hiding trigger: takes damage when at/below 1050HP^^ When hiding and hit set physical defenses to 0
+kainazzo,Leviatan (Feymarch),Kainazzo,79,35000,28000,0,13,99,174,0,0,5,10,80,47,53,53,34,Hiding trigger: takes damage when at/below 6125HP^^ When hiding and hit set Defense to 5
+kainazzo,Dr Lugae (Lower Babil - Top),Kainazzo,25,18943,26020,11000,6,99,86,1,50,1,0,0,0,27,27,7,Hiding trigger: takes damage when at/below 3316HP^^ When hiding and hit set Evade to 70 with 1 multiplier and Defense to 1
+kainazzo,Magus Sisters (Zot 1),Kainazzo,16,9000,9000,9000,5,80,60,1,45,2,3,60,11,7,7,11,Hiding trigger: takes damage when at/below 1575HP^^ When hiding and hit set Evade to 65 with 1 multiplier and Defense to 2
+kainazzo,Milon (Ordeals 1),Kainazzo,15,2780,3800,3300,1,75,19,1,35,2,0,0,0,8,8,14,Hiding trigger: takes damage when at/below 487HP^^ When hiding and hit set Evade to 45 with 1 multiplier and Defense to 2
+kainazzo,Milon Z (Ordeals 2),Kainazzo,15,3000,4000,3000,3,99,44,1,60,1,6,40,22,9,9,31,Hiding trigger: takes damage when at/below 525HP^^ When hiding and hit set Evade to 80 with 1 multiplier and Defense to 2
+kainazzo,Dark Knight Cecil (Ordeals 3),Kainazzo,17,1000,0,0,3,99,46,0,0,0,3,60,11,5,5,31,Hiding trigger: takes damage when at/below 175HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,Mt Hobs,Kainazzo,15,1250,4360,1755,3,80,30,0,0,0,1,40,9,7,7,5,Hiding trigger: takes damage when at/below 219HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,Watery Passage,Kainazzo,10,2350,1200,500,2,99,22,0,0,0,6,60,25,31,31,19,Hiding trigger: takes damage when at/below 412HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,Odin (Baron Castle Basement),Kainazzo,53,20500,18000,0,9,85,116,2,90,3,7,50,32,43,46,95,Hiding trigger: takes damage when at/below 3588HP^^ When hiding and hit set Evade to 90 with 2 multipliers and Defense to 3
+kainazzo,Kaipo Inn,Kainazzo,11,302,880,245,3,75,26,1,65,2,2,60,12,2,4,20,Hiding trigger: takes damage when at/below 53HP^^ When hiding and hit set Evade to 90 with 2 multipliers and Defense to 3
+kainazzo,Ogopogo (Lunar Core),Kainazzo,62,37000,61100,0,11,99,150,4,55,4,9,50,40,38,38,127,Hiding trigger: takes damage when at/below 6475HP^^ When hiding and hit set Evade to 80 with 4 multipliers and Defense to 5
+kainazzo,Pale Dim (Lunar Sub),Kainazzo,98,27300,59000,0,11,85,144,5,40,5,10,50,48,40,43,31,Hiding trigger: takes damage when at/below 4778HP^^ When hiding and hit set Evade to 50 with 5 multipliers and Defense to 6
+kainazzo,Plague (Lunar Sub),Kainazzo,96,28000,31200,550,11,90,146,4,50,5,7,50,32,29,32,174,Hiding trigger: takes damage when at/below 4900HP^^ When hiding and hit set Evade to 70 with 5 multipliers and Defense to 6
+kainazzo,Rubicant (Upper Babil 2),Kainazzo,50,25200,25000,7000,7,80,88,1,90,1,8,80,37,38,38,16,Hiding trigger: takes damage when at/below 4410HP^^ When hiding and hit set Evade to 90 with 1 multiplier and Defense to 1
+kainazzo,Valvalis (Zot 2),Kainazzo,36,6000,9500,5500,5,99,70,0,0,0,3,40,12,18,18,63,Hiding trigger: takes damage when at/below 1050HP^^ When hiding and hit set all physical defenses to 0
+kainazzo,Wyvern (Lunar Sub),Kainazzo,99,25000,64300,0,12,90,160,4,80,5,10,50,52,43,46,8,Hiding trigger: takes damage when at/below 4375HP^^ When hiding and hit set Evade to 80 with 4 multipliers and Defense to 5
 karate,Antlion Cave,Karate,2,1000,1500,800,2,85,11,0,0,2,2,60,8,5,5,0,
 karate,Asura (Feymarch),Karate,63,23000,20000,0,10,99,134,0,0,0,8,80,37,66,66,0,
 karate,Cave Bahamut,Karate,47,37000,35000,0,13,99,174,0,0,1,1,60,8,27,27,0,
@@ -1869,74 +1869,74 @@ plague,Plague (Lunar Sub),Plague,96,28000,31200,550,11,90,146,4,50,5,7,50,32,29,
 plague,Rubicant (Upper Babil 2),Plague,50,25200,25000,7000,7,80,88,1,90,1,8,80,37,38,38,0,
 plague,Valvalis (Zot 2),Plague,36,6000,9500,5500,5,99,70,0,0,0,3,40,12,18,18,0,
 plague,Wyvern (Lunar Sub),Plague,99,25000,64300,0,12,90,160,4,80,5,10,50,52,43,46,0,
-rubicant,Antlion Cave,Rubicant,2,1000,1500,800,2,85,11,0,0,2,2,60,8,5,5,1,if Rubicant has 40 HP or less and a character uses Fight give a speech
-rubicant,Asura (Feymarch),Rubicant,63,23000,20000,0,10,99,134,0,0,0,8,80,37,66,66,69,if Rubicant has 913 HP or less and a character uses Fight give a speech
-rubicant,Cave Bahamut,Rubicant,47,37000,35000,0,13,99,174,0,0,1,1,60,8,27,27,17,if Rubicant has 1469 HP or less and a character uses Fight give a speech
-rubicant,Baigan (Baron Castle 1),Rubicant,9,4200,4820,3000,4,99,52,0,0,0,3,60,11,8,8,9,if Rubicant has 167 HP or less and a character uses Fight give a speech
-rubicant,Calbrena (Dwarf Castle 1),Rubicant,47,8524,21000,8000,7,99,96,1,80,2,6,60,25,11,11,41,if Rubicant has 339 HP or less and a character uses Fight give a speech
-rubicant,CPU (Giant 2),Rubicant,48,24000,150000,10333,13,99,174,4,45,4,8,50,38,38,38,127,if Rubicant has 953 HP or less and a character uses Fight give a speech
-rubicant,Cave Magnes,Rubicant,19,5000,7000,9000,4,99,54,0,0,3,99,99,254,11,11,15,if Rubicant has 199 HP or less and a character uses Fight give a speech
-rubicant,Dark Imp (Tower Key),Rubicant,16,597,5820,135,5,70,56,0,0,0,0,0,0,18,21,6,if Rubicant has 24 HP or less and a character uses Fight give a speech
-rubicant,D Lunar (Lunar Sub),Rubicant,99,42000,100000,0,11,85,144,3,30,4,10,80,54,30,30,36,if Rubicant has 1667 HP or less and a character uses Fight give a speech
-rubicant,Mist Cave,Rubicant,10,465,700,200,2,90,16,0,0,5,7,80,31,5,5,10,if Rubicant has 19 HP or less and a character uses Fight give a speech
-rubicant,Elements (Giant 1),Rubicant,79,65000,102500,20000,10,80,128,2,35,3,3,60,4,89,89,15,if Rubicant has 2580 HP or less and a character uses Fight give a speech
-rubicant,Sealed Cave,Rubicant,37,19000,23000,8000,6,90,84,1,35,2,7,80,29,66,66,79,if Rubicant has 754 HP or less and a character uses Fight give a speech
-rubicant,Fabul Defense,Rubicant,15,1880,5590,1425,3,90,36,2,20,2,3,60,11,6,9,5,if Rubicant has 75 HP or less and a character uses Fight give a speech
-rubicant,Golbez (Dwarf Castle 2),Rubicant,31,3002,20000,11000,5,99,68,0,0,0,0,0,0,27,27,1,if Rubicant has 120 HP or less and a character uses Fight give a speech
-rubicant,Baron Guards (Baron Inn 1),Rubicant,18,400,1440,1000,3,99,46,1,90,1,3,40,14,11,14,26,if Rubicant has 16 HP or less and a character uses Fight give a speech
-rubicant,Baron Throne Room,Rubicant,16,4000,5500,4000,3,99,44,2,50,2,10,50,48,15,15,29,if Rubicant has 159 HP or less and a character uses Fight give a speech
-rubicant,Karate (Baron Inn 2),Rubicant,31,4000,0,0,6,99,86,0,0,0,0,0,0,4,7,10,if Rubicant has 159 HP or less and a character uses Fight give a speech
-rubicant,Eblan Royalty (Upper Babil 1),Rubicant,15,6000,0,0,9,85,116,0,0,0,0,0,0,53,53,5,if Rubicant has 239 HP or less and a character uses Fight give a speech
-rubicant,Leviatan (Feymarch),Rubicant,79,35000,28000,0,13,99,174,0,0,5,10,80,47,53,53,34,if Rubicant has 1389 HP or less and a character uses Fight give a speech
-rubicant,Dr Lugae (Lower Babil - Top),Rubicant,25,18943,26020,11000,6,99,86,1,50,1,0,0,0,27,27,7,if Rubicant has 752 HP or less and a character uses Fight give a speech
-rubicant,Magus Sisters (Zot 1),Rubicant,16,9000,9000,9000,5,80,60,1,45,2,3,60,11,7,7,11,if Rubicant has 358 HP or less and a character uses Fight give a speech
-rubicant,Milon (Ordeals 1),Rubicant,15,2780,3800,3300,1,75,19,1,35,2,0,0,0,8,8,14,if Rubicant has 111 HP or less and a character uses Fight give a speech
-rubicant,Milon Z (Ordeals 2),Rubicant,15,3000,4000,3000,3,99,44,1,60,1,6,40,22,9,9,31,if Rubicant has 120 HP or less and a character uses Fight give a speech
-rubicant,Dark Knight Cecil (Ordeals 3),Rubicant,17,1000,0,0,3,99,46,0,0,0,3,60,11,5,5,6,if Rubicant has 40 HP or less and a character uses Fight give a speech
-rubicant,Mt Hobs,Rubicant,15,1250,4360,1755,3,80,30,0,0,0,1,40,9,7,7,5,if Rubicant has 50 HP or less and a character uses Fight give a speech
-rubicant,Watery Passage,Rubicant,10,2350,1200,500,2,99,22,0,0,0,6,60,25,31,31,4,if Rubicant has 94 HP or less and a character uses Fight give a speech
-rubicant,Odin (Baron Castle Basement),Rubicant,53,20500,18000,0,9,85,116,2,90,3,7,50,32,43,46,95,if Rubicant has 814 HP or less and a character uses Fight give a speech
-rubicant,Kaipo Inn,Rubicant,11,302,880,245,3,75,26,1,65,2,2,60,12,2,4,4,if Rubicant has 12 HP or less and a character uses Fight give a speech
-rubicant,Ogopogo (Lunar Core),Rubicant,62,37000,61100,0,11,99,150,4,55,4,9,50,40,38,38,127,if Rubicant has 1469 HP or less and a character uses Fight give a speech
-rubicant,Pale Dim (Lunar Sub),Rubicant,98,27300,59000,0,11,85,144,5,40,5,10,50,48,40,43,31,if Rubicant has 1084 HP or less and a character uses Fight give a speech
-rubicant,Plague (Lunar Sub),Rubicant,96,28000,31200,550,11,90,146,4,50,5,7,50,32,29,32,31,if Rubicant has 1112 HP or less and a character uses Fight give a speech
-rubicant,Rubicant (Upper Babil 2),Rubicant,50,25200,25000,7000,7,80,88,1,90,1,8,80,37,38,38,16,if Rubicant has 1000 HP or less and a character uses Fight give a speech
-rubicant,Valvalis (Zot 2),Rubicant,36,6000,9500,5500,5,99,70,0,0,0,3,40,12,18,18,63,if Rubicant has 239 HP or less and a character uses Fight give a speech
-rubicant,Wyvern (Lunar Sub),Rubicant,99,25000,64300,0,12,90,160,4,80,5,10,50,52,43,46,8,if Rubicant has 993 HP or less and a character uses Fight give a speech
-valvalis,Antlion Cave,Valvalis,2,1000,1500,800,2,85,11,0,0,2,2,60,8,5,5,4,Tornado Form defenses:\r\nMDef: 170\r\nDefnese: 5\r\nEvade:0% x0
-valvalis,Asura (Feymarch),Valvalis,63,23000,20000,0,10,99,134,0,0,0,8,80,37,66,66,69,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Cave Bahamut,Valvalis,47,37000,35000,0,13,99,174,0,0,1,1,60,8,27,27,17,Tornado Form defenses:\r\nMDef: 170\r\nDefnese: 4\r\nEvade:0% x0
-valvalis,Baigan (Baron Castle 1),Valvalis,9,4200,4820,3000,4,99,52,0,0,0,3,60,11,8,8,9,Tornado Form defenses:\r\nMDef: 254\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Calbrena (Dwarf Castle 1),Valvalis,47,8524,21000,8000,7,99,96,1,80,2,6,60,25,11,11,41,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 5\r\nEvade:80% x4
-valvalis,CPU (Giant 2),Valvalis,48,24000,150000,10333,13,99,174,4,45,4,8,50,38,38,38,127,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 16\r\nEvade:90% x2
-valvalis,Cave Magnes,Valvalis,19,5000,7000,9000,4,99,54,0,0,3,99,99,254,11,11,15,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 5\r\nEvade:0% x0
-valvalis,Dark Imp (Tower Key),Valvalis,16,597,5820,135,5,70,56,0,0,0,0,0,0,18,21,28,Tornado Form defenses:\r\nMDef: 0\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,D Lunar (Lunar Sub),Valvalis,99,42000,100000,0,11,85,144,3,30,4,10,80,54,30,30,36,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 16\r\nEvade:90% x2
-valvalis,Mist Cave,Valvalis,10,465,700,200,2,90,16,0,0,5,7,80,31,5,5,10,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 20\r\nEvade:80% x1
-valvalis,Elements (Giant 1),Valvalis,79,65000,102500,20000,10,80,128,2,35,3,3,60,4,89,89,15,Tornado Form defenses:\r\nMDef: 86\r\nDefnese: 11\r\nEvade:85% x2
-valvalis,Sealed Cave,Valvalis,37,19000,23000,8000,6,90,84,1,35,2,7,80,29,66,66,79,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 5\r\nEvade:80% x4
-valvalis,Fabul Defense,Valvalis,15,1880,5590,1425,3,90,36,2,20,2,3,60,11,6,9,27,Tornado Form defenses:\r\nMDef: 254\r\nDefnese: 6\r\nEvade:70% x5
-valvalis,Golbez (Dwarf Castle 2),Valvalis,31,3002,20000,11000,5,99,68,0,0,0,0,0,0,27,27,1,Tornado Form defenses:\r\nMDef: 0\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Baron Guards (Baron Inn 1),Valvalis,18,400,1440,1000,3,99,46,1,90,1,3,40,14,11,14,26,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 4\r\nEvade:90% x4
-valvalis,Baron Throne Room,Valvalis,16,4000,5500,4000,3,99,44,2,50,2,10,50,48,15,15,29,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 6\r\nEvade:70% x5
-valvalis,Karate (Baron Inn 2),Valvalis,31,4000,0,0,6,99,86,0,0,0,0,0,0,4,7,55,Tornado Form defenses:\r\nMDef: 0\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Eblan Royalty (Upper Babil 1),Valvalis,15,6000,0,0,9,85,116,0,0,0,0,0,0,53,53,27,Tornado Form defenses:\r\nMDef: 0\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Leviatan (Feymarch),Valvalis,79,35000,28000,0,13,99,174,0,0,5,10,80,47,53,53,34,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 20\r\nEvade:80% x1
-valvalis,Dr Lugae (Lower Babil - Top),Valvalis,25,18943,26020,11000,6,99,86,1,50,1,0,0,0,27,27,7,Tornado Form defenses:\r\nMDef: 0\r\nDefnese: 4\r\nEvade:90% x4
-valvalis,Magus Sisters (Zot 1),Valvalis,16,9000,9000,9000,5,80,60,1,45,2,3,60,11,7,7,11,Tornado Form defenses:\r\nMDef: 254\r\nDefnese: 5\r\nEvade:80% x4
-valvalis,Milon (Ordeals 1),Valvalis,15,2780,3800,3300,1,75,19,1,35,2,0,0,0,8,8,14,Tornado Form defenses:\r\nMDef: 0\r\nDefnese: 5\r\nEvade:80% x4
-valvalis,Milon Z (Ordeals 2),Valvalis,15,3000,4000,3000,3,99,44,1,60,1,6,40,22,9,9,31,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 4\r\nEvade:90% x4
-valvalis,Dark Knight Cecil (Ordeals 3),Valvalis,17,1000,0,0,3,99,46,0,0,0,3,60,11,5,5,30,Tornado Form defenses:\r\nMDef: 254\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Mt Hobs,Valvalis,15,1250,4360,1755,3,80,30,0,0,0,1,40,9,7,7,5,Tornado Form defenses:\r\nMDef: 174\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Watery Passage,Valvalis,10,2350,1200,500,2,99,22,0,0,0,6,60,25,31,31,18,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Odin (Baron Castle Basement),Valvalis,53,20500,18000,0,9,85,116,2,90,3,7,50,32,43,46,95,Tornado Form defenses:\r\nMDef: 254\r\nDefnese: 11\r\nEvade:85% x2
-valvalis,Kaipo Inn,Valvalis,11,302,880,245,3,75,26,1,65,2,2,60,12,2,4,20,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Ogopogo (Lunar Core),Valvalis,62,37000,61100,0,11,99,150,4,55,4,9,50,40,38,38,127,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 16\r\nEvade:90% x2
-valvalis,Pale Dim (Lunar Sub),Valvalis,98,27300,59000,0,11,85,144,5,40,5,10,50,48,40,43,31,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 20\r\nEvade:99% x2
-valvalis,Plague (Lunar Sub),Valvalis,96,28000,31200,550,11,90,146,4,50,5,7,50,32,29,32,168,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 20\r\nEvade:99% x2
-valvalis,Rubicant (Upper Babil 2),Valvalis,50,25200,25000,7000,7,80,88,1,90,1,8,80,37,38,38,16,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 4\r\nEvade:90% x4
-valvalis,Valvalis (Zot 2),Valvalis,36,6000,9500,5500,5,99,70,0,0,0,3,40,12,18,18,63,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 0\r\nEvade:0% x0
-valvalis,Wyvern (Lunar Sub),Valvalis,99,25000,64300,0,12,90,160,4,80,5,10,50,52,43,46,8,Tornado Form defenses:\r\nMDef: 255\r\nDefnese: 20\r\nEvade:99% x2
+rubicant,Antlion Cave,Rubicant,2,1000,1500,800,2,85,11,0,0,2,2,60,8,5,5,1,When at 40 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Asura (Feymarch),Rubicant,63,23000,20000,0,10,99,134,0,0,0,8,80,37,66,66,69,When at 913 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Cave Bahamut,Rubicant,47,37000,35000,0,13,99,174,0,0,1,1,60,8,27,27,17,When at 1469 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Baigan (Baron Castle 1),Rubicant,9,4200,4820,3000,4,99,52,0,0,0,3,60,11,8,8,9,When at 167 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Calbrena (Dwarf Castle 1),Rubicant,47,8524,21000,8000,7,99,96,1,80,2,6,60,25,11,11,41,When at 339 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,CPU (Giant 2),Rubicant,48,24000,150000,10333,13,99,174,4,45,4,8,50,38,38,38,127,When at 953 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Cave Magnes,Rubicant,19,5000,7000,9000,4,99,54,0,0,3,99,99,254,11,11,15,When at 199 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Dark Imp (Tower Key),Rubicant,16,597,5820,135,5,70,56,0,0,0,0,0,0,18,21,6,When at 24 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,D Lunar (Lunar Sub),Rubicant,99,42000,100000,0,11,85,144,3,30,4,10,80,54,30,30,36,When at 1667 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Mist Cave,Rubicant,10,465,700,200,2,90,16,0,0,5,7,80,31,5,5,10,When at 19 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Elements (Giant 1),Rubicant,79,65000,102500,20000,10,80,128,2,35,3,3,60,4,89,89,15,When at 2580 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Sealed Cave,Rubicant,37,19000,23000,8000,6,90,84,1,35,2,7,80,29,66,66,79,When at 754 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Fabul Defense,Rubicant,15,1880,5590,1425,3,90,36,2,20,2,3,60,11,6,9,5,When at 75 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Golbez (Dwarf Castle 2),Rubicant,31,3002,20000,11000,5,99,68,0,0,0,0,0,0,27,27,1,When at 120 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Baron Guards (Baron Inn 1),Rubicant,18,400,1440,1000,3,99,46,1,90,1,3,40,14,11,14,26,When at 16 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Baron Throne Room,Rubicant,16,4000,5500,4000,3,99,44,2,50,2,10,50,48,15,15,29,When at 159 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Karate (Baron Inn 2),Rubicant,31,4000,0,0,6,99,86,0,0,0,0,0,0,4,7,10,When at 159 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Eblan Royalty (Upper Babil 1),Rubicant,15,6000,0,0,9,85,116,0,0,0,0,0,0,53,53,5,When at 239 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Leviatan (Feymarch),Rubicant,79,35000,28000,0,13,99,174,0,0,5,10,80,47,53,53,34,When at 1389 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Dr Lugae (Lower Babil - Top),Rubicant,25,18943,26020,11000,6,99,86,1,50,1,0,0,0,27,27,7,When at 752 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Magus Sisters (Zot 1),Rubicant,16,9000,9000,9000,5,80,60,1,45,2,3,60,11,7,7,11,When at 358 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Milon (Ordeals 1),Rubicant,15,2780,3800,3300,1,75,19,1,35,2,0,0,0,8,8,14,When at 111 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Milon Z (Ordeals 2),Rubicant,15,3000,4000,3000,3,99,44,1,60,1,6,40,22,9,9,31,When at 120 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Dark Knight Cecil (Ordeals 3),Rubicant,17,1000,0,0,3,99,46,0,0,0,3,60,11,5,5,6,When at 40 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Mt Hobs,Rubicant,15,1250,4360,1755,3,80,30,0,0,0,1,40,9,7,7,5,When at 50 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Watery Passage,Rubicant,10,2350,1200,500,2,99,22,0,0,0,6,60,25,31,31,4,When at 94 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Odin (Baron Castle Basement),Rubicant,53,20500,18000,0,9,85,116,2,90,3,7,50,32,43,46,95,When at 814 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Kaipo Inn,Rubicant,11,302,880,245,3,75,26,1,65,2,2,60,12,2,4,4,When at 12 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Ogopogo (Lunar Core),Rubicant,62,37000,61100,0,11,99,150,4,55,4,9,50,40,38,38,127,When at 1469 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Pale Dim (Lunar Sub),Rubicant,98,27300,59000,0,11,85,144,5,40,5,10,50,48,40,43,31,When at 1084 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Plague (Lunar Sub),Rubicant,96,28000,31200,550,11,90,146,4,50,5,7,50,32,29,32,31,When at 1112 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Rubicant (Upper Babil 2),Rubicant,50,25200,25000,7000,7,80,88,1,90,1,8,80,37,38,38,16,When at 1000 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Valvalis (Zot 2),Rubicant,36,6000,9500,5500,5,99,70,0,0,0,3,40,12,18,18,63,When at 239 HP or less and a character uses Fight: give a speech and Vanish
+rubicant,Wyvern (Lunar Sub),Rubicant,99,25000,64300,0,12,90,160,4,80,5,10,50,52,43,46,8,When at 993 HP or less and a character uses Fight: give a speech and Vanish
+valvalis,Antlion Cave,Valvalis,2,1000,1500,800,2,85,11,0,0,2,2,60,8,5,5,4,Tornado Form defenses:^^MDef: 170^^Defense: 5^^Evade:0% x0
+valvalis,Asura (Feymarch),Valvalis,63,23000,20000,0,10,99,134,0,0,0,8,80,37,66,66,69,Tornado Form defenses:^^MDef: 255^^Defense: 0^^Evade:0% x0
+valvalis,Cave Bahamut,Valvalis,47,37000,35000,0,13,99,174,0,0,1,1,60,8,27,27,17,Tornado Form defenses:^^MDef: 170^^Defense: 4^^Evade:0% x0
+valvalis,Baigan (Baron Castle 1),Valvalis,9,4200,4820,3000,4,99,52,0,0,0,3,60,11,8,8,9,Tornado Form defenses:^^MDef: 254^^Defense: 0^^Evade:0% x0
+valvalis,Calbrena (Dwarf Castle 1),Valvalis,47,8524,21000,8000,7,99,96,1,80,2,6,60,25,11,11,41,Tornado Form defenses:^^MDef: 255^^Defense: 5^^Evade:80% x4
+valvalis,CPU (Giant 2),Valvalis,48,24000,150000,10333,13,99,174,4,45,4,8,50,38,38,38,127,Tornado Form defenses:^^MDef: 255^^Defense: 16^^Evade:90% x2
+valvalis,Cave Magnes,Valvalis,19,5000,7000,9000,4,99,54,0,0,3,99,99,254,11,11,15,Tornado Form defenses:^^MDef: 255^^Defense: 5^^Evade:0% x0
+valvalis,Dark Imp (Tower Key),Valvalis,16,597,5820,135,5,70,56,0,0,0,0,0,0,18,21,28,Tornado Form defenses:^^MDef: 0^^Defense: 0^^Evade:0% x0
+valvalis,D Lunar (Lunar Sub),Valvalis,99,42000,100000,0,11,85,144,3,30,4,10,80,54,30,30,36,Tornado Form defenses:^^MDef: 255^^Defense: 16^^Evade:90% x2
+valvalis,Mist Cave,Valvalis,10,465,700,200,2,90,16,0,0,5,7,80,31,5,5,10,Tornado Form defenses:^^MDef: 255^^Defense: 20^^Evade:80% x1
+valvalis,Elements (Giant 1),Valvalis,79,65000,102500,20000,10,80,128,2,35,3,3,60,4,89,89,15,Tornado Form defenses:^^MDef: 86^^Defense: 11^^Evade:85% x2
+valvalis,Sealed Cave,Valvalis,37,19000,23000,8000,6,90,84,1,35,2,7,80,29,66,66,79,Tornado Form defenses:^^MDef: 255^^Defense: 5^^Evade:80% x4
+valvalis,Fabul Defense,Valvalis,15,1880,5590,1425,3,90,36,2,20,2,3,60,11,6,9,27,Tornado Form defenses:^^MDef: 254^^Defense: 6^^Evade:70% x5
+valvalis,Golbez (Dwarf Castle 2),Valvalis,31,3002,20000,11000,5,99,68,0,0,0,0,0,0,27,27,1,Tornado Form defenses:^^MDef: 0^^Defense: 0^^Evade:0% x0
+valvalis,Baron Guards (Baron Inn 1),Valvalis,18,400,1440,1000,3,99,46,1,90,1,3,40,14,11,14,26,Tornado Form defenses:^^MDef: 255^^Defense: 4^^Evade:90% x4
+valvalis,Baron Throne Room,Valvalis,16,4000,5500,4000,3,99,44,2,50,2,10,50,48,15,15,29,Tornado Form defenses:^^MDef: 255^^Defense: 6^^Evade:70% x5
+valvalis,Karate (Baron Inn 2),Valvalis,31,4000,0,0,6,99,86,0,0,0,0,0,0,4,7,55,Tornado Form defenses:^^MDef: 0^^Defense: 0^^Evade:0% x0
+valvalis,Eblan Royalty (Upper Babil 1),Valvalis,15,6000,0,0,9,85,116,0,0,0,0,0,0,53,53,27,Tornado Form defenses:^^MDef: 0^^Defense: 0^^Evade:0% x0
+valvalis,Leviatan (Feymarch),Valvalis,79,35000,28000,0,13,99,174,0,0,5,10,80,47,53,53,34,Tornado Form defenses:^^MDef: 255^^Defense: 20^^Evade:80% x1
+valvalis,Dr Lugae (Lower Babil - Top),Valvalis,25,18943,26020,11000,6,99,86,1,50,1,0,0,0,27,27,7,Tornado Form defenses:^^MDef: 0^^Defense: 4^^Evade:90% x4
+valvalis,Magus Sisters (Zot 1),Valvalis,16,9000,9000,9000,5,80,60,1,45,2,3,60,11,7,7,11,Tornado Form defenses:^^MDef: 254^^Defense: 5^^Evade:80% x4
+valvalis,Milon (Ordeals 1),Valvalis,15,2780,3800,3300,1,75,19,1,35,2,0,0,0,8,8,14,Tornado Form defenses:^^MDef: 0^^Defense: 5^^Evade:80% x4
+valvalis,Milon Z (Ordeals 2),Valvalis,15,3000,4000,3000,3,99,44,1,60,1,6,40,22,9,9,31,Tornado Form defenses:^^MDef: 255^^Defense: 4^^Evade:90% x4
+valvalis,Dark Knight Cecil (Ordeals 3),Valvalis,17,1000,0,0,3,99,46,0,0,0,3,60,11,5,5,30,Tornado Form defenses:^^MDef: 254^^Defense: 0^^Evade:0% x0
+valvalis,Mt Hobs,Valvalis,15,1250,4360,1755,3,80,30,0,0,0,1,40,9,7,7,5,Tornado Form defenses:^^MDef: 174^^Defense: 0^^Evade:0% x0
+valvalis,Watery Passage,Valvalis,10,2350,1200,500,2,99,22,0,0,0,6,60,25,31,31,18,Tornado Form defenses:^^MDef: 255^^Defense: 0^^Evade:0% x0
+valvalis,Odin (Baron Castle Basement),Valvalis,53,20500,18000,0,9,85,116,2,90,3,7,50,32,43,46,95,Tornado Form defenses:^^MDef: 254^^Defense: 11^^Evade:85% x2
+valvalis,Kaipo Inn,Valvalis,11,302,880,245,3,75,26,1,65,2,2,60,12,2,4,20,Tornado Form defenses:^^MDef: 255^^Defense: 0^^Evade:0% x0
+valvalis,Ogopogo (Lunar Core),Valvalis,62,37000,61100,0,11,99,150,4,55,4,9,50,40,38,38,127,Tornado Form defenses:^^MDef: 255^^Defense: 16^^Evade:90% x2
+valvalis,Pale Dim (Lunar Sub),Valvalis,98,27300,59000,0,11,85,144,5,40,5,10,50,48,40,43,31,Tornado Form defenses:^^MDef: 255^^Defense: 20^^Evade:99% x2
+valvalis,Plague (Lunar Sub),Valvalis,96,28000,31200,550,11,90,146,4,50,5,7,50,32,29,32,168,Tornado Form defenses:^^MDef: 255^^Defense: 20^^Evade:99% x2
+valvalis,Rubicant (Upper Babil 2),Valvalis,50,25200,25000,7000,7,80,88,1,90,1,8,80,37,38,38,16,Tornado Form defenses:^^MDef: 255^^Defense: 4^^Evade:90% x4
+valvalis,Valvalis (Zot 2),Valvalis,36,6000,9500,5500,5,99,70,0,0,0,3,40,12,18,18,63,Tornado Form defenses:^^MDef: 255^^Defense: 0^^Evade:0% x0
+valvalis,Wyvern (Lunar Sub),Valvalis,99,25000,64300,0,12,90,160,4,80,5,10,50,52,43,46,8,Tornado Form defenses:^^MDef: 255^^Defense: 20^^Evade:99% x2
 waterhag,Antlion Cave,WaterHag,2,46600,1500,800,2,85,11,0,0,2,2,60,8,5,5,0,
 waterhag,Asura (Feymarch),WaterHag,63,65000,20000,0,10,99,134,0,0,0,8,80,37,66,66,0,
 waterhag,Cave Bahamut,WaterHag,47,65000,35000,0,13,99,174,0,0,1,1,60,8,27,27,0,

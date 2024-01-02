@@ -49,7 +49,7 @@ create table import.equipment_data (
 	, Notes text
 	, Tier text
 	, Price text
-)
+);
 
 -- name of boss fight (e.g. "fabul gauntlet", "antlion")
 create table encounters.boss_fights(
@@ -84,7 +84,7 @@ create table stats.bosses(
 	min_speed int not null default 0,
 	max_speed int not null default 0,
 	spell_power int not null default 0,
-	notes text
+	notes text[]
 );
 
 create table equipment.base (
