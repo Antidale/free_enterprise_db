@@ -18,3 +18,5 @@ psql -h $FE_PGHOST -d $FE_PGDATABASE -U $FE_PGUSER -c "\copy import.equipment_da
 psql -h $FE_PGHOST -d $FE_PGDATABASE -U $FE_PGUSER -f ./scripts/normalize-import-data.sql
 
 psql -h $FE_PGHOST -d $FE_PGDATABASE -U $FE_PGUSER -f ./scripts/tournament-schema.sql
+
+psql -h $FE_PGHOST -d $FE_PGDATABASE -U $FE_PGUSER -f ./scripts/info-schema.sql
