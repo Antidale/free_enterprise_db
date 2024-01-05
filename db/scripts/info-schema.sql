@@ -47,6 +47,16 @@ VALUES
 ('D.Machin Count Grind Lookup', 'Inven created this spreadsheet to help with a quick lookup for how many D.Machins or MacGiants you need to hit level targets', 'https://docs.google.com/spreadsheets/d/1DChwazoDnE4XeLjF_s6vraNCV__om13wtVaq9zLghns', 'Article', 'D.Machine Grind Calculator Tool MacGiant Giant'),
 ('The ATB System', 'A writeup on the wiki covering ATB, Relative Agility, Timers, Battle Speed, Speed Modifier and more', 'https://wiki.ff4fe.com/doku.php?id=battle_mechanics#the_atb_system', 'Article', 'RA Relative Agility ATB Battle Mechanics Speed Modifier'),
 ('Battle Formulas', 'Wiki writeup of damage formulas including information on crits and modifiers/multipliers for damage', 'https://wiki.ff4fe.com/doku.php?id=formulas', 'Article', 'Battle Mechanics Modifiers Formulas'),
-('Algorithm FAQ', 'A guide algorithms in FFIV, and therefore Free Enterprise. From Deathlike', 'https://gamefaqs.gamespot.com/snes/522596-final-fantasy-ii/faqs/54945', 'Article', 'Battle Mechanics Algorithms Formulas Modifiers')
+('Algorithm FAQ', 'A guide algorithms in FFIV, and therefore Free Enterprise. From Deathlike', 'https://gamefaqs.gamespot.com/snes/522596-final-fantasy-ii/faqs/54945', 'Article', 'Battle Mechanics Algorithms Formulas Modifiers'),
+('FF4FE Underlevelled Boss Strategies', 'A guide to low/underleveled boss fights from Kirchin', 'https://docs.google.com/document/d/1Xw1vsN-OROShv4ZxPcStwJ1LsmFlPcZr3IIjOBSNEww', 'Article', 'Underleveled Boss Strategies Kirchin Guide Low Level'),
+('FF4FE Boss Strats', 'An article version of the /recall boss command of Tellahs Library', 'https://docs.google.com/document/d/1m_U90JG2t3Ze0fUFLMCzMSHZNYcdnIWrcr7RWAgtpBU', 'Article', 'Boss Strategies Guide Low Level'),
+('Relative Agility', 'The wiki article containing basic information about Relative Agility', 'https://wiki.ff4fe.com/doku.php?id=relative_agility', 'Article', 'RA Relative Agility'),
+('Speed Modifier', 'Wiki article detailing how the Speed Modifer works in FF4', 'https://wiki.ff4fe.com/doku.php?id=speed_modifier', 'Article', 'Speed Modifier Fast Slow SilkWeb Hermes'),
+('Battle Timers', 'Wiki article detailing various timers in battle', 'https://wiki.ff4fe.com/doku.php?id=battle_timers', 'Article', 'Battle Timer STop Sap Poison Stone Wall Count Chain ATB Speed Modifier'),
+('RA Calculator', 'Relative Agility calculator made by fcoughlin', 'https://script.google.com/macros/s/AKfycbxs62kk70KyBAxk2xhlLme2NM1MC_MyP4l8LhcF5_EQSyjLz5E/exec', 'Article', 'RA Relative Agility Calculator'),
+('Valvalis Reference Chart', 'Chart compiled by Inven showing the defenses Valvalis gets while in Tornado form', 'https://docs.google.com/spreadsheets/d/1tVQFvlQ_4oWCn0EE9d7QAGrYW3w2IbZzuO2MWuUC8ww', 'Article', 'Valvalis Reference Chart Tornado Defenses'),
+('Boss Location Summary Chart', 'Chart listing values of a single enemy fight for each boss location. Contains DKC and Val details', 'https://info.tellah.life/', 'Boss Location Summary DKC Valvalis HP Speed Tornado'),
+('Boss Info Lookup', 'An app from Dustygriff showing stats of boss fights at specific locations. Includes RA chart', 'https://tgriffin89.github.io/ff4app/', 'Article', 'Boss Information Stats RA'),
+('Boss Stats Lookup', 'Webiste showing boss stats and location-specific script information', 'https://info.tellah.life/boss-stats/', 'Article', 'Boss Information Stats')
 ;
 
