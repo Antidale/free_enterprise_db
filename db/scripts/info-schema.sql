@@ -71,5 +71,10 @@ VALUES
 ('Asura Face Changing Demo', 'A demonstration of how Asura changes faces as reaction to being bopped. Uses a LUA script to display game data', 'https://www.twitch.tv/videos/2008550932', 'Asura Face Reaction Lua')
 ('John Birckhead Explains: Relative Agility (sort of)', 'A discussion of the math behind Relative Agility in Free Enterprise', 'https://www.twitch.tv/videos/1827822112', 'Video', 'Relative Agility Tutorial'),
 ('John Birckhead Explains: D.Machin grinds', 'A walkthrough for how to read the various guides for manipulating the D.Machin grind, and an example fight', 'https://www.twitch.tv/videos/1690480090', 'Video', 'D.Machin Grind Tutorial Example'),
-('John Birckhead Explains: Dupe Glitch', 'A video tutorial for the duplication glitch', 'https://www.twitch.tv/videos/1745502727', 'Video', 'GDupe Dupe Glitch Tutorial')
+('John Birckhead Explains: Dupe Glitch', 'A video tutorial for the duplication glitch', 'https://www.twitch.tv/videos/1745502727', 'Video', 'GDupe Dupe Glitch Tutorial'),
+('FE: Family Feud Edition', 'A fun time at Johncon where FE gets a Family Feud Makover', 'https://www.twitch.tv/videos/1844514661', 'Video', 'Fun Family Feud'),
+('Fireless D.Machin Example', 'Possumorpheus demonstrates having a Fireless D.Machin fight, once the setup is complete', 'https://www.twitch.tv/videos/1199410956', 'Video', 'D.Machine Fireless Example Grind'),
+('Charming, Palom, Charming', 'Palom has had enough with carrying the team, it''s time to Meteo', 'https://clips.twitch.tv/SilkyUnsightlyMeatloafCmonBruh', 'Video', 'Palom Charm Meteo Party Wipe Fun'),
+('4x Run Buffer', 'xPankraz shows off his skills and gets four run-buffered StarVeils off against Wyvern at BS1', 'https://www.twitch.tv/xpankraz/clip/DoubtfulBeautifulDumplingsStinkyCheese-VDL_dEo1KNlaWwit', 'Video', 'Run Buffer Wyvern Fun'),
+('Tricker, Tricked', 'riversmccown has a little fun at the Tricker''s expense', 'https://clips.twitch.tv/CooperativeDoubtfulChipmunkPRChase', 'Video', 'Tricker Fun')
 ;
