@@ -56,4 +56,6 @@ VALUES
 ('Boss Location Summary Chart', 'Chart listing values of a single enemy fight for each boss location. Contains DKC and Val details', 'https://info.tellah.life/', 'Article', 'Boss Location Summary DKC Valvalis HP Speed Tornado'),
 ('Boss Info Lookup', 'An app from Dustygriff showing stats of boss fights at specific locations. Includes RA chart', 'https://tgriffin89.github.io/ff4app/', 'Article', 'Boss Information Stats RA'),
 ('Boss Stats Lookup', 'Webiste showing boss stats and location-specific script information', 'https://info.tellah.life/boss-stats/', 'Article', 'Boss Information Stats')
+('Nearly 100% walkthrough', 'riversmmccown provides a thorough walkthrough of the game. A good watch for newbies', 'https://www.twitch.tv/videos/255276943', 'Video', 'Newbie Walkthrough Demonstation Dupe Glitch'),
+('3x Red D. encounter manip', 'ScytheMarshall shows off, in a race, manipulating encounters to get the pack of three Red D. in the Lunar Core', 'https://www.twitch.tv/videos/1489314531?t=00h46m42s', 'Video', 'Encounter Manip Grind Red Dragon SOTW Race')
 ;
