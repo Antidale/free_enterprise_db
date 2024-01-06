@@ -55,7 +55,11 @@ VALUES
 ('Valvalis Reference Chart', 'Chart compiled by Inven showing the defenses Valvalis gets while in Tornado form', 'https://docs.google.com/spreadsheets/d/1tVQFvlQ_4oWCn0EE9d7QAGrYW3w2IbZzuO2MWuUC8ww', 'Article', 'Valvalis Reference Chart Tornado Defenses'),
 ('Boss Location Summary Chart', 'Chart listing values of a single enemy fight for each boss location. Contains DKC and Val details', 'https://info.tellah.life/', 'Article', 'Boss Location Summary DKC Valvalis HP Speed Tornado'),
 ('Boss Info Lookup', 'An app from Dustygriff showing stats of boss fights at specific locations. Includes RA chart', 'https://tgriffin89.github.io/ff4app/', 'Article', 'Boss Information Stats RA'),
-('Boss Stats Lookup', 'Webiste showing boss stats and location-specific script information', 'https://info.tellah.life/boss-stats/', 'Article', 'Boss Information Stats')
+('Boss Stats Lookup', 'Website showing boss stats and location-specific script information', 'https://info.tellah.life/boss-stats/', 'Article', 'Boss Information Stats'),
 ('Nearly 100% walkthrough', 'riversmmccown provides a thorough walkthrough of the game. A good watch for newbies', 'https://www.twitch.tv/videos/255276943', 'Video', 'Newbie Walkthrough Demonstation Dupe Glitch'),
-('3x Red D. encounter manip', 'ScytheMarshall shows off, in a race, manipulating encounters to get the pack of three Red D. in the Lunar Core', 'https://www.twitch.tv/videos/1489314531?t=00h46m42s', 'Video', 'Encounter Manip Grind Red Dragon SOTW Race')
+('3x Red D. encounter manip', 'ScytheMarshall shows off, in a race, manipulating encounters to get the pack of three Red D. in the Lunar Core', 'https://www.twitch.tv/videos/1489314531?t=00h46m42s', 'Video', 'Encounter Manip Grind Red Dragon SOTW Race'),
+('Plague Reflect Example', 'An example of reflecting Count and having Plague fall to self-inflicted doom', 'https://www.twitch.tv/videos/2024235833', 'Video', 'Plague Reflect Count Example'),
+('Inven''s FF4fe Duplication Guide', 'Inven created a step-by-step guide, with screenshots, for how to perform the duplication glitches available when Gdupe is enabled', 'https://docs.google.com/document/d/1ccSSohY1YyFflhuAaPaTvRprBoFHtxUHh-Eqap5FL1g', 'Article', 'Gdupe Duplication Glitch How-To Guide Weapon Armor'),
+('Who''s My Anchor?', 'An image flowchart showing who the agility anchor is, and helps make it clear when both Chero and -vanilla:agility are in play', 'https://ff4-fe-info.s3.us-west-2.amazonaws.com/library-images/agility-flowchart-p.jpg', 'Image', 'Chero vanilla agility anchor'),
+('Kirchin Unveils Eddy Strats', 'The first time Edward strats are used in a Free Enterprise race', 'https://youtu.be/-AxFYQBB8gE?si=GHVyvJrqAoEZ4yLI&t=3145', 'Video', 'WSOFE Edward Strats Zeromus')
 ;
