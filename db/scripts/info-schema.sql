@@ -17,7 +17,7 @@ create table if not exists info.guides(
     search tsvector generated always as (
         setweight(to_tsvector('simple',tags), 'A') || ' ' ||
         setweight(to_tsvector('english',title), 'B') || ' ' ||
-        setweight(to_tsvector('english',title), 'C') :: tsvector
+        setweight(to_tsvector('english',summary), 'C') :: tsvector
     ) stored
 );
 
