@@ -1,5 +1,7 @@
 create schema if not exists info;
 
+drop table if EXISTS info.guides;
+
 DO $$ BEGIN
     IF to_regtype('linkType') IS NULL THEN
         create TYPE linkType as ENUM ('Article', 'Image', 'Video');
@@ -7,7 +9,7 @@ DO $$ BEGIN
     END IF;
 END $$;
 
-create table if not exists info.guides(
+create table info.guides(
     id serial primary key,
     title text,
     summary text,
@@ -25,7 +27,7 @@ create index idx_search on info.guides using GIN(search);
 
 insert into info.guides (title, summary, link, link_type, tags)
 VALUES
-('Death of upt Co', 'fcoughlin shows off very special Zeromus fight', 'https://www.twitch.tv/videos/293657539', 'Video', 'Edward Zermous upt Co no64 G64'),
+('Death of upt Co', 'fcoughlin shows off a very special Zeromus fight', 'https://www.twitch.tv/videos/293657539', 'Video', 'Edward Zeromus upt Co no64 G64'),
 ('Door Grind', 'a video showing a couple methods of killing Doors in Sealed Cave', 'https://www.twitch.tv/videos/1086216532', 'Video', 'Door Grind Sealed Cave'),
 ('PB2J Jumps', 'a video demonstrating many of the shortcuts available in PushBToJump (pb2j) seeds', 'https://www.twitch.tv/videos/672286142', 'Video', 'PB2J Skips pushbtojump'),
 ('So You Think You Can Jump', 'Written guide to learning the pushbtojump flag', 'https://docs.google.com/document/d/1YYY5ODIeSoup2yT5dcIP6zNTx8-oLBTMPSr2CEaaXYQ', 'Article', 'PB2J pushbtojump guide'),
@@ -62,17 +64,16 @@ VALUES
 ('Inven''s FF4fe Duplication Guide', 'Inven created a step-by-step guide, with screenshots, for how to perform the duplication glitches available when Gdupe is enabled', 'https://docs.google.com/document/d/1ccSSohY1YyFflhuAaPaTvRprBoFHtxUHh-Eqap5FL1g', 'Article', 'Gdupe Duplication Glitch Tutorial How-To Guide Weapon Armor'),
 ('Who''s My Anchor?', 'An image flowchart showing who the agility anchor is, and helps make it clear when both Chero and -vanilla:agility are in play', 'https://ff4-fe-info.s3.us-west-2.amazonaws.com/library-images/agility-flowchart-p.jpg', 'Image', 'Chero vanilla agility anchor'),
 ('Kirchin Unveils Eddy Strats', 'The first time Edward strats are used in a Free Enterprise race', 'https://youtu.be/-AxFYQBB8gE?si=GHVyvJrqAoEZ4yLI&t=3145', 'Video', 'WSOFE Edward Strats Zeromus'),
-('Alt Gauntlet Formations', 'A list of all the formations for the [Alt Gauntlet](<>) at each location', 'https://wiki.ff4fe.com/doku.php?id=alt_gauntlet', 'Article', 'Alt Gauntlet Enemy Formations'),
-('Evil Wall - Eddy Strats Potential', 'A reference spreadsheet for figuring out if you can use Hide to let Evil Wall beat itself up', 'https://docs.google.com/spreadsheets/d/1TQY6hGjqkC1NQGDv_M0pzPQa2xZZlAT7rzCzCNLyX1g', 'Article', 'Edward Evil Wall Hide Strats Reference Lookup'),
+('Alt Gauntlet Formations', 'A list of all the formations for the [Alt Gauntlet](<https://wiki.ff4fe.com/doku.php?id=boss_randomization#alt_gauntlet>) at each location', 'https://wiki.ff4fe.com/doku.php?id=alt_gauntlet', 'Article', 'Alt Gauntlet Enemy Formations'),
 ('Evil Wall - Eddy Strats Potential', 'A reference spreadsheet for figuring out if you can use Hide to let Evil Wall beat itself up', 'https://docs.google.com/spreadsheets/d/1TQY6hGjqkC1NQGDv_M0pzPQa2xZZlAT7rzCzCNLyX1g', 'Article', 'Edward Evil Wall Hide Strats Reference Lookup'),
 ('Zeromus Hide Strats', 'A write-up for how to defeat Zeromus with the power of ~~cowards!~~ Edward''s Hide Command', 'https://docs.google.com/document/d/1Xw1vsN-OROShv4ZxPcStwJ1LsmFlPcZr3IIjOBSNEww/edit#heading=h.dvcyslrwgp71', 'Article', 'Low Level Edward Zeromus Strats Reflect StarVeil'),
-('1200 Strats - Full Party', 'Zilch explains how to defeat Zermous when your party has only about 1200 HP per character', 'https://www.twitch.tv/videos/1051386268', 'Video', 'Zeromus 1200 HP Strats Reflect StarVeil Vampire Cure3'),
-('1200 Strats - 2 Character', 'Zilch explains how to defeat Zermous with just a couple characters having 1200 or more HP', 'https://www.twitch.tv/videos/1051391891', 'Video', 'Zeromus 1200 HP Strats Reflect StarVeil Vampire Cure3'),
-('Asura Face Changing Demo', 'A demonstration of how Asura changes faces as reaction to being bopped. Uses a LUA script to display game data', 'https://www.twitch.tv/videos/2008550932', 'Asura Face Reaction Lua')
+('1200 Strats - Full Party', 'Zilch explains how to defeat Zeromus when your party has only about 1200 HP per character', 'https://www.twitch.tv/videos/1051386268', 'Video', 'Zeromus 1200 HP Strats Reflect StarVeil Vampire Cure3'),
+('1200 Strats - 2 Character', 'Zilch explains how to defeat Zeromus with just a couple characters having 1200 or more HP', 'https://www.twitch.tv/videos/1051391891', 'Video', 'Zeromus 1200 HP Strats Reflect StarVeil Vampire Cure3'),
+('Asura Face Changing Demo', 'A demonstration of how Asura changes faces as reaction to being bopped. Uses a LUA script to display game data', 'https://www.twitch.tv/videos/2008550932', 'Video', 'Asura Face Reaction Lua'),
 ('John Birckhead Explains: Relative Agility (sort of)', 'A discussion of the math behind Relative Agility in Free Enterprise', 'https://www.twitch.tv/videos/1827822112', 'Video', 'Relative Agility Tutorial'),
 ('John Birckhead Explains: D.Machin grinds', 'A walkthrough for how to read the various guides for manipulating the D.Machin grind, and an example fight', 'https://www.twitch.tv/videos/1690480090', 'Video', 'D.Machin Grind Tutorial Example'),
 ('John Birckhead Explains: Dupe Glitch', 'A video tutorial for the duplication glitch', 'https://www.twitch.tv/videos/1745502727', 'Video', 'GDupe Dupe Glitch Tutorial'),
-('FE: Family Feud Edition', 'A fun time at Johncon where FE gets a Family Feud Makover', 'https://www.twitch.tv/videos/1844514661', 'Video', 'Fun Family Feud'),
+('FE: Family Feud Edition', 'A fun time at Johncon where FE gets a Family Feud Makeover', 'https://www.twitch.tv/videos/1844514661', 'Video', 'Fun Family Feud'),
 ('Fireless D.Machin Example', 'Possumorpheus demonstrates having a Fireless D.Machin fight, once the setup is complete', 'https://www.twitch.tv/videos/1199410956', 'Video', 'D.Machine Fireless Example Grind'),
 ('Charming, Palom, Charming', 'Palom has had enough with carrying the team, it''s time to Meteo', 'https://clips.twitch.tv/SilkyUnsightlyMeatloafCmonBruh', 'Video', 'Palom Charm Meteo Party Wipe Fun'),
 ('4x Run Buffer', 'xPankraz shows off his skills and gets four run-buffered StarVeils off against Wyvern at BS1', 'https://www.twitch.tv/xpankraz/clip/DoubtfulBeautifulDumplingsStinkyCheese-VDL_dEo1KNlaWwit', 'Video', 'Run Buffer Wyvern Fun'),
@@ -92,7 +93,9 @@ VALUES
 ('ZZ1 Rules Doc', 'Tournament rules document for the Highway to the Zemus Zone', 'https://docs.google.com/document/d/1RWsHy6e0gAb9c-4GFsxccR0sLJQ34ySLVQlf8MXZ1sA', 'Article', 'Tournament Rules Document ZZ1'),
 ('Whichburn Strikes Again', 'Just one Glance from Wyvern, and Edward changes sides', 'https://clips.twitch.tv/DepressedAmazingMomNerfRedBlaster', 'Video', 'Wyvern Edward Glance Fun'),
 ('Heritage Minute: Senator Crocodile', 'SchalaKitty explains the origins of Senator Crocodile', 'https://clips.twitch.tv/VictoriousInterestingSproutImGlitch-aNcPxwCy25eiUeKB', 'Video', 'Fun Alt Gauntlet Heritage'),
-('Icicles', 'Just one Glance from Wyvern, and Edward changes sides', 'https://clips.twitch.tv/DepressedAmazingMomNerfRedBlaster', 'Image', 'Wyvern Edward Glance Fun'),
+('Icicles', 'An image of icicles. Brr!', 'https://ff4-fe-info.s3.us-west-2.amazonaws.com/fun/brr.jpg', 'Image', 'Brr Fun'),
 ('Angry Cookie', 'An image of an angry looking cookie', 'https://ff4-fe-info.s3.us-west-2.amazonaws.com/fun/angry_cookie.png', 'Image', 'Angry Cookie Fun'),
-('Quokka Twins', '', 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Curious_quokka_twins_%2827802025295%29.jpg/640px-Curious_quokka_twins_%2827802025295%29.jpg', 'Image', 'Quokka Fun')
+('Quokka Twins', 'Surprise! Cuteness!', 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Curious_quokka_twins_%2827802025295%29.jpg/640px-Curious_quokka_twins_%2827802025295%29.jpg', 'Image', 'Quokka Fun'),
+('Sneaky Backrow Yang', 'mxzv used the Sneak glitch to backrow Yang in a ZZ3 race', 'https://youtu.be/InmECENpUAg?si=OTsZHKaVB6jENPaP&t=1990', 'Video', 'Charm Harp Gbackrow Glitches Yang Example'),
+('Save!', 'Rhybon doesn''t save, Schala''s soul is hurt', 'https://www.twitch.tv/freeenterprise/clip/AthleticTawdryDonutLitFam-b21Enu3oTvRPD3Wn', 'Video', 'Save Wyvern Fun')
 ;
