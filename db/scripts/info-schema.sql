@@ -97,5 +97,9 @@ VALUES
 ('Angry Cookie', 'An image of an angry looking cookie', 'https://ff4-fe-info.s3.us-west-2.amazonaws.com/fun/angry_cookie.png', 'Image', 'Angry Cookie Fun'),
 ('Quokka Twins', 'Surprise! Cuteness!', 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Curious_quokka_twins_%2827802025295%29.jpg/640px-Curious_quokka_twins_%2827802025295%29.jpg', 'Image', 'Quokka Fun'),
 ('Sneaky Backrow Yang', 'mxzv used the Sneak glitch to backrow Yang in a ZZ3 race', 'https://youtu.be/InmECENpUAg?si=OTsZHKaVB6jENPaP&t=1990', 'Video', 'Charm Harp Gbackrow Glitches Yang Example'),
-('Save!', 'Rhybon doesn''t save, Schala''s soul is hurt', 'https://www.twitch.tv/freeenterprise/clip/AthleticTawdryDonutLitFam-b21Enu3oTvRPD3Wn', 'Video', 'Save Wyvern Fun')
+('Save!', 'Rhybon doesn''t save, Schala''s soul is hurt', 'https://www.twitch.tv/freeenterprise/clip/AthleticTawdryDonutLitFam-b21Enu3oTvRPD3Wn', 'Video', 'Save Wyvern Fun'),
+('Buzzed by guest commentary', 'To infinity and beyond!', 'https://www.twitch.tv/freeenterprise/clip/TemperedPlainTrollFloof', 'Video', 'Fun Cheddar Buzz Lightyear'),
+('No One', 'Shakes like Gaston. . .', 'https://www.twitch.tv/freeenterprise/clip/AverageSillyGazelleBabyRage', 'Video', 'Fun Filk Gaston'),
+('Squirt joins comms', 'Nightdew''s kitty decides to offer some thoughts', 'https://www.twitch.tv/freeenterprise/clip/NurturingLitigiousPresidentDoritosChip', 'Video', 'Fun Commentary Kitten'),
+('B0ard on B0ardAI', 'A clip of Muppetsinspace getting the secrets of B0ardAI right from B0ardface', 'https://www.twitch.tv/freeenterprise/clip/TawdryDeterminedDonkeyPJSalt', 'Video', 'Fun Interview B0ardAI')
 ;
