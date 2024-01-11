@@ -101,5 +101,11 @@ VALUES
 ('Buzzed by guest commentary', 'To infinity and beyond!', 'https://www.twitch.tv/freeenterprise/clip/TemperedPlainTrollFloof', 'Video', 'Fun Cheddar Buzz Lightyear'),
 ('No One', 'Shakes like Gaston. . .', 'https://www.twitch.tv/freeenterprise/clip/AverageSillyGazelleBabyRage', 'Video', 'Fun Filk Gaston'),
 ('Squirt joins comms', 'Nightdew''s kitty decides to offer some thoughts', 'https://www.twitch.tv/freeenterprise/clip/NurturingLitigiousPresidentDoritosChip', 'Video', 'Fun Commentary Kitten'),
-('B0ard on B0ardAI', 'A clip of Muppetsinspace getting the secrets of B0ardAI right from B0ardface', 'https://www.twitch.tv/freeenterprise/clip/TawdryDeterminedDonkeyPJSalt', 'Video', 'Fun Interview B0ardAI')
+('B0ard on B0ardAI', 'A clip of Muppetsinspace getting the secrets of B0ardAI right from B0ardface', 'https://www.twitch.tv/freeenterprise/clip/TawdryDeterminedDonkeyPJSalt', 'Video', 'Fun Interview B0ardAI'),
+('PYP Standings', 'The tournament standings for Inven''s Pick Your Poison tournament', 'https://docs.google.com/spreadsheets/d/1xx7OcYD2QTYPqFkYDLuo4xc5JTrM56rKhc_cJ6eetTU', 'Article', 'Tournament Standings PYP Pick Your Poison Draft'),
+('Hap B Leap Year Standings', 'The tournament standings for Antidale''s Hap B Leap Year tournament', '', 'Article', 'Tournament Standings Hap B Leap Year Jump pb2j'),
+('FF4FE Draft', 'Draft from randomly generated cards to make a Free Enterprise flagset. By Galeswift', 'https://www.ff4fedraft.com/', 'Article', 'Draft Website'),
+('Pick Your Poison Rules Doc', 'Tournament rules document for the Pick Your Poison side tournament', 'https://docs.google.com/document/d/1_qYon9DqJpDSVb384119-XL9xIgAq8s-DssBYqhSEB8', 'Article', 'PYP Pick Your Poison Side Tournament Rules Doc Draft'),
+('Pick Your Poison Draft Helper', 'A helper website to track drafted flags for the Pick Your Poison tournament', 'https://www.tellah.life/Poison/', 'Article', 'PYP Pick Your Poison Draft Helper'),
+('Hap B Leap Year Rules Doc', 'Tournament rules document for the Hap B Leap Year side tournament', 'https://docs.google.com/document/d/1uXWiiT6guhWD7DHNrujqH-UUVJVA_jEWY775w25l4qk', 'Article', 'Hap B Leap Year Side Tournament Rules Doc')
 ;
