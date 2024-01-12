@@ -107,5 +107,6 @@ VALUES
 ('FF4FE Draft', 'Draft from randomly generated cards to make a Free Enterprise flagset. By Galeswift', 'https://www.ff4fedraft.com/', 'Article', 'Draft Website'),
 ('Pick Your Poison Rules Doc', 'Tournament rules document for the Pick Your Poison side tournament', 'https://docs.google.com/document/d/1_qYon9DqJpDSVb384119-XL9xIgAq8s-DssBYqhSEB8', 'Article', 'PYP Pick Your Poison Side Tournament Rules Doc Draft'),
 ('Pick Your Poison Draft Helper', 'A helper website to track drafted flags for the Pick Your Poison tournament', 'https://www.tellah.life/Poison/', 'Article', 'PYP Pick Your Poison Draft Helper'),
-('Hap B Leap Year Rules Doc', 'Tournament rules document for the Hap B Leap Year side tournament', 'https://docs.google.com/document/d/1uXWiiT6guhWD7DHNrujqH-UUVJVA_jEWY775w25l4qk', 'Article', 'Hap B Leap Year Side Tournament Rules Doc')
+('Hap B Leap Year Rules Doc', 'Tournament rules document for the Hap B Leap Year side tournament', 'https://docs.google.com/document/d/1uXWiiT6guhWD7DHNrujqH-UUVJVA_jEWY775w25l4qk', 'Article', 'Hap B Leap Year Side Tournament Rules Doc'),
+('KI Locations Spreadsheet', 'A spreadsheet with notes on locations where Key Items can be found, the vanilla KI rewarded there, and what K flag enables them', 'https://docs.google.com/spreadsheets/d/1ZZH92GG8AWiQV5u6SJlXP6KFFqoqIQdXUW1u10kdM3Q', 'Article', 'KI Reference Spreadsheet Kmain Kmoon Ksummon Kmiab')
 ;
