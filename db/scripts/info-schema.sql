@@ -117,5 +117,8 @@ VALUES
 ('Plinking Demonstration', 'Soleras demonstrates quick menu movement in this plinking tutorial', 'https://www.twitch.tv/videos/1127779621', 'Video', 'plink plinking tutorial guide menuing menu'),
 ('Key Item Safety Checks', 'Documentation for Key Item safety checks, and the Kunsafe flag', 'https://wiki.ff4fe.com/doku.php?id=key_item_randomization#safety_checks', 'Article', 'Kunsafe safety unsafe documentation'),
 ('Boss Safety Checks', 'Documentation for the Boss safety checks, and the Bunsafe flag', 'https://wiki.ff4fe.com/doku.php?id=boss_randomization#safety_checks', 'Article', 'Bunsafe safety unsafe documentation Golbez Wyvern Valvalis Odin DKC Pain'),
-('Shop Safety Guarantees', 'Documentation for the Shop safety Guarantees, and the Bunsafe flag', 'https://wiki.ff4fe.com/doku.php?id=shop_randomization#safety_guarantees', 'Article', 'Sunsafe safety unsafe documentation shops')
+('Shop Safety Guarantees', 'Documentation for the Shop safety Guarantees, and the Bunsafe flag', 'https://wiki.ff4fe.com/doku.php?id=shop_randomization#safety_guarantees', 'Article', 'Sunsafe safety unsafe documentation shops'),
+('Post Pitfall Return Warp', 'ScytheMarshall shows you how to get back up to Upper Babil after you step on that pitfall', 'https://clips.twitch.tv/PlacidOilyBasenjiCopyThis-7uTzd3BHY5gmXdeE', 'Video', 'Pitfall Babil Return'),
+('Who Needs a Pink Tail?', 'Tybalt gambles and comes up with more than gold.', 'https://www.twitch.tv/rpglimitbreak/clip/GleamingEndearingRavenThunBeast-UJkCj7Imtkiag5o3', 'Video', 'Pink Puff Adamant Armor Drop'),
+('Wiki Glossary', 'Get the lowdown on some terms and concepts in FE', 'https://wiki.ff4fe.com/doku.php?id=glossary','Article', '1200 strats Agility Anchor Back Row Glitch Battle Speed Crumble Skip Eddy Strats Fu Palom and Friends Life Glitch Lock Nerf Plink Reflect Run Buffer Slingshot Thunderstruck Wyvern Standard Time Wombo Combo')
 ;
