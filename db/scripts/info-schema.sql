@@ -139,5 +139,59 @@ VALUES
 ('FE Forks', 'A listing of public forks of the FE GitHub repository', 'Article', 'https://github.com/HungryTenor/FreeEnterprise4/forks?include=active%2Cinactive%2Cnetwork&page=1&period=2y&sort_by=last_updated', 'FE Open Source Forks'),
 ('FE Repository', 'The GitHub repository for open sourced Free Enterprise', 'Article', 'https://github.com/HungryTenor/FreeEnterprise4', 'GitHub Repository Free Enterprise'),
 ('Wiki: FE New Flag', 'Wiki page from sgrunt listing the steps required to add a new flag to your fork of FE', 'Article', 'https://wiki.ff4fe.com/doku.php?id=dev:adding_a_new_flag', 'New Flag Open Source Help'),
-('Wiki: FE dev documentation', 'Wiki page listing some resources and links for developing your fork of FE', 'Article', 'https://wiki.ff4fe.com/doku.php?id=dev:home', 'FE Fork Documentation Help')
+('Wiki: FE dev documentation', 'Wiki page listing some resources and links for developing your fork of FE', 'Article', 'https://wiki.ff4fe.com/doku.php?id=dev:home', 'FE Fork Documentation Help'),
+('Wiki: Character Data', 'Wiki page with links to various character data pages', 'Article', 'https://wiki.ff4fe.com/doku.php?id=character_data', 'Character Data Summary'),
+
+('DKC Level Chart', 'Level chart for Dark Knight Cecil', 'Article', 'https://wiki.ff4fe.com/doku.php?id=dkc_stats_raw', 'DKC Dark Knight Cecil Stats Level Up'),
+('DKC Equipment List', 'A detailed list of equipment DKC can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=dkc_equipment', 'DKC Dark Knight Cecil Equipment'),
+('DKC Summary', 'Summary page for Dark Knight Cecil', 'Article', 'https://wiki.ff4fe.com/doku.php?id=dark_knight_cecil', 'DKC Character Summary Dark Knight Cecil'),
+
+('Cecil (Paladin) Level Chart', 'Level chart for Paladin Cecil', 'Article', 'https://wiki.ff4fe.com/doku.php?id=paladin_stats', 'Paladin Cecil Stats Level Up'),
+('Cecil (Paladin) Equipment List', 'A detailed list of equipment Paladin Cecil can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=paladin_equipment', 'Paladin Cecil Equipment'),
+('Cecil (Paladin) Summary', 'Summary page for Paladin Cecil', 'Article', 'https://wiki.ff4fe.com/doku.php?id=paladin_cecil', 'Character Summary Paladin Cecil'),
+
+('Kain Level Chart', 'Level chart for Kain', 'Article', 'https://wiki.ff4fe.com/doku.php?id=kain_stats_raw', 'Kain Stats Level Up'),
+('Kain Equipment List', 'A detailed list of equipment Kain can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=kain_equipment', 'Kain Equipment'),
+('Kain Summary', 'Summary page for Kain', 'Article', 'https://wiki.ff4fe.com/doku.php?id=kain', 'Kain Character Summary '),
+
+('Rydia Level Chart', 'Level chart for Rydia', 'Article', 'https://wiki.ff4fe.com/doku.php?id=rydia_stats_raw', 'Rydia Stats Level Up'),
+('Rydia Equipment List', 'A detailed list of equipment Rydia can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=rydia_equipment', 'Rydia Equipment'),
+('Rydia Summary', 'Summary page for Rydia', 'Article', 'https://wiki.ff4fe.com/doku.php?id=rydia', 'Character Summary Rydia'),
+
+('Tellah Level Chart', 'Level chart for Tellah', 'Article', 'https://wiki.ff4fe.com/doku.php?id=tellah_stats_raw', 'Tellah Stats Level Up'),
+('Tellah Equipment List', 'A detailed list of equipment Tellah can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=tellah_equipment', 'Tellah Equipment'),
+('Tellah Summary', 'Summary page for Tellah', 'Article', 'https://wiki.ff4fe.com/doku.php?id=tellah', 'Tellah Character Summary'),
+
+('Edward Level Chart', 'Level chart for Edward', 'Article', 'https://wiki.ff4fe.com/doku.php?id=edward_stats_raw', 'Edward Stats Level Up'),
+('Edward Equipment List', 'A detailed list of equipment Edward can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=edward_equipment', 'Edward Equipment'),
+('Edward Summary', 'Summary page for Edward', 'Article', 'https://wiki.ff4fe.com/doku.php?id=edward', 'Edward Character Summary'),
+
+('Rosa Level Chart', 'Level chart for Rosa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Rosa_stats_raw', 'Rosa Stats Level Up'),
+('Rosa Equipment List', 'A detailed list of equipment Rosa can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Rosa_equipment', 'Rosa Equipment'),
+('Rosa Summary', 'Summary page for Rosa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Rosa', 'Rosa Character Summary'),
+
+('Yang Level Chart', 'Level chart for Yang', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Yang_stats_raw', 'Yang Stats Level Up'),
+('Yang Equipment List', 'A detailed list of equipment Yang can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Yang_equipment', 'Yang Equipment'),
+('Yang Summary', 'Summary page for Yang', 'Article', 'https://wiki.ff4fe.com/doku.php?id=yang', 'Yang Character Summary'),
+
+('Palom Level Chart', 'Level chart for Palom', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Palom_stats_raw', 'Palom Stats Level Up'),
+('Palom Equipment List', 'A detailed list of equipment Palom can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Palom_equipment', 'Palom Equipment'),
+('Palom Summary', 'Summary page for Palom', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Palom', 'Palom Character Summary'),
+
+('Porom Level Chart', 'Level chart for Porom', 'Article', 'https://wiki.ff4fe.com/doku.php?id=porom_stats_raw', 'Porom Stats Level Up'),
+('Porom Equipment List', 'A detailed list of equipment Porom can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=porom_equipment', 'Porom Equipment'),
+('Porom Summary', 'Summary page for Porom', 'Article', 'https://wiki.ff4fe.com/doku.php?id=porom', 'Porom Character Summary'),
+
+('Cid Level Chart', 'Level chart for Cid', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Cid_stats_raw', 'Cid Stats Level Up'),
+('Cid Equipment List', 'A detailed list of equipment Cid can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Cid_equipment', 'Cid Equipment'),
+('Cid Summary', 'Summary page for Cid', 'Article', 'https://wiki.ff4fe.com/doku.php?id=cid', 'Cid Character Summary'),
+
+('Edge Level Chart', 'Level chart for Edge', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Edge_stats_raw', 'Edge Stats Level Up'),
+('Edge Equipment List', 'A detailed list of equipment Edge can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=Edge_equipment', 'Edge Equipment'),
+('Edge Summary', 'Summary page for Edge', 'Article', 'https://wiki.ff4fe.com/doku.php?id=edge', 'Edge Character Summary'),
+
+('FuSoYa Level Chart', 'Level chart for FuSoYa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa_stats_raw', 'FuSoYa Stats Level Up'),
+('FuSoYa Equipment List', 'A detailed list of equipment FuSoYa can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa_equipment', 'FuSoYa Equipment'),
+('FuSoYa Summary', 'Summary page for FuSoYa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa', 'FuSoYa Character Summary')
+
 ;
