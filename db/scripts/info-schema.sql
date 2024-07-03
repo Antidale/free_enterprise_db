@@ -192,6 +192,7 @@ VALUES
 
 ('FuSoYa Level Chart', 'Level chart for FuSoYa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa_stats_raw', 'FuSoYa Stats Level Up'),
 ('FuSoYa Equipment List', 'A detailed list of equipment FuSoYa can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa_equipment', 'FuSoYa Equipment'),
-('FuSoYa Summary', 'Summary page for FuSoYa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa', 'FuSoYa Character Summary')
+('FuSoYa Summary', 'Summary page for FuSoYa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa', 'FuSoYa Character Summary'),
+('Thunderstruck Odin Example', 'A demonstration of using Hide to help with Thunderstruck strats', 'Video', 'https://www.twitch.tv/videos/1524671396?collection=4SYUrOKspxfvvw', 'Thunderstruck Odin Edward Hide')
 
 ;
