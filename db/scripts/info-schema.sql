@@ -128,5 +128,16 @@ VALUES
 ('Tallgrant Explains: Relative Agility', 'Tallgrant discusses Relative Agility and the ATB system', 'Video', 'https://www.youtube.com/playlist?list=PLRXyrx0u7NaXlYCFVw6Mdf0dQaiFpuFoG', 'RA Relative Agility Anchor ATB Active Time Battle'),
 ('ZZ6 Rules document', 'Tournament rules document for the Zemus Zone 6 tournament', 'Article', 'https://docs.google.com/document/d/1Bo7btycSUeuo9Lg0Mj08Rb40km4xT54vcQ8Hx9U-BuY', 'ZZ6 Rules Document'),
 ('Consolidated Grind Charts', 'A Consolidation of various grind charts with some extra explanation', 'Article', 'https://docs.google.com/document/d/1bQ5KmvBkB4UcQAzFoie3W4rnMkRLFJZUpBNgP4FJkPA', 'D.Machine MacGiant Red D Dragon grind charts guide'),
-('3x Red Dragon step chart', 'Step chart for getting the triple red dragon grind', 'Article', 'https://docs.google.com/spreadsheets/d/1y-Afxk2xXivvT_nLdQAM6ljnKKBYqTnkHeGsrFbvbkw', 'Red D Dragon grind step charts guide')
+('3x Red Dragon step chart', 'Step chart for getting the triple red dragon grind', 'Article', 'https://docs.google.com/spreadsheets/d/1y-Afxk2xXivvT_nLdQAM6ljnKKBYqTnkHeGsrFbvbkw', 'Red D Dragon grind step charts guide'),
+('Need for Speed (Modifiers)', 'A chart for how fast and slow alter the effective Relative Agility in battle', 'Article', 'https://docs.google.com/spreadsheets/d/1FeeL7GnBnaGdvbeUgmpj9HjwQW4QfpINAdPNugNSOgM', 'RA Speed Modifier Lookup chart Fast Slow Hermes Silkweb'),
+('Tpro Treasure Probability Curves', 'Wiki page listing the tpro treasure probability curves', 'Article', 'https://wiki.ff4fe.com/doku.php?id=treasure_probability_curves', 'Treasure Probably tpro curves'),
+('Twildish Treasure Probability Curves', 'Wiki page listing the tpro treasure probability curves', 'Article', 'https://wiki.ff4fe.com/doku.php?id=treasure_probability_curves_twildish', 'Treasure Probably twildish curves'),
+('FF4 Encounter Finder', 'Simbu created a page to help in creation of any step chart', 'Article', 'https://simbu95.github.io/FF4EncounterFinder/', 'Encounter Seed Finder Step Route Chart'),
+('Wiki: Useful Tools', 'The wiki page with links to lots of useful tools, including trackers and lookup spreadsheets', 'Article', 'https://wiki.ff4fe.com/doku.php?id=useful_tools', 'Useful tools trackers autotrackers lookup charts'),
+('Wiki: Enemy List', 'Wiki page with links to all the enemy scripts and information. Stats are for vanilla locaitons.', 'Article', 'https://wiki.ff4fe.com/doku.php?id=enemy_list', 'Enemy List Scripts'),
+('FF4 KB: Enemy List', 'Aexoden''s Knowledge Base page for all enemy scripts and information. Stats are for vanilla, including JP and EZ Type data', 'Article', 'https://ff4kb.aexoden.com/info/monsters/', 'Enemy List Knowledge Base JP EZ Type'),
+('FE Forks', 'A listing of public forks of the FE GitHub repository', 'Article', 'https://github.com/HungryTenor/FreeEnterprise4/forks?include=active%2Cinactive%2Cnetwork&page=1&period=2y&sort_by=last_updated', 'FE Open Source Forks'),
+('FE Repository', 'The GitHub repository for open sourced Free Enterprise', 'Article', 'https://github.com/HungryTenor/FreeEnterprise4', 'GitHub Repository Free Enterprise'),
+('Wiki: FE New Flag', 'Wiki page from sgrunt listing the steps required to add a new flag to your fork of FE', 'Article', 'https://wiki.ff4fe.com/doku.php?id=dev:adding_a_new_flag', 'New Flag Open Source Help'),
+('Wiki: FE dev documentation', 'Wiki page listing some resources and links for developing your fork of FE', 'Article', 'https://wiki.ff4fe.com/doku.php?id=dev:home', 'FE Fork Documentation Help')
 ;
