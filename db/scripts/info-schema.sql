@@ -193,6 +193,8 @@ VALUES
 ('FuSoYa Level Chart', 'Level chart for FuSoYa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa_stats_raw', 'FuSoYa Stats Level Up'),
 ('FuSoYa Equipment List', 'A detailed list of equipment FuSoYa can equip', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa_equipment', 'FuSoYa Equipment'),
 ('FuSoYa Summary', 'Summary page for FuSoYa', 'Article', 'https://wiki.ff4fe.com/doku.php?id=FuSoYa', 'FuSoYa Character Summary'),
-('Thunderstruck Odin Example', 'A demonstration of using Hide to help with Thunderstruck strats', 'Video', 'https://www.twitch.tv/videos/1524671396?collection=4SYUrOKspxfvvw', 'Thunderstruck Odin Edward Hide')
-
+('Thunderstruck Odin Example', 'A demonstration of using Hide to help with Thunderstruck strats', 'Video', 'https://www.twitch.tv/videos/1524671396?collection=4SYUrOKspxfvvw', 'Thunderstruck Odin Edward Hide'),
+('Zemus Zone VI Playlist', 'The official playlist of restreams for Highway to the Zemus Zone VI', 'Video', 'https://www.youtube.com/playlist?list=PLIhBU7viDbCbskpxLzQZ7ciLMysbpO0Na', 'ZZ6 Zemus Zone Six VOD playlist youtube'),
+('FreeEnterprise YouTube Playlist Page', 'All the playlists from the FreeEnterprise YouTube channel', 'Video', 'https://www.youtube.com/@FreeEnterprise/playlists', 'VOD playlist YouTube youtube FreeEnterprise'),
+('FF4fe ATB Agility Basics', 'riversmccown covers some agility and atb basics, with a Lua script helping show normally hidden values', 'Video', 'https://www.youtube.com/watch?v=WIGOO3T-j-8&list=PLIhBU7viDbCbeBD_9Da53YxaJZ3f8UIms&index=1', 'ATB agility tutorial LUA riversmccown rivers')
 ;
