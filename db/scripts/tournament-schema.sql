@@ -17,6 +17,7 @@ create table if not exists tournament.entrants(
     id serial primary key,
     user_id text UNIQUE,
     user_name text NOT NULL,
+    twitch_name text NOT NULL,
     pronouns text DEFAULT ''
 );
 
@@ -27,9 +28,12 @@ create table if not exists tournament.registrations(
     registered_on timestamp DEFAULT now()
 );
 
-CREATE OR REPLACE VIEW tournament.tournament_registrations AS
+--Drop in case of schema change that isn't valid for CREATE OR REPLACE (e.g. specific column renames)
+DROP VIEW tournament.tournament_registrations;
+
+CREATE VIEW tournament.tournament_registrations AS
     Select 
-          t.id as tournament_id -- tournaments.id
+          t.id as tournament_id
         , t.guild_name
         , t.guild_id  
         , t.tournament_name
@@ -38,7 +42,9 @@ CREATE OR REPLACE VIEW tournament.tournament_registrations AS
         , r.entrant_id -- entrants.id
         , e.pronouns
         , e.user_id
-        , r.user_name_alias as user_name
+        , e.twitch_name
+        , e.user_name as discord_name
+        , r.user_name_alias as display_name
         , r.registered_on
     from tournament.tournaments t
     left join tournament.registrations r on t.id = r.tournament_id
