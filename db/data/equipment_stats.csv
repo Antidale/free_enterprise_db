@@ -7,12 +7,12 @@ Apollo,Weapon,Harp,98,80,0,0,0,0,15,15,0,0,15,Fire,Dragon,,,n,n,y,y,Edward,harp,
 Archer,Weapon,Bow,40,50,0,0,0,0,5,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,,3,3000
 Artemis,Weapon,Bow,80,70,0,0,0,0,10,10,10,-10,-10,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,,7,500
 Artemis,Weapon,Arrow,75,0,0,0,0,0,0,0,0,0,0,,,,Dragon,n,n,y,n,,arrow,,6,80000
-Assassin,Weapon,Dagger,29,55,0,0,0,0,5,5,5,-10,-10,KO,,,,y,y,n,n,"Edward, Rydia",dagger,,5,16000
+Assassin,Weapon,Dagger,29,55,0,0,0,0,5,5,5,-10,-10,KO,,,,y,y,n,n,"Edward, Rydia",dagger,,5,20000
 Asura,Weapon,Rod,75,75,0,0,0,0,0,0,0,15,15,Holy,White,,,n,n,n,n,"Palom, Tellah",rod,,Smith,1
 Avenger,Weapon,Sword,80,95,0,0,0,0,10,10,10,-10,-10,,,,,y,y,n,y,"Pal_Cecil, Kain",knight_sword,Overrides Crystal armor's beserk protection,7,150000
-Bandanna,Armor,Helm,0,0,3,12,1,1,5,0,5,0,0,,,,,n,n,n,n,,helmet,,4,9000
+Bandanna,Armor,Helm,0,0,3,12,1,1,5,0,5,0,0,,,,,n,n,n,n,,helmet,,4,12000
 Bard,Armor,Armor,0,0,2,10,1,0,0,0,0,0,0,,,Mute,,n,n,n,n,,clothes,,1,70
-Bl.Belt,Armor,Armor,0,0,10,30,3,2,5,0,5,0,0,,,,,n,n,n,n,,clothes,,4,14000
+Bl.Belt,Armor,Armor,0,0,10,30,3,2,5,0,5,0,0,,,,,n,n,n,n,,clothes,,4,20000
 Black,Weapon,Sword,30,90,0,0,0,0,5,5,5,5,-10,"Dark, KO",,,,y,n,n,n,DK_Cecil,dark_sword,,3,3000
 Black,Armor,Shield,0,0,2,24,0,1,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,shield,,1,400
 Black,Armor,Helm,0,0,6,0,1,1,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,helmet,,1,980
@@ -24,7 +24,7 @@ Blizzard,Weapon,Spear,77,80,0,0,0,0,0,0,0,0,0,"Air, Ice",Ice2,,,y,n,n,n,Kain,spe
 Boomerang,Weapon,Boomerang,20,80,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,Edge,boomerang,,2,3000
 Caliburn,Weapon,Sword,1,99,0,0,0,0,0,0,0,0,0,,,,,y,y,n,n,Pal_Cecil,knight_sword,,Smith,1
 Cap,Armor,Helm,0,0,1,5,1,1,0,0,0,0,0,,,,,n,n,n,n,,helmet,,1,100
-CatClaw,Weapon,Claw,0,99,0,0,0,0,5,5,0,0,0,Sleep,,,,n,n,n,n,"Edge, Yang",claw,,5,30000
+CatClaw,Weapon,Claw,0,99,0,0,0,0,5,5,0,0,0,Sleep,,,,n,n,n,n,"Edge, Yang",claw,,4,10000
 Chain,Weapon,Whip,30,55,0,0,0,0,0,0,0,0,0,Stun,,,,y,n,n,n,Rydia,whip,,1,6000
 Change,Weapon,Rod,15,50,0,0,0,0,0,0,0,5,0,,Piggy,,,n,n,n,n,"Tellah, Palom, Rydia, FuSoYa",rod,,3,8000
 Charm,Weapon,Rod,30,55,0,0,0,0,0,0,0,10,0,,Charm,,,n,n,n,n,"Tellah, Palom, Rydia, FuSoYa",rod,,5,20000
@@ -40,7 +40,7 @@ Crystal,Armor,Armor,0,0,25,0,10,6,0,0,0,0,3,,,"Blind, Mute, Pig, Mini, Frog, Ber
 Crystal Gauntlet,Armor,Hand,0,0,10,0,7,4,0,0,0,0,3,,,,Zombie,n,n,n,n,,gauntlet,,5,20000
 Crystal Ring,Armor,Hand,0,0,20,15,12,10,0,5,0,0,0,,,"Charm, Sleep, Stun",Dragon,n,n,n,n,,ring,,6,50000
 Cure,Weapon,Staff,8,50,0,0,0,0,0,0,0,0,0,,Cure1,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,,1,480
-Cursed,Armor,Hand,0,0,0,0,0,0,-15,-15,-15,-15,-15,,,Absorb,,n,n,n,n,,ring,,4,35000
+Cursed,Armor,Hand,0,0,0,0,0,0,-15,-15,-15,-15,-15,,,Absorb,,n,n,n,n,,ring,,4,66000
 Dancing,Weapon,Dagger,28,94,0,0,0,0,0,0,0,0,0,,Dancing,,,y,y,n,n,,dagger,,3,5000
 Darkness,Weapon,Sword,20,85,0,0,0,0,0,0,0,0,0,Dark,,,,y,n,n,n,DK_Cecil,dark_sword,,1,1200
 Darkness,Weapon,Arrow,20,0,0,0,0,0,0,0,0,0,0,Blind,,,,n,n,y,n,,arrow,,2,40
@@ -50,15 +50,15 @@ Darkness,Armor,Hand,0,0,3,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,DK_Cecil,gauntlet,,1,520
 Defense,Weapon,Sword,105,90,0,0,0,0,0,0,15,0,0,,,,,y,y,n,n,"Pal_Cecil, Kain",knight_sword,,6,98000
 Diamond,Armor,Shield,0,0,4,32,2,3,0,0,0,0,0,,,Bolt,,n,n,n,n,"Cid, Kain, Pal_Cecil",shield,,3,15000
 Diamond,Armor,Helm,0,0,9,0,2,2,0,0,0,0,0,,,Bolt,,n,n,n,n,"Cid, Kain, Pal_Cecil",helmet,,3,10000
-Diamond,Armor,Armor,0,0,19,0,4,2,0,0,0,0,0,,,Bolt,,n,n,n,n,"Cid, Kain, Pal_Cecil",armor,,4,40000
+Diamond,Armor,Armor,0,0,19,0,4,2,0,0,0,0,0,,,Bolt,,n,n,n,n,"Cid, Kain, Pal_Cecil",armor,,4,20000
 Diamond Gauntlet,Armor,Hand,0,0,7,0,3,3,0,0,0,0,0,,,Bolt,,n,n,n,n,"Cid, Kain, Pal_Cecil",gauntlet,,2,5000
 Diamond Ring,Armor,Hand,0,0,6,10,8,6,0,0,0,0,0,,,Bolt,,n,n,n,n,,ring,,3,4000
 Dragon,Weapon,Whip,55,75,0,0,0,0,5,5,5,-5,-5,Stun,,,Dragon,n,n,n,n,Rydia,whip,,5,31000
 Dragon,Weapon,Claw,0,90,0,0,0,0,10,0,0,0,10,Holy,,,Dragon,n,n,n,n,Yang,claw,,Smith,1
 Dragoon,Weapon,Spear,99,80,0,0,0,0,0,0,0,0,0,Air,,,Dragon,y,y,n,n,Kain,spear,,7,110000
 Dragoon,Armor,Shield,0,0,6,38,3,5,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,"Cid, Kain, Pal_Cecil",shield,,4,25000
-Dragoon,Armor,Helm,0,0,11,0,7,4,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,"Cid, Kain, Pal_Cecil",helmet,,5,30000
-Dragoon,Armor,Armor,0,0,23,0,8,5,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,"Cid, Kain, Pal_Cecil",armor,,5,50000
+Dragoon,Armor,Helm,0,0,11,0,7,4,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,"Cid, Kain, Pal_Cecil",helmet,,5,20000
+Dragoon,Armor,Armor,0,0,23,0,8,5,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,"Cid, Kain, Pal_Cecil",armor,,5,30000
 Dragoon,Armor,Hand,0,0,9,0,6,3,0,0,0,0,0,,,"Fire, Ice, Bolt",Dragon,n,n,n,n,"Cid, Kain, Pal_Cecil",gauntlet,,4,20000
 Drain,Weapon,Sword,45,50,0,0,0,0,-5,-5,-5,-5,-5,Absorb,,,"Giant, Slime, Zombie",y,y,n,n,"Pal_Cecil, Kain",knight_sword,,3,5000
 Drain,Weapon,Spear,88,22,0,0,0,0,-10,-10,-10,-10,-10,Absorb,,,"Giant, Slime, Zombie",y,y,n,n,Kain,spear,,5,12000
@@ -71,13 +71,13 @@ Fiery,Weapon,Wrench,241,85,0,0,0,0,15,15,0,15,15,Fire,Nuke,,Robot,n,n,n,y,Cid,wr
 Fire,Weapon,Sword,65,80,0,0,0,0,0,0,0,0,0,Fire,,,,y,n,n,n,"Pal_Cecil, Kain",knight_sword,,3,14000
 Fire,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Fire,,,,n,n,y,n,,arrow,,2,30
 Fire,Armor,Shield,0,0,3,28,2,2,0,0,0,0,0,,,Ice,,Y,n,n,n,,shield,,2,1250
-Fire,Armor,Armor,0,0,15,0,4,2,0,0,0,0,0,,,Ice,,Y,n,n,n,,armor,,3,30000
+Fire,Armor,Armor,0,0,15,0,4,2,0,0,0,0,0,,,Ice,,Y,n,n,n,,armor,,3,15000
 FireClaw,Weapon,Claw,0,80,0,0,0,0,0,0,0,0,0,Fire,,,,n,n,n,n,"Edge, Yang",claw,,2,350
 Flame,Weapon,Spear,66,80,0,0,0,0,0,0,0,0,0,"Air, Fire",Fire2,,,y,n,n,n,Kain,spear,,3,1100
 Flame,Weapon,Whip,50,65,0,0,0,0,5,5,5,-5,-5,"Stun, Fire",,,,n,n,n,n,Rydia,whip,,4,16000
 Flame Rod,Weapon,Rod,7,45,0,0,0,0,0,0,0,3,0,Fire,Fire1,,,n,n,n,n,"Tellah, Palom, Rydia, FuSoYa",rod,,2,380
 Flan Sword,Weapon,Sword,60,99,0,0,0,0,0,0,0,0,0,,,,Slime,y,n,n,n,Pal_Cecil,knight_sword,,Smith,1
-FullMoon,Weapon,Boomerang,40,85,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,Edge,boomerang,,5,12000
+FullMoon,Weapon,Boomerang,40,85,0,0,0,0,0,0,0,0,0,Air,,,,n,n,y,n,Edge,boomerang,,5,24000
 Gaea,Armor,Helm,0,0,3,7,5,5,0,0,0,3,3,,,,,n,n,n,n,,helmet,,3,4000
 Gaea,Armor,Armor,0,0,3,10,3,3,0,0,0,0,0,,,Calcify 1&2,,n,n,n,n,,clothes,,2,2000
 Gigant,Weapon,Axe,220,75,0,0,0,0,15,0,0,0,0,Poison,,,,y,n,n,y,"Cid, Kain, Pal_Cecil",axe,,Smith,1
@@ -86,11 +86,11 @@ Godhand,Weapon,Claw,0,90,0,0,0,0,15,15,15,0,0,Holy,,,,n,n,n,n,Yang,claw,,Smith,1
 GreatBow,Weapon,Bow,30,40,0,0,0,0,3,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,,2,2000
 Gungnir,Weapon,Spear,92,80,0,0,0,0,0,0,15,0,0,Air,,,,y,y,n,n,Kain,spear,,5,66000
 HandAxe,Weapon,Axe,35,50,0,0,0,0,3,0,0,0,0,,,,,y,y,n,n,"Cid, Kain, Pal_Cecil",axe,,1,3000
-Headband,Armor,Helm,0,0,1,10,1,1,5,0,0,0,0,,,Charm,,n,n,n,n,,helmet,,3,6000
+Headband,Armor,Helm,0,0,1,10,1,1,5,0,0,0,0,,,Charm,,n,n,n,n,,helmet,,3,10000
 Heroine,Armor,Armor,0,0,20,40,5,5,15,15,15,-15,-15,,,Stun,,n,n,n,n,,clothes,,5,40000
 Ice,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Ice,,,,n,n,y,n,,arrow,,2,30
 Ice,Armor,Shield,0,0,3,30,2,2,0,0,0,0,0,,,Fire,Reptile,Y,n,n,n,,shield,,2,10000
-Ice,Armor,Armor,0,0,17,0,4,2,0,0,0,0,0,,,Fire,,Y,n,n,n,"Cid, Kain, Pal_Cecil",armor,,3,35000
+Ice,Armor,Armor,0,0,17,0,4,2,0,0,0,0,0,,,Fire,,Y,n,n,n,"Cid, Kain, Pal_Cecil",armor,,3,18000
 IceBrand,Weapon,Sword,75,80,0,0,0,0,0,0,0,0,0,Ice,,,,y,n,n,n,"Pal_Cecil, Kain",knight_sword,,4,26000
 IceClaw,Weapon,Claw,0,80,0,0,0,0,0,0,0,0,0,Ice,,,,n,n,n,n,"Edge, Yang",claw,,2,450
 Ice Rod,Weapon,Rod,5,45,0,0,0,0,0,0,0,0,0,Ice,Ice1,,Reptile,n,n,n,n,"Tellah, Palom, Rydia, FuSoYa",rod,,1,220
@@ -100,7 +100,7 @@ Iron,Armor,Helm,0,0,3,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,,helmet,,1,150
 Iron,Armor,Armor,0,0,4,0,1,0,0,0,0,0,0,,,,,Y,n,n,n,,armor,,1,600
 Iron Gauntlet,Armor,Hand,0,0,2,0,0,0,0,0,0,0,0,,,,,Y,n,n,n,,gauntlet,,1,130
 Iron Ring,Armor,Hand,0,0,2,10,2,1,0,0,0,0,0,,,,,Y,n,n,n,,ring,,1,100
-Karate,Armor,Armor,0,0,5,20,2,1,3,0,0,0,0,,,,,n,n,n,n,,clothes,,3,4000
+Karate,Armor,Armor,0,0,5,20,2,1,3,0,0,0,0,,,,,n,n,n,n,,clothes,,3,7000
 Leather,Armor,Helm,0,0,2,6,3,3,0,0,0,0,0,,,,,n,n,n,n,,helmet,,1,330
 Leather,Armor,Armor,0,0,2,10,1,1,0,0,0,0,0,,,,,n,n,n,n,,clothes,,1,200
 Legend,Weapon,Sword,40,99,0,0,0,0,0,0,0,0,3,Holy,,,,y,n,n,n,Pal_Cecil,holy_sword,,Key Item,0
@@ -110,18 +110,18 @@ Lightbringer,Weapon,Sword,255,99,0,0,0,0,15,15,15,0,0,Holy,White,,"Spirit, Zombi
 Lilith,Weapon,Rod,13,10,0,0,0,0,0,0,0,5,0,Absorb,Psych,,Zombie,n,n,n,n,"Tellah, Palom, Rydia, FuSoYa",rod,,3,8000
 Lit,Weapon,Arrow,15,0,0,0,0,0,0,0,0,0,0,Bolt,,,Robot,n,n,y,n,,arrow,,2,30
 Loki,Weapon,Harp,150,99,0,0,0,0,15,15,15,0,0,,"Dragon, Robot, Reptile, Spirit, Giant, Mage, Zombie",,,n,n,y,y,Edward,harp,,Smith,1
-Long,Weapon,Katana,40,90,0,0,0,0,0,0,0,0,0,,,,,y,n,n,n,Edge,ninja_sword,,4,11000
+Long,Weapon,Katana,40,90,0,0,0,0,0,0,0,0,0,,,,,y,n,n,n,Edge,ninja_sword,,4,22000
 Lunar,Weapon,Staff,36,60,0,0,0,0,0,0,0,0,10,,,,,n,n,n,n,"Tellah, Rosa, Porom, FuSoYa, Kydia",staff,,5,30000
-Masamune,Weapon,Katana,65,99,0,0,0,0,0,3,0,0,0,,Fast,,,y,y,n,n,Edge,ninja_sword,,7,106000
+Masamune,Weapon,Katana,65,99,0,0,0,0,0,3,0,0,0,,Fast,,,y,y,n,n,Edge,ninja_sword,,7,88000
 Medusa,Weapon,Arrow,1,0,0,0,0,0,0,0,0,0,0,Petrify,,,,n,n,y,n,,arrow,,3,1250
 Medusa (removed from FE),Weapon,Sword,77,66,0,0,0,0,0,0,0,0,0,Calcify 2,,,,y,y,n,n,Pal_Cecil,knight_sword,,Removed,0
 Middle,Weapon,Katana,32,90,0,0,0,0,0,0,0,0,0,,,,,y,n,n,n,Edge,ninja_sword,,3,7000
 Mist Whip,Weapon,Whip,100,75,0,0,0,0,0,0,0,15,0,"Holy, Paralyze",,,,n,n,y,n,Rydia,whip,,Smith,1
-Murasame,Weapon,Katana,55,90,0,0,0,0,5,-5,5,5,-5,,,,,y,y,n,n,Edge,ninja_sword,,6,93000
-Mute,Weapon,Dagger,35,75,0,0,0,0,0,0,0,5,0,Mute,,,Mage,y,y,n,n,,dagger,,4,10000
+Murasame,Weapon,Katana,55,90,0,0,0,0,5,-5,5,5,-5,,,,,y,y,n,n,Edge,ninja_sword,,6,66000
+Mute,Weapon,Dagger,35,75,0,0,0,0,0,0,0,5,0,Mute,,,Mage,y,y,n,n,,dagger,,4,15000
 Mute,Weapon,Arrow,35,0,0,0,0,0,0,0,0,0,0,Mute,,,Mage,n,n,y,n,,arrow,,3,100
 Mutsono,Weapon,Katana,100,99,0,0,0,0,10,0,0,10,0,,Blink,,,y,y,n,n,Edge,ninja_sword,,Smith,1
-Ninja,Weapon,Katana,48,90,0,0,0,0,5,0,0,0,0,,,,,y,y,n,n,Edge,ninja_sword,,5,66000
+Ninja,Weapon,Katana,48,90,0,0,0,0,5,0,0,0,0,,,,,y,y,n,n,Edge,ninja_sword,,5,44000
 Ninja,Weapon,Throwable,80,99,0,0,0,0,0,0,0,0,0,Air,,,,y,y,y,n,,shuriken,,5,10000
 Ninja,Armor,Helm,0,0,5,14,1,1,3,3,3,0,0,,,Sleep,,n,n,n,n,,helmet,,5,25000
 Ninja,Armor,Armor,0,0,24,70,15,8,0,3,0,0,0,,,,,n,n,n,n,"Edge, Yang",clothes,,5,50000
@@ -150,8 +150,8 @@ RuneAxe,Weapon,Axe,100,60,0,0,0,0,0,0,0,0,0,,,,Mage,y,n,n,n,"Cid, Kain, Pal_Ceci
 Samurai,Weapon,Bow,60,60,0,0,0,0,10,0,0,0,0,Air,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",bow,,5,17000
 Samurai,Weapon,Arrow,50,0,0,0,0,0,0,0,0,0,0,,,,,n,n,y,n,"Pal_Cecil, Rosa, Rydia, Porom, Edward, Cid, Tellah, FuSoYa",arrow,,5,140
 Samurai,Armor,Shield,0,0,5,36,3,4,0,0,0,0,0,,,,,Y,n,n,n,"Cid, Kain, Pal_Cecil",shield,,4,20000
-Samurai,Armor,Helm,0,0,10,0,6,3,0,0,0,0,0,,,,,n,n,n,n,"Cid, Kain, Pal_Cecil",helmet,,4,20000
-Samurai,Armor,Armor,0,0,21,0,7,4,0,0,0,0,0,,,,,n,n,n,n,"Cid, Kain, Pal_Cecil",armor,,4,40000
+Samurai,Armor,Helm,0,0,10,0,6,3,0,0,0,0,0,,,,,n,n,n,n,"Cid, Kain, Pal_Cecil",helmet,,4,15000
+Samurai,Armor,Armor,0,0,21,0,7,4,0,0,0,0,0,,,,,n,n,n,n,"Cid, Kain, Pal_Cecil",armor,,4,20000
 Samurai,Armor,Hand,0,0,8,0,5,3,0,0,0,0,0,,,,,n,n,n,n,"Cid, Kain, Pal_Cecil",gauntlet,,3,10000
 Sasuke,Weapon,Katana,95,99,0,0,0,0,0,10,10,0,0,,,,,y,y,n,n,Edge,ninja_sword,,Smith,1
 Scrap Metal,Weapon,Throwable,4,99,0,0,0,0,0,0,0,0,0,,,,,y,y,n,n,,shuriken,,Smith,1
