@@ -8,6 +8,7 @@ create table if not exists tournament.tournaments(
     tracking_message_id text not null,
     role_id text not null,
     tournament_name text not null,
+    rules_link text DEFAULT '',
     registration_start timestamptz,
     registration_end timestamptz,
     UNIQUE(guild_id, tournament_name)
