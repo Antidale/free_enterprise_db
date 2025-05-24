@@ -5,3 +5,5 @@ create schema if not exists stats;
 create schema if not exists locations;
 create schema if not exists encounters;
 create schema if not exists equipment;
+create schema if not exists races;
+create schema if not exists seeds;
