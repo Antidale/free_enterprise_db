@@ -125,3 +125,18 @@ create table equipment.armor (
 	, status_protected text[]
 )
 inherits (equipment.base);
+
+create table seeds.rolled_seeds (
+	id serial primary key,
+	user_id text not null,
+	flagset text not null,
+	link text not null,
+	fe_version text not null,
+	seed text not null,
+	verification text not null
+);
+
+create table seeds.saved_html (
+	rolled_seed_id int references seeds.rolled_seeds(id),
+	patch_html text not null
+);
