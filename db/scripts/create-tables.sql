@@ -134,9 +134,37 @@ create table seeds.rolled_seeds (
 	fe_version text not null,
 	seed text not null,
 	verification text not null
+	logged_on timestamp DEFAULT now()
 );
 
 create table seeds.saved_html (
 	rolled_seed_id int references seeds.rolled_seeds(id),
 	patch_html text not null
+);
+
+create table races.race_detail (
+	id serial primary key,
+	room_name text not null,
+	race_type text not null,
+	race_host text not null,
+	/* things like 
+		Description (from racetime), 
+		opened by (both, although racetime will have racingway's id unless it was opened via discord),
+		Blame (that people could add)
+		team composition ?
+	*/
+	πmetadata jsonb not null
+);
+
+create table races.racers (
+	id serial primary key,
+	user_id text not null,
+	display_name text not null
+);
+
+create table races.race_entrants (
+	race_id int references races.race_detail(id),
+	entrant_id int references races.racers(id),
+	finish_time time,
+	racer_comment text
 );
