@@ -153,7 +153,7 @@ create table races.race_detail (
 		Blame (that people could add)
 		team composition ?
 	*/
-	πmetadata jsonb not null
+	metadata jsonb not null
 );
 
 create table races.racers (
