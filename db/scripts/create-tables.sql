@@ -126,22 +126,6 @@ create table equipment.armor (
 )
 inherits (equipment.base);
 
-create table seeds.rolled_seeds (
-	id serial primary key,
-	user_id text not null,
-	flagset text not null,
-	link text not null,
-	fe_version text not null,
-	seed text not null,
-	verification text not null
-	logged_on timestamp DEFAULT now()
-);
-
-create table seeds.saved_html (
-	rolled_seed_id int references seeds.rolled_seeds(id),
-	patch_html text not null
-);
-
 create table races.race_detail (
 	id serial primary key,
 	room_name text not null,
@@ -167,4 +151,21 @@ create table races.race_entrants (
 	entrant_id int references races.racers(id),
 	finish_time time,
 	racer_comment text
+);
+
+create table seeds.rolled_seeds (
+	id serial primary key,
+	user_id text not null,
+	flagset text not null,
+	link text not null,
+	fe_version text not null,
+	seed text not null,
+	verification text not null,
+	race_id int references races.race_detail(id);
+	logged_on timestamp DEFAULT now()
+);
+
+create table seeds.saved_html (
+	rolled_seed_id int references seeds.rolled_seeds(id),
+	patch_html text not null
 );
