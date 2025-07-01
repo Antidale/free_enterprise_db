@@ -50,13 +50,14 @@ sh build.sh
 ## Requirements
 * postgres
 * psql in your PATH
-* build.sh is marked as executable (`chmod +x build.sql`)
+* `build.sh` or `init.sh` is marked as executable (`chmod +x build.sql`)
+  * use `init.sh` as part of your process if you're running from a `docker-compose.yml` or similar container structure, as you can more easily pass values into the script with `--host`, `--db`, and `--user`, rather than relying on environment variables. I will probably consolidate the scripts at some point.
 * A database user with the CREATEDB role. Preferably not the SUPERUSER for the instance
 * the following environment variables:
 	* $FE_PGDATABASE
 	* $FE_PGUSER
 	* $FE_PGHOST
-* a .pg-pass file that supplies the password for the user you're signing in with.
+* a `.pg-pass` or `.pgpass` file that supplies the password for the user you're signing in with, or if in a purely test environment, not setting a password for the user
 * the port is currently assumed to be the standad port of postgres
 
 ### Additional Help with postgres
