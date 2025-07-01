@@ -1,0 +1,18 @@
+version: "3.8"
+services:
+  db:
+    image: fe_db
+    container_name: fe_db
+    build:
+      context: .
+      target: db
+    environment:
+      POSTGRES_USER: fe_user
+      POSTGRES_DB: freeenterprise
+      POSTGRES_PASSWORD: dev_test
+    volumes:
+      - fe_db_data:/var/lib/postgresql/data/
+    ports:
+      - "5432:5432"
+volumes:
+  fe_db_data:
