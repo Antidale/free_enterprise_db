@@ -161,7 +161,7 @@ create table seeds.rolled_seeds (
 	fe_version text not null,
 	seed text not null,
 	verification text not null,
-	race_id int references races.race_detail(id);
+	race_id int references races.race_detail(id),
 	logged_on timestamp DEFAULT now()
 );
 
