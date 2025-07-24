@@ -128,7 +128,7 @@ inherits (equipment.base);
 
 create table races.race_detail (
 	id serial primary key,
-	room_name text not null,
+	room_name text not null unique,
 	race_type text not null,
 	race_host text not null,
 	/* things like 
@@ -157,7 +157,7 @@ create table seeds.rolled_seeds (
 	id serial primary key,
 	user_id text not null,
 	flagset text not null,
-	link text not null,
+	link text not null unique,
 	fe_version text not null,
 	seed text not null,
 	verification text not null,
