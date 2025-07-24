@@ -162,7 +162,10 @@ create table seeds.rolled_seeds (
 	seed text not null,
 	verification text not null,
 	race_id int references races.race_detail(id),
-	logged_on timestamp DEFAULT now()
+	logged_on timestamp DEFAULT now(),
+	flagset_search tsvector generated always as (
+        to_tsvector('simple',replace(flagset, '/', ' '))
+    ) stored
 );
 
 create table seeds.saved_html (
