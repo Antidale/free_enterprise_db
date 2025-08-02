@@ -151,6 +151,8 @@ create table if not exists races.race_detail (
 	metadata jsonb not null
 );
 
+create index idx_desc on races.race_detail using btree ((metadata ->> 'Description'));
+
 create table if not exists races.racers (
 	id serial primary key,
 	user_id text not null,
@@ -173,8 +175,14 @@ create table seeds.rolled_seeds (
 	seed text not null,
 	verification text not null,
 	race_id int references races.race_detail(id),
-	logged_on timestamp DEFAULT now()
+	logged_on timestamp DEFAULT now(),
+	flagset_search tsvector generated always as (
+        to_tsvector('simple',replace(flagset, '/', ' '))
+    ) stored,
+	binary_flags text default ''
 );
+
+create index idx_bin_flags on info.guides using btree(search);
 
 create table seeds.saved_html (
 	rolled_seed_id int references seeds.rolled_seeds(id),
