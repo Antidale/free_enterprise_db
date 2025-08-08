@@ -144,16 +144,33 @@ create index idx_desc on races.race_detail using btree ((metadata ->> 'Descripti
 
 create table races.racers (
 	id serial primary key,
-	user_id text not null,
-	display_name text not null
+	discord_id text default '',
+	discord_display_name text default '',
+	racetime_display_name text default '',
+	racetime_id text default '',
+	twitch_name text default ''
 );
+
+create index idx_racetime_name on races.racers using btree(racetime_display_name);
+create index idx_racetime_id on races.racers using btree(racetime_id);
+create index idx_twitch_name on races.racers using btree(twitch_name);
 
 create table races.race_entrants (
 	race_id int references races.race_detail(id),
 	entrant_id int references races.racers(id),
-	finish_time time,
-	racer_comment text
+	finish_time interval,
+	placement smallint,
+	/*
+		for racetime, will have things like:
+		comment (if present)
+		points change
+		status (finished/cancelled/dq probably?)
+	*/
+	metadata jsonb
 );
+
+create index idx_race_id on races.race_entrants using btree(race_id);
+create index idx_entrant_id on races.race_entrants using btree(entrant_id);
 
 create table seeds.rolled_seeds (
 	id serial primary key,
