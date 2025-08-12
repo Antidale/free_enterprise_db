@@ -131,6 +131,7 @@ create table races.race_detail (
 	room_name text not null unique,
 	race_type text not null,
 	race_host text not null,
+	ended_at TIMESTAMP WITH TIME ZONE,
 	/* things like 
 		Description (from racetime), 
 		opened by (both, although racetime will have racingway's id unless it was opened via discord),
@@ -151,9 +152,9 @@ create table races.racers (
 	twitch_name text default ''
 );
 
-create index idx_racetime_name on races.racers using btree(racetime_display_name);
-create index idx_racetime_id on races.racers using btree(racetime_id);
-create index idx_twitch_name on races.racers using btree(twitch_name);
+create index idx_racetime_name_lower on races.racers using btree(lower(racetime_display_name));
+create index idx_racetime_id_lower on races.racers using btree(lower(racetime_id));
+create index idx_twitch_name_lower on races.racers using btree(lower(twitch_name));
 
 create table races.race_entrants (
 	race_id int references races.race_detail(id),
@@ -188,8 +189,8 @@ create table seeds.rolled_seeds (
 	binary_flags text default ''
 );
 
-create index idx_bin_flags on info.guides using btree(search);
-create index idx_flagset_search on info.guides using GIN(search);
+create index idx_bin_flags on seeds.rolled_seeds using btree(binary_flags);
+create index idx_flagset_search on seeds.rolled_seeds using GIN(flagset_search);
 
 create table seeds.saved_html (
 	rolled_seed_id int references seeds.rolled_seeds(id),
