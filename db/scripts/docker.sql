@@ -136,7 +136,7 @@ inherits (equipment.base);
 
 create table if not exists races.race_detail (
 	id serial primary key,
-	room_name text not null,
+	room_name text not null unique,
 	race_type text not null,
 	race_host text not null,
 	ended_at TIMESTAMP WITH TIME ZONE,
