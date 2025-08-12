@@ -185,7 +185,7 @@ create table seeds.rolled_seeds (
 	id serial primary key,
 	user_id text not null,
 	flagset text not null,
-	link text not null,
+	link text not null unique,
 	fe_version text not null,
 	seed text not null,
 	verification text not null,
