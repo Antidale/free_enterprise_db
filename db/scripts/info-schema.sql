@@ -196,5 +196,7 @@ VALUES
 ('D2T Rules Doc', 'Doorway To Tomorrow side tournament rules document', 'https://docs.google.com/document/d/1J8t6vjcPptrqd5SRwaCpEkuAZ-uoMiIeMqJFmFEGhdY/', 'Article', 'Tournament Rules Document D2T Doorway To Tomorrow Side Tournament'),
 ('Penguin8r vs ZZ1 Rules Doc ', 'Penguin8r performs the 64 floor glitch during a Zemus Zone 1 race', 'https://youtu.be/CGprbT1ahro?si=VGtFOFD2wJqm8Ull&t=3987', 'Video', 'ZZ1 Penguin8r 64 glitch'),
 ('100k seed KI placements', 'A spreadsheet with 100k spoiler logs analyzed for multiple flagsets', 'https://docs.google.com/spreadsheets/d/1IzvTW7YT2teP5NvhAOkZ3PRJCqFg1E-gu4TbBjJODw0', 'Article', '100,000 100000 100k spoiler analysis'),
-('AFC Rules Doc', 'All Forked Cup tournament rules document', 'https://docs.google.com/document/d/1O3Kr5gB0niU2KCArtXzjmnCmFFEBwgVA7Nas7FIGANM', 'Article', 'AFC Butt Fumble Rules Document Team Tournament ACE FBF ZZA')
+('AFC Rules Doc', 'All Forked Cup tournament rules document', 'https://docs.google.com/document/d/1O3Kr5gB0niU2KCArtXzjmnCmFFEBwgVA7Nas7FIGANM', 'Article', 'AFC Butt Fumble Rules Document Team Tournament ACE FBF ZZA'),
+('Free Enterprise Timings', 'A broad array of the time various things take in FE. A companion to Checks In Time', 'https://docs.google.com/spreadsheets/d/1S3dlcDVXSbAG7YAiw8vThOqt_664CCLvPBBBV3msI7A/edit', 'Article', 'Check Timings How Long Exit Giant PB2J Time')
+
 ;
