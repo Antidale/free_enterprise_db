@@ -887,7 +887,7 @@ The Milon Z and Kainazzo forms both use a Chain to set their resists/weakness/tr
 ),
 
 (
-    'CPU', 'CU.png','https://wiki.ff4fe.com/doku.php?id=CPU'
+    'CPU', 'CPU.png','https://wiki.ff4fe.com/doku.php?id=CPU'
     , '### Fight Flow
 The Attacker always uses Maser, which deals 10% of each target''s HP in damage. The Defender always uses Remedy on the CPU, which heals it for 10% of the CPU''s total health. The CPU will cast Wall when it doesn''t have a Wall up. If both the Attacker and Defender are dead, the CPU will use Globe 199 twice, then resurrect the Attacker and Defender.'
     , '### Strats
