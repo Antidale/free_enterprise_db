@@ -153,7 +153,7 @@ At high physical damage spots, tossing an HrGlass to stop the Ghasts, and then f
 (
     'Milon Z.', 'MilonZ.png','https://wiki.ff4fe.com/doku.php?id=milon_z'
     , '### Fight Flow
-Milon Z''s only damage comes from Fight, which can proc the Curse status effect.'
+Milon Z''s only damage comes from Fight, which can proc the Poison status effect.'
     , '### Strats
 As standard for physical fights, Blink/Illusion/MoonVeil are all great defense options. Milon Z''s Undead trait means that Cure magic/potions cause harm. At low HP spots, Cure2 pots possibly do better damage than your party''s normal attacks, and a Cure3 or two can really speed up the fight. Don''t toss Elixirs.'
     , '### Additional Notes
@@ -432,7 +432,7 @@ Rubicant generally uses single-target damage, so underleveled parties can look t
 {
     "Damage Types": "Physical, Fire (Glare, Fire2)",
     "Resist": "Fire Absorb (until first cloak opening), Berserk, Ice Absorb (cloak closed)",
-    "Weakness": "Ice (4x, cloak open)",
+    "Weakness": "Spells/Items: Ice (4x cloak open), Weapons: Ice (4x after cloak first opens)",
     "Boss Bit": "Yes"
 }'::jsonb
 ),
@@ -470,7 +470,7 @@ The Milon Z and Kainazzo forms both use a Chain to set their resists/weakness/tr
 {
     "Damage Types": "Milon: Physical, Rubicant: Fire, Kainazzo: Physical, Untyped Magic (Big Wave), Valvalis: Physical",
     "Resist": "Milon: Absorbs: Ice, Holy*, Dark, Lightning, Air, Rubicant: Absorbs: Fire, Holy, Dark, Lightning, Air, Kainazzo: Absorbs: Fire, Ice, Dark, Holy, Air, Valvalis: None",
-    "Weakness": "Milon: Fire (4x), Rubicant: Ice (4x), Kainazzo: Thunder (4x), Valvalis: Thunder (4x), Holy (4x)",
+    "Weakness": "Milon: Fire (4x), Rubicant: Ice (4x), Kainazzo: Thunder (4x), Valvalis: Thunder (4x), Holy (2x)",
     "Trait": "Milon: Undead, Rubicant: Mage",
     "Boss Bit": "Yes",
     "Additional Links": "[Kainazzo/Val](<https://wiki.ff4fe.com/doku.php?id=elements_kainazzo_val>)"
@@ -543,7 +543,7 @@ Leviatan goes through a cycle of chaining together changing form and using Big W
     , '### Strats
 This fight is generally not much to worry about if you have decent healing. Zerkers are happy to zerk, Black Mages can cast the standard array of spells (best of Virus, Quake, Nuke) or also choose to add in their Lit spells. At high magic locations those Ice2s can really hurt, so using a StarVeil is definitely a solid choice to help get through a fight.'
     , '### Additional Notes
-The Lightning weakness being 2x means that Yang''ll get a bigger increase over Edge in equipping a Thunder claw. If you have both on your team, the other equipment will decide who should get it. Edge with pretty mismatched katanas, think Masa/Long or Ninja/Short, will be very happy to replace the weaker blade with a Thunder claw.'
+The Lightning weakness being 2x, instead of the 4x of Octomamm or Odin means that Yang’s damage formula generally benefits more from having a Thunder claw. An Edge with notably mismatched weapons, perhaps with Masamune/Short, might make you re-evaluate, should both characters be in your party.'
     , '
 {
     "Damage Types": "Untyped Magic, Ice",
@@ -637,7 +637,7 @@ Using Fight alternatives (Power, Jump, Aim, Dart) for melee-heavy parties is sta
 
 At many locations, using berserk status can be a highly RNG dependent strategy, even when wielding a Crystal sword or Dragon-killing weaponry. Before applying the angry juice, consider your party''s ability to supplement that damage, or perhaps only berserk after some other foundational non-Fight damage has been applied; you''re looking to reduce the amount of Virus or Flame damage directed your way to a survivable amount. Dragoon Spears, Artemis Arrows, and the Dragon whip also can change the calculation, although do so to a lesser degree.'
     , '### Additional Notes
-Low level parties (and in locations with either high Magic attack, high HP, or both) will consider Walls to reflect the Breath spell back on the enemies. A D.Lunar who has been hit by the Breath cannot use magic, will do at most 1 point of damage with physical attacks, and suffers great defensive penalties. Should the reflected Breath only attack one of the D.Lunars, you can still take great advantage of Frog Strats by Fighting the frog, since the attacked enemy is the one that uses the Wall reaction. After that initial triggering of the Virus script, any focus fire should be done to the non-frog enemy first.'
+Low level parties (and in locations with either high Magic attack, high HP, or both) will consider Walls to reflect the Breath spell back on the enemies. A D.Lunar who has been hit by the Breath cannot use magic, will do at most 1 point of damage with physical attacks, and will take double damage from attacks. Should the reflected Breath only attack one of the D.Lunars, you can still take great advantage of Frog Strats by Fighting the frog, since the attacked enemy is the one that uses the Wall reaction. After that initial triggering of the Virus script, any focus fire should be done to the non-frog enemy first.'
     , '
 {
     "Damage Types": "Physical, Fire Magic",
@@ -651,7 +651,7 @@ Low level parties (and in locations with either high Magic attack, high HP, or b
     , '### Fight Flow
 The fight begins with two Big Waves chained together, taking away 50% of the party''s max HP right away. Ogopogo will then Fight on three consecutive turns, use Big Wave a single time, and then fight on two more turns, and then returns to the beginning of the fight (the double Big Wave).
 
-Ogopogo will counter most uses of magic and all Calls with Blaze, a Ice-based attack that deals 20% Max HP damage to the party. The exception is Lightning-based magic, which elicits a single-target Weak cast. Twin causes no reactions.'
+Ogopogo will counter most uses of magic and all Calls with Blaze, a Ice-based attack that deals 25% Max HP damage to the party. The exception is Lightning-based magic, which elicits a single-target Weak cast. Twin causes no reactions.'
     , '### Strats
 The counters Ogopogo uses means that most strategies lean heavily on berserked characters. Mages should look to bouncing spells off of a Wall, and Rydia generally will avoid using the Call ability. Blink/Illusion is important to get going early, but you will need some healing as well if the fight goes long enough that the script rolls back around to the start of the script. You''ll also want to keep an idea of where the fight is in the script if you are thinking of using non-Life2 resurrection, since a Big Wave is almost certain to render Life1/Life potions useless, unless you''ve timed other healing on the target.'
     , '### Additional Notes
